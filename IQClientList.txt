@@ -1,21 +1,21 @@
 _3000IQPlay's Client List
 _____________________________________________________
 Paragon - https://github.com/Wolfsurge/Paragon
-Wurst+2 - https://github.com/WurstPlus/wurstplus-two
-Wurst+3 - https://github.com/WurstPlus/wurst-plus-three
-Wurst- - https://github.com/TheReal3rd/WurstMinus-Public
-ImpHack - https://github.com/3000IQPlay/Anti-ImpHack
+Wurst+2 / WurstPlusTwo - https://github.com/WurstPlus/wurstplus-two
+Wurst+3 / WurstPlusThree - https://github.com/WurstPlus/wurst-plus-three
+Wurst- / WurstMinus - https://github.com/TheReal3rd/WurstMinus-Public
+ImpHack - https://github.com/SaberAspect/ImpHax
 HitlerHax - https://github.com/Yaimsputnik5/HitlerHax-Leak
 Cosmos - https://github.com/momentumdevelopment/cosmos
 Momentum - https://github.com/momentumdevelopment/momentum
-GameSense - https://github.com/IUDevman/gamesense-client
-GameSense++ - https://github.com/TechAle/gsplusplus
+GameSense / GS - https://github.com/IUDevman/gamesense-client
+GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus - https://github.com/TechAle/gsplusplus
 Postman - https://github.com/srgantmoomoo/postman
-Postamn++ - https://github.com/srgantmoomoo/postmanplusplus
+Postamn++ / PostmanPlusPlus - https://github.com/srgantmoomoo/postmanplusplus
 Zispanos - https://github.com/zispanos/Zispanos-Backdoor-Rewrite
 Ruby - https://github.com/RealzPrestige/Ruby
 Fire - https://github.com/RealzPrestige/fire
-Houdini.cc - https://github.com/Intel-i80486-DX4/houdini.cc
+Houdini.cc - https://github.com/Intel-i80486-DX4/houdini.cc // https://github.com/Versues/Houdini.cc-1.0.4
 LeuxBackdoor - https://github.com/accessmodifier364/LeuxBackdoor
 Catalyst - https://github.com/GentlemanMC/Catalyst // 
 Uranium - https://github.com/maywr/uranium
@@ -29,8 +29,9 @@ Sushi.cc v2 - https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID
 Phobos Lite - https://github.com/WarriorCrystal/PhobosLite
 Atrium - https://github.com/3000IQPlay/Atrium
 Zirconium - https://github.com/3000IQPlay/Zirconium-1.3.2
-Candy+ - https://github.com/Canonball40x/Candy-plus-src // https://github.com/3000IQPlay/CandyPlus-Cracked
-Candy++ - https://github.com/cocoapc911/candy-plus-plus
+Candy - https://github.com/3000IQPlay/CANDY-0.0.8-BUILDABLE_SRC
+Candy+ / CandyPlus- https://github.com/Canonball40x/Candy-plus-src // https://github.com/3000IQPlay/CandyPlus-Cracked
+Candy++ / CandyPlusPlus - https://github.com/cocoapc911/candy-plus-plus
 ColaHack - https://github.com/CumHax/ColaHack
 CatClient - https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass
 Notorious - https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0
@@ -42,7 +43,7 @@ ApeHax - https://github.com/Team-Kedy/ApeHax
 Demise - https://github.com/kisman2000/Demise-0.1.5-beta-Ratted
 Zenith - https://github.com/The-Gopro336-Archive/Zenith-Public
 Zinc - https://github.com/BigJayMuffinSkidsShit/Zinc-0.1
-OyVeyPlus - https://github.com/BigJayMuffinSkidsShit/OyVeyPlus
+OyVey+ / OyVeyPlus - https://github.com/BigJayMuffinSkidsShit/OyVeyPlus
 RerHack.club - https://github.com/BigJayMuffinSkidsShit/RerHack.club
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
 Pyro - https://github.com/PlutoSolutions/Pyro
@@ -58,12 +59,12 @@ Tensor - https://github.com/IUDevman/Tensor
 BobrWare - https://anonfiles.com/n6Bcy3wey5/BoberWareFree_rar
 Arsie - https://github.com/maywr/arsie-mod-beta
 WOO - https://github.com/maywr/WOO-Buildable
-TrollGod - https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code
+TrollGod.cc / RealthClient - https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod
 FireWork - https://github.com/maywr/Firework
 MaywrWare - https://github.com/maywr/maywrware
 711.club - https://github.com/master7720/711.club
 JorgitoHack - https://github.com/BebSxy/JorgitoHack
-C.U.M Fusion - https://github.com/BebSxy/C.U.M-Fusion-1.6.9
+C.U.M Fusion / CUM Fusion - https://github.com/BebSxy/C.U.M-Fusion-1.6.9
 Cascade - https://github.com/VenuzWeeb/Cascade-SRC-Leak
 SexMaster.cc - https://github.com/AnotherNoName/SexMaster.CC
 Tesla - https://github.com/AnotherNoName/Tesla-SRC
@@ -71,13 +72,13 @@ Europa - https://github.com/SkidFxcte/Europa-Buildable-Source
 CousinWare - https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated
 LavaHack / Kisman.cc - https://github.com/TheKisDevs/LavaHack-Public
 Lynx - https://github.com/Based-devs/Lynx
-CatClient+ / ThighWare - https://github.com/kisman2000/CatClientPlus-aka-ThighWare
+CatClient+ / CatClientPlus / ThighWare - https://github.com/kisman2000/CatClientPlus-aka-ThighWare
 Bobr - https://github.com/kisman2000/Bobr-Client-0.0.9
 SHGR - https://github.com/KamiSkidder/shgr-client
 Kami Blue - https://github.com/kami-blue/client
 KAMI - https://github.com/zeroeightysix/KAMI
 Lambda - https://github.com/lambda-client/lambda
-RailHack - https://github.com/kisman2000/RailHack-Ratted
+RailHack - https://github.com/kisman2000/RailHack-Ratted // https://github.com/3000IQPlay/RailHack-0.5.9-Src
 RenoSense - https://github.com/Sjnez613/RenoSense-Rewrite
 Toxic.club - https://github.com/iBikky/toxic.club
 Kami++ / KamiPlusPlus - https://github.com/GentlemanMC/Kamipp
@@ -87,7 +88,7 @@ Kami5 / KamiFive - https://github.com/DriftyDev/CLEAN_Kami5-1.8-BUILDABLE_SRC
 GeraldHack - https://github.com/GentlemanMC/Geraldhack-1.69.3-BUILDABLE-SRC // https://github.com/gerald0mc/Gerald-Hack-2.0
 FamilyFunPack - https://github.com/anOtherAnalyse/FamilyFunPack
 Violet - https://github.com/noatmc/violet
-FencingF+2 - https://github.com/FencingF/FencingFPlusTwo
+FencingF+2 / FencingFPlusTwo - https://github.com/FencingF/FencingFPlusTwo
 SalHackSkid - https://github.com/pleasegivesource/SalHackSkid
 Delta - https://github.com/noatmc/delta
 Summit - https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit
@@ -156,7 +157,7 @@ Meteor - https://github.com/MeteorDevelopment/meteor-client // https://meteorcli
 Spark - https://github.com/Spark-Client-Development/Spark-Client
 Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Hydra - https://hydraclient.com
-TaterGod - https://github.com/RealzPrestige/TaterGod-Leak
+TaterGod.cc - https://github.com/RealzPrestige/TaterGod-Leak
 Banzem - https://github.com/yunusborazan/Banzem-Client
 Indium.cc - https://github.com/OfficialMohalk/Indium.cc
 Orion - https://github.com/AntiCope/orion
@@ -183,7 +184,7 @@ Silence - https://github.com/chris2rich/SilenceClient
 thesame.space - https://github.com/oyzipfile/thesame-space
 Rich - https://github.com/decausedinside/Rich-Client-Free-Source-Code
 BloomWare - https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite
-Raion - https://github.com/Ropro2002/raion-public // https://github.com/IllegalException/Raion
+Raion - https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion
 JexClient - https://github.com/DustinRepo/JexClient
 Reverse - https://github.com/PlutoSolutions/ReverseClient
 Ket - https://github.com/oyzipfile/ket-public
@@ -202,6 +203,7 @@ Hydrogen - https://github.com/zPeanut/Hydrogen
 HyghLand.cc - https://github.com/chris2rich/highland.cc
 ListedHack - https://github.com/chris2rich/ListedHack
 Trinity+ / TrinityPlus - https://github.com/ssllllll/TrinityPlus-PWNED
+Trinity - https://github.com/LeonLeonPotato/Trinity
 MelonHack+ / MelonHackPlus - https://github.com/chris2rich/melonhack-plus
 DeadCode - https://github.com/PlutoSolutions/DeadCode
 WeepCraft - https://github.com/PlutoSolutions/WeepCraft
@@ -267,7 +269,6 @@ Sushi - https://github.com/Toshimichi0915/sushi-client
 Fira - https://github.com/cout970/FiraClient
 Sleek - https://github.com/intexception/SleekClient
 AClient - https://github.com/KuromeSan/a1.2.2b-hacked-client
-RealthClient - https://github.com/kucukam/RealthClient-TrollGod
 CakeClient - https://github.com/GandelXIV/Cake-client
 Mirai - https://github.com/kylerittenhause/mirai-client-decompiled
 Client - https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0
@@ -287,14 +288,16 @@ Cebulionware.NEXT - https://github.com/0x4d65/Cebulionware.NEXT
 MonkeyClient - https://github.com/TheDarkLach/monke-client
 KeKWClient - https://github.com/VortexHFM/KekW-Client
 Morgen.cc - https://github.com/3000IQPlay/morgen.cc
-Crepe - https://github.com/KamiSkidder/creepe // https://github.com/cocoapc911/crepe-client-public
+Crepe - https://github.com/3000IQPlay/Crepes-deobf // https://github.com/cocoapc911/crepe-client-public
+Sweet / Sweet+ / SweetPlus - https://github.com/3000IQPlay/Sweets-deobf
 GodClient - https://github.com/VortexHFM/God-Client
 Moloch - https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su
-Orangatte - https://github.com/cocoapc911/Orangatte-Client-Leak
+Orangette - https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette
 Stay - https://github.com/cocoapc911/StayClientCrack
-LuigiHack - https://github.com/cocoapc911/LuigiHack-Leaked_by_cocoapc911 // https://github.com/Jebacka/luigigihack
+LuigiHack - https://github.com/3000IQPlay/LuigiHacks-deobf
 Skid+ / SkidPlus - https://github.com/cocoapc911/Skid-Plus-Client
 LumaHack - https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911
+LumeMinus / Luma- - https://github.com/3000IQPlay/LumaMinus-leaked
 RatWare - https://github.com/Tr0llMode/RatWare-leak-0.4.0
 FDP - https://github.com/SkidderMC/FDPClient
 Duperman - https://github.com/JAV1F/Project-Dupermen
@@ -369,3 +372,12 @@ CheatWare - https://github.com/ZeroZipp/Cheatware
 BossWare - https://github.com/vertent/bossware-leaked
 KevinClient - https://github.com/RMCQAZ/KevinClient-1.12
 Claudius - https://github.com/Crimply/Claudius
+PGz - https://github.com/3000IQPlay/PGzClient
+TurcoHack.cc - https://github.com/3000IQPlay/TurcoHack.cc
+M3dC3t / MedCet - https://github.com/3000IQPlay/M3dC3t-leaked
+Hiassi.su - https://github.com/3000IQPlay/hiassi.su
+CrystalClient - https://github.com/3000IQPlay/crystal-client-src
+Satellite - https://github.com/SatelliteClient/Satellite
+HayBale - https://github.com/HayBaleClient/HayBale-Source
+Rift - https://github.com/3000IQPlay/Rift-Client-1.0.3-Src
+Atomic - https://github.com/19MisterX98/Atomic
