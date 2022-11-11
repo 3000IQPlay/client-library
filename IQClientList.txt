@@ -381,3 +381,4 @@ Satellite - https://github.com/SatelliteClient/Satellite
 HayBale - https://github.com/HayBaleClient/HayBale-Source
 Rift - https://github.com/3000IQPlay/Rift-Client-1.0.3-Src
 Atomic - https://github.com/19MisterX98/Atomic
+Stifle - https://github.com/BadMoXi/Stifle
