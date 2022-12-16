@@ -65,7 +65,7 @@ MaywrWare - https://github.com/maywr/maywrware
 711.club - https://github.com/master7720/711.club
 JorgitoHack - https://github.com/BebSxy/JorgitoHack
 C.U.M Fusion / CUM Fusion - https://github.com/BebSxy/C.U.M-Fusion-1.6.9
-Cascade - https://github.com/VenuzWeeb/Cascade-SRC-Leak
+Cascade - https://github.com/AnotherNoName/Cascade-0.3.7-SRC // https://github.com/AnotherNoName/Cascade-0.2.7-SRC-BUILDABLE
 SexMaster.cc - https://github.com/AnotherNoName/SexMaster.CC
 Tesla - https://github.com/AnotherNoName/Tesla-SRC
 Europa - https://github.com/SkidFxcte/Europa-Buildable-Source
@@ -75,7 +75,7 @@ Lynx - https://github.com/Based-devs/Lynx
 CatClient+ / CatClientPlus / ThighWare - https://github.com/kisman2000/CatClientPlus-aka-ThighWare
 Bobr - https://github.com/kisman2000/Bobr-Client-0.0.9
 SHGR - https://github.com/KamiSkidder/shgr-client
-Kami Blue - https://github.com/kami-blue/client
+Kamiblue - https://github.com/kami-blue/client
 KAMI - https://github.com/zeroeightysix/KAMI
 Lambda - https://github.com/lambda-client/lambda
 RailHack - https://github.com/kisman2000/RailHack-Ratted // https://github.com/3000IQPlay/RailHack-0.5.9-Src
@@ -95,14 +95,14 @@ Summit - https://github.com/THCFree/summit-client-full // https://github.com/ion
 Noat Wurst+2 / Noat WurstPlusTwo - https://github.com/kool-kuhm-klients/noat-wurstplus-two
 Elysian - https://github.com/WarriorCrystal/Elysian
 Apollo - https://github.com/IllegalException/Apollo-2.1
-HockeyWare - https://github.com/EBSmash/HockeyWare-Leak
+HockeyWare - https://github.com/0x7DB/Hockeyware-leak-again
 Reach Premium - https://github.com/VVriter/Reach-Premium-src
 Novoline - https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf
 Juul - https://github.com/jeremypelletier/juul-unlicensed // https://intent.store
 Kawaii - https://intent.store
 ZeroDay - https://intent.store
 MonSoon - https://intent.store
-Tenacity - https://intent.store // https://allahleaks.com
+Tenacity - https://intent.store // https://github.com/MrM02UA/Tenacity-Client-4.0-Eclipse-Ready
 Ketamine - https://intent.store
 Azura - https://intent.store
 Pulsive - https://intent.store
@@ -162,7 +162,7 @@ Banzem - https://github.com/yunusborazan/Banzem-Client
 Indium.cc - https://github.com/OfficialMohalk/Indium.cc
 Orion - https://github.com/AntiCope/orion
 OnePop - https://github.com/MrsRina/onepop
-OyVey - https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned
+OyVey - https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3
 Ozark - https://github.com/Trambled/OzarkClient
 Cursa - https://github.com/epsilonteam/Cursa
 Aquarius - https://github.com/epsilonteam/Aquarius
@@ -196,7 +196,7 @@ Xannax - https://github.com/The-Gopro336-Archive/Xannax-master
 Past - https://github.com/olliem5/past
 Badlion+ / BadlionPlus - https://github.com/oyzipfile/badlion-plus-SRC // https://github.com/unfidelity/badlionplus
 RockEZHack - https://github.com/oyzipfile/rockEZHack
-Aurora - https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6
+Aurora - https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 // https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC
 Ruhama - https://github.com/chris2rich/Ruhama
 Ruhama+ - https://github.com/rolkoztm/ruhama-plus-with-jar
 Hydrogen - https://github.com/zPeanut/Hydrogen
@@ -229,9 +229,9 @@ Backdoored - https://github.com/RIPBackdoored/Backdoored-1.8.2-Source-Leak
 CatsWare - https://github.com/CatsAreGood1337/CatsWare
 ZeroTwo - https://github.com/CatsAreGood1337/ZeroTwo-src
 IceHack - https://github.com/Intel-i80486-DX4/IceHack-B1.5
-BaseBand - https://github.com/Intel-i80486-DX4/Baseband-Client
+BaseBand - https://github.com/0x7DB/BaseBand-FOSS
 Azure - https://github.com/Intel-i80486-DX4/Azure-For-Everyone
-GlowClient - https://github.com/Intel-i80486-DX4/GlowClient-Fixed
+GlowClient - https://github.com/3000IQPlay/GlowClient-Fixed
 Huzuni - https://github.com/XxlunimexX/Huzuni-1.11
 Huzuni+2 / HuzuniPlusTwo - https://github.com/Huzuniplus/Huzuniplus2
 Vapid - https://github.com/starcraft66/vapid
@@ -293,8 +293,8 @@ Sweet / Sweet+ / SweetPlus - https://github.com/3000IQPlay/Sweets-deobf
 GodClient - https://github.com/VortexHFM/God-Client
 Moloch - https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su
 Orangette - https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette
-Stay - https://github.com/cocoapc911/StayClientCrack
-LuigiHack - https://github.com/3000IQPlay/LuigiHacks-deobf
+Stay - https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL
+LuigiHack / Alice - https://github.com/3000IQPlay/LuigiHacks-deobf // https://github.com/DigimaticxHius/LugiHack-AliceClient
 Skid+ / SkidPlus - https://github.com/cocoapc911/Skid-Plus-Client
 LumaHack - https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911
 LumeMinus / Luma- - https://github.com/3000IQPlay/LumaMinus-leaked
@@ -383,3 +383,33 @@ Rift - https://github.com/3000IQPlay/Rift-Client-1.0.3-Src
 Atomic - https://github.com/19MisterX98/Atomic
 Stifle - https://github.com/BadMoXi/Stifle
 Target - https://github.com/yaskylan/Target_Client
+Kamiblue+ / KamibluePlus - https://github.com/Auza2008/KamibluePlus
+Boze - https://github.com/PlutoSolutions/Boze
+AbyssBeta - https://github.com/PlutoSolutions/AbyssBetaEnforcer
+Skidd.ed / Skidded - https://github.com/Nitaki-dev/Skidd.ed-Client
+StayPro - https://github.com/cuicanontop/StayPro // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL
+NHack - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
+ChungusWare - https://github.com/bigratenthusiast/chungusware
+Garuff - https://github.com/desuboruto/Garuff
+SafePoint.club / SafePointClub - https://github.com/Canonball90/SafePointy
+Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
+Slu.gg / SluGG - https://github.com/notRevhacks/Slu.gg-1.0
+Lambda+ / LambdaPlus - https://github.com/DigimaticxHius/Lambda-Plus
+KnightHack - https://github.com/RayyanStudios/KnightHack
+JesusHack - https://github.com/Vitalasy/jesushack
+Mousse - https://github.com/Snoworange420/Mousse
+Evangelion - https://github.com/BebSxy/Evangelion-0.0.1
+HANClient - https://github.com/hf2kxn/HAN-Client
+DHMClient - https://github.com/hf2kxn/DHMClient
+PureHack - https://github.com/Mathrandom7910/PureHack
+OwnedWare - https://github.com/Own3dM3/OwnedWare-leacked
+PistonClient - https://github.com/AlexProgrammerDE/PistonClient
+SpectClient - https://github.com/SaberAspect/SpectClient
+Beer - https://github.com/IUDevman/Beer
+AgonyClient - https://github.com/VortexHFM/Agony-Client
+NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked-Client
+DoragonClient - https://github.com/VortexHFM/Doragon-Client
+TrapClient - https://github.com/trap-client/trap-client
+Existent - https://github.com/Rabies1337/Existent-Old
+Epsilon - https://github.com/DigimaticxHius/Epsilon-client
+SumoClient - https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9
