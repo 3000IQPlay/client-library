@@ -415,3 +415,4 @@ Epsilon - https://github.com/DigimaticxHius/Epsilon-client
 SumoClient - https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9
 HilariousWare - https://github.com/SirHilarious/HilariousWare
 NanoSense - https://github.com/Mic2333/NanoSense
+Arctic - https://github.com/Pseudonymous000/Arctic-Client
