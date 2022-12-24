@@ -170,8 +170,8 @@ Rocan - https://github.com/MrsRina/Official-Rocan // https://github.com/4wl/roca
 HT+ Rewrite / HTPlus Rewrite - https://github.com/HT-Rewrite/Overruling-Client
 ObamaHack - https://github.com/chris2rich/ObamaHack
 Oringo - https://github.com/Negro-Development/OringoClient-Cracked
-Future - https://futureclient.net
-RusherHack - https://rusherhack.org // https://github.com/Jebacka/rushercracks
+Future - https://futureclient.net // https://github.com/PlutoSolutions/Future
+RusherHack - https://rusherhack.org
 Atlas - https://github.com/chris2rich/Atlas
 ConstHack.cc - https://github.com/chris2rich/ConstHack.cc
 WebHack - https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack
@@ -363,7 +363,7 @@ Sorus - https://github.com/4wl/Sorus
 SerenityCE - https://github.com/SerenityEnterprises/SerenityCE
 Xatzotica - https://github.com/XatzClient/Xatzotica
 Miku - https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC
-ThunderHack+ - https://github.com/master7720/Thunderhackplus
+ThunderHack+ / ThunderHackPlus - https://github.com/Pan4ur/ThunderHackPlus
 Moon - https://github.com/master7720/moon-leak
 Bartender - https://github.com/XeonLyfe/Bartender-Src
 MahanWare - https://github.com/OldReposRIP/Mahan-Ware-b9-Leak
@@ -416,3 +416,4 @@ SumoClient - https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9
 HilariousWare - https://github.com/SirHilarious/HilariousWare
 NanoSense - https://github.com/Mic2333/NanoSense
 Arctic - https://github.com/Pseudonymous000/Arctic-Client
+MacHack - https://github.com/ChiquitaV2/MacHack
