@@ -44,9 +44,9 @@ Demise - https://github.com/kisman2000/Demise-0.1.5-beta-Ratted
 Zenith - https://github.com/The-Gopro336-Archive/Zenith-Public
 Zinc - https://github.com/BigJayMuffinSkidsShit/Zinc-0.1
 OyVey+ / OyVeyPlus - https://github.com/BigJayMuffinSkidsShit/OyVeyPlus
-RerHack.club - https://github.com/BigJayMuffinSkidsShit/RerHack.club
+RerHack.club - https://github.com/Canonball90/RerHack.club
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
-Pyro - https://github.com/PlutoSolutions/Pyro
+Pyro - https://www.pyroclient.com // https://github.com/PlutoSolutions/Pyro
 Razmorozka - https://github.com/amfero/razmorozka
 YoinkHack - https://github.com/PlutoSolutions/YoinkHack
 Xulu - https://github.com/Elementars/Xulu-v1.5.2 // https://github.com/The-Gopro336-Archive/XULU_Buildable_SRC
@@ -121,9 +121,10 @@ TuxHack - https://github.com/Tux8068/TuxHack
 1.19 Client - https://github.com/zopac/1.19-client
 Radeon - https://github.com/zopac/Radeon-v1.2-Open-source-edition // https://github.com/IllegalException/Radeon
 Zori - https://github.com/slol2/zori-but-actually-good
-pepsimod - https://github.com/Team-Pepsi/pepsimod
+PepsiMod - https://github.com/Team-Pepsi/pepsimod
 freemanatee - https://github.com/freethemanatee/freemanatee-client
-LiquidBounce+ - https://github.com/WYSI-Foundation/LiquidBouncePlus
+LiquidBounce+ / LiquidBouncePlus - https://github.com/WYSI-Foundation/LiquidBouncePlus
+LiquidBounce++ / LiquidBouncePlusPlus - https://github.com/TheMosKau/LiquidBouncePlusPlus
 BerryBobus - https://github.com/kyv3-v3/BerryBobus-newrepo
 Saturn / EsoHack Rewrite - https://github.com/cryst-al/oyvey-skids/releases/tag/saturn // https://github.com/Intel-i80486-DX4/esohack-rewrite-upload
 EsoHack / gondal.club - https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8
@@ -183,7 +184,7 @@ CarrotHack - https://github.com/chris2rich/CarrotHack
 Silence - https://github.com/chris2rich/SilenceClient
 thesame.space - https://github.com/oyzipfile/thesame-space
 Rich - https://github.com/decausedinside/Rich-Client-Free-Source-Code
-BloomWare - https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite
+BloomWare - https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable
 Raion - https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion
 JexClient - https://github.com/DustinRepo/JexClient
 Reverse - https://github.com/PlutoSolutions/ReverseClient
@@ -418,3 +419,10 @@ NanoSense - https://github.com/Mic2333/NanoSense
 Arctic - https://github.com/Pseudonymous000/Arctic-Client
 MacHack - https://github.com/ChiquitaV2/MacHack
 BloomWare - https://github.com/DiOnFire/bloomware-latest-buildable
+NightX - https://github.com/Aspw-w/NightX-Client
+WubzMod - https://github.com/dkonis/WubzMod
+Skuxx - https://github.com/slowcheet4h/Skuxx-1.6
+Kana - https://github.com/Cypphi/kana-client
+Hypnotic - https://github.com/Hypnotic-Development/Hypnotic-Client
+FemHack - https://github.com/Femey/Femhack
+Cherry - https://github.com/ma4squ3ke/cherry-leak
