@@ -101,7 +101,7 @@ Novoline - https://github.com/jeremypelletier/novoline-unlicensed // https://nov
 Juul - https://github.com/jeremypelletier/juul-unlicensed // https://intent.store
 Kawaii - https://intent.store
 ZeroDay - https://intent.store
-MonSoon - https://intent.store
+MonSoon - https://intent.store // https://monsoon.wtf
 Tenacity - https://intent.store // https://github.com/MrM02UA/Tenacity-Client-4.0-Eclipse-Ready
 Ketamine - https://intent.store
 Azura - https://intent.store
@@ -434,3 +434,6 @@ MythClient - https://github.com/LocalChineseMan/MythClient
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
 CloudClient - https://github.com/CloudClientDev/cloudclient
 VenHack - https://github.com/v0ndy/venhack
+Glorium - https://workupload.com/file/PavBkZvqzcA
+CrispyClient - https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file
+Ayakashi - https://www.mediafire.com/file/m6wfo13ih54b9ng/Ayakashi-deobf.jar/file
