@@ -111,7 +111,7 @@ Artemis - https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client
 NiggaHack - https://github.com/zopac/niggahack 
 Muffin - https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE
 VyperHax - https://github.com/KRYMZ0N/VyperHax
-Mio - https://github.com/VenuzWeeb/Mio-BUILDABLE-SRC
+Mio - https://github.com/asphyxia1337/mioclient-me
 BLM - https://github.com/blmclient/client
 Hephaestus - https://github.com/Frontear/HephaestusClient
 Agalar - https://github.com/MrHakan/Agalar-Hack
@@ -304,7 +304,7 @@ FDP - https://github.com/SkidderMC/FDPClient
 Duperman - https://github.com/JAV1F/Project-Dupermen
 Click - https://github.com/noatmc/click
 JigokuSense - https://github.com/noatmc/jigokusense-leak
-Xulu+ - https://github.com/alephcomputer/xulu-plus-public
+Xulu+ / XuluPlus - https://github.com/master7720/XuluPlus
 FutureX - https://github.com/Nutelaspaceman/FutureX-HWID-Free
 FerxaxenMod - https://github.com/efekoskeroglu/FerxaxenMod-v0.3
 HalalHack - https://github.com/unfidelity/halal-hack
@@ -342,7 +342,7 @@ AgloHack - https://github.com/aglostic/aglohack
 McDonald - https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC
 Turok - https://github.com/chris2rich/turok
 BossHack - https://github.com/master7720/boss-hack-v1.0-leak
-Jiqsaw - https://www.jigsawclient.net
+Jigsaw - https://www.jigsawclient.net
 Vector - https://github.com/master7720/vector-0.2.9-leak
 Coffee - https://github.com/Coffee-Client/Coffee
 Supermacy - https://github.com/master7720/Supermacy-client-1.8.jar-leaked
@@ -426,3 +426,11 @@ Kana - https://github.com/Cypphi/kana-client
 Hypnotic - https://github.com/Hypnotic-Development/Hypnotic-Client
 FemHack - https://github.com/Femey/Femhack
 Cherry - https://github.com/ma4squ3ke/cherry-leak
+Sn0w - https://github.com/pineapplebby/sn0w-2.0.0
+GlassClient - https://github.com/GlassClient/GlassClient
+HuqaloV - https://github.com/ferderplays/HuqaloV
+Bandito.club - https://github.com/gerald0mc/bandito.club
+MythClient - https://github.com/LocalChineseMan/MythClient
+NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
+CloudClient - https://github.com/CloudClientDev/cloudclient
+VenHack - https://github.com/v0ndy/venhack
