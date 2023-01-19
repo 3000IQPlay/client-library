@@ -436,4 +436,3 @@ CloudClient - https://github.com/CloudClientDev/cloudclient
 VenHack - https://github.com/v0ndy/venhack
 Glorium - https://workupload.com/file/PavBkZvqzcA
 CrispyClient - https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file
-Ayakashi - https://www.mediafire.com/file/m6wfo13ih54b9ng/Ayakashi-deobf.jar/file
