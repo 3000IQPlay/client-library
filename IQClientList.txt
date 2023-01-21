@@ -60,7 +60,7 @@ BobrWare - https://anonfiles.com/n6Bcy3wey5/BoberWareFree_rar
 Arsie - https://github.com/maywr/arsie-mod-beta
 WOO - https://github.com/maywr/WOO-Buildable
 TrollGod.cc / RealthClient - https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod
-FireWork - https://github.com/maywr/Firework
+FireWork - https://github.com/VVriter/Firework-client-public
 MaywrWare - https://github.com/maywr/maywrware
 711.club - https://github.com/master7720/711.club
 JorgitoHack - https://github.com/BebSxy/JorgitoHack
