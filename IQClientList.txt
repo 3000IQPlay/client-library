@@ -440,4 +440,3 @@ Harvest - https://github.com/BedTrap/Harvest
 nclient - https://github.com/sn115426/nclient
 Swift - https://github.com/hashPirate/Swift-Client-1.12.2
 SigamWare.CC - https://github.com/DrillFyph/SigmaWare.cc
-Soar - https://github.com/AckerRun1337/SoarClient-Deconfusion
