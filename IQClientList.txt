@@ -189,7 +189,7 @@ Raion - https://github.com/Ropro2002/raion-public // https://github.com/Phantom5
 JexClient - https://github.com/DustinRepo/JexClient
 Reverse - https://github.com/PlutoSolutions/ReverseClient
 Ket - https://github.com/oyzipfile/ket-public
-WintWare - https://github.com/xWhitey/WintWare-Client-SourceCode
+WintWare - https://github.com/noom1337/WintWare-source-code
 Rainbow - https://github.com/noom1337/rainbow_client-src-leak
 Hitori - https://github.com/cattyngmd/HitoriClient // https://github.com/PlutoSolutions/Hitori-Client
 Charon.eu - https://github.com/oyzipfile/chaaron.eu
@@ -442,3 +442,5 @@ Swift - https://github.com/hashPirate/Swift-Client-1.12.2
 SigamWare.CC - https://github.com/DrillFyph/SigmaWare.cc
 Distance - https://github.com/YumeGod/Distance580
 Doki - https://github.com/YumeGod/OpenDokiClient2
+Ananta - https://github.com/RitomG69/Ananta
+Rage - https://github.com/noom1337/rage-client-deobfuscated
