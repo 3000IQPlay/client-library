@@ -445,3 +445,4 @@ Doki - https://github.com/YumeGod/OpenDokiClient2
 Ananta - https://github.com/RitomG69/Ananta
 Rage - https://github.com/noom1337/rage-client-deobfuscated
 MeowHack - https://github.com/NotKronos/meowhack
+Hanabi - https://github.com/AckerRun1337/Open-Hanabi-5.0
