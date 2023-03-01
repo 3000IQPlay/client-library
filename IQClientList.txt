@@ -81,6 +81,7 @@ CookieClient - https://github.com/bebeli555/CookieClient
 Cosmos - https://github.com/momentumdevelopment/cosmos
 CousinWare - https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated
 Cr33pyWare - https://github.com/SkidFxcte/Cr33pyware
+Cranberry - https://github.com/Snoworange420/Cranberry
 Creepy Salhack - https://github.com/CreepyOrb924/creepy-salhack
 Crepe - https://github.com/3000IQPlay/Crepes-deobf // https://github.com/cocoapc911/crepe-client-public
 CrispyClient - https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file
