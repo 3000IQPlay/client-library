@@ -187,7 +187,7 @@ IceHack - https://github.com/Intel-i80486-DX4/IceHack-B1.5
 Ikea - https://github.com/Nooniboi/Public-Ikea
 ILClient - https://github.com/ssllllll/IL-Client-0.2 // https://github.com/Sxmurai/IL-Client-0.2-decompiled
 Impact - https://impactclient.net
-Impact+ / ImpactPlus - https://github.com/Doogie13/Dream-Reupload
+Impact+ / ImpactPlus - https://github.com/unfidelity/impact-plus
 ImpHack - https://github.com/SaberAspect/ImpHax
 Indium.cc - https://github.com/OfficialMohalk/Indium.cc
 Inertia - https://inertiaclient.com
