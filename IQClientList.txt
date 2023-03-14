@@ -293,6 +293,7 @@ Novoline - https://github.com/jeremypelletier/novoline-unlicensed // https://nov
 Nursultan - http://nursultan.fun
 ObamaHack - https://github.com/chris2rich/ObamaHack
 OctoHack - https://github.com/Primooctopus33/octohack
+Omega - https://github.com/ya-ilya/omega
 OnePop - https://github.com/MrsRina/onepop
 Onigiri - https://github.com/Nodoka4318/OnigiriClient
 Orangette - https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette
