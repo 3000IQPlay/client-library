@@ -12,6 +12,7 @@ AClient - https://github.com/KuromeSan/a1.2.2b-hacked-client
 Agalar - https://github.com/MrHakan/Agalar-Hack
 AgloHack - https://github.com/aglostic/aglohack
 AgonyClient - https://github.com/VortexHFM/Agony-Client
+AidsHack - https://github.com/Dino-log/AidsHack
 AllahWare - https://github.com/CumHax/AllahWare
 Allusion - https://github.com/cattyngmd/allusion
 Ananta - https://github.com/RitomG69/Ananta
