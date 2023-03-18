@@ -337,6 +337,7 @@ Reach Premium - https://github.com/VVriter/Reach-Premium-src
 Reaper - https://github.com/AntiCope/reaper-addon
 ReflectionClient - https://github.com/xss1de/ReflectionClient
 RenoSense - https://github.com/Sjnez613/RenoSense-Rewrite
+RenoSenseTwo - https://github.com/RaddonEnterprises/renosense-cracked
 RerHack.club - https://github.com/Canonball90/RerHack.club
 Resilience - https://github.com/MinecraftModdedClients/Resilience-Client-Source
 Revenge - https://github.com/PlutoSolutions/revenge-1.5.6-Leak
