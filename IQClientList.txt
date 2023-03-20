@@ -23,11 +23,12 @@ Aquarius - https://github.com/epsilonteam/Aquarius
 Arctic - https://github.com/Pseudonymous000/Arctic-Client
 Arsie - https://github.com/maywr/arsie-mod-beta
 Artemis - https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client
-Astro.dev - https://github.com/MrBubblegum/Astro.dev
+Astro.dev - https://github.com/Nyaannn/Astro.dev
 Atlas - https://github.com/chris2rich/Atlas
 Atomic - https://github.com/19MisterX98/Atomic
 Atrium - https://github.com/3000IQPlay/Atrium
-Aurora - https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 // https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC
+Aurora - https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6
+Aurora New - https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC
 Azura - https://intent.store
 Azure - https://github.com/Intel-i80486-DX4/Azure-For-Everyone
 Backdoored - https://github.com/RIPBackdoored/Backdoored-1.8.2-Source-Leak
@@ -234,6 +235,7 @@ Lime - https://cdn.discordapp.com/attachments/1045307569482244157/10671407073426
 LiquidBounce - https://github.com/CCBlueX/LiquidBounce
 LiquidBounce+ / LiquidBouncePlus - https://github.com/WYSI-Foundation/LiquidBouncePlus
 LiquidBounce++ / LiquidBouncePlusPlus - https://github.com/TheMosKau/LiquidBouncePlusPlus
+LiveSense - https://github.com/WMSGaming/LiveSense
 ListedHack - https://github.com/chris2rich/ListedHack
 LmaoBox.net - https://github.com/chris2rich/lmaobox.net
 LoseBypass - https://losebypass.com
@@ -431,6 +433,7 @@ VeteranHack - https://github.com/HausemasterIssue/VeteranHack-Decomp
 Violet - https://github.com/noatmc/violet
 Vrpos - https://github.com/cocoapc911/Vrpos
 VyperHax - https://github.com/KRYMZ0N/VyperHax
+W1seHack - https://github.com/pineapplebby/w1sehack-public
 WebHack - https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack
 WeepCraft - https://github.com/PlutoSolutions/WeepCraft
 WetHack - https://github.com/weterandevelopment/wethack
