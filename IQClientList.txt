@@ -285,7 +285,7 @@ Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
 NHack - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
-Nhack4 - https://cdn.discordapp.com/attachments/1072571777898782830/1073602412146851970/nhack4-lite-0.1.0-obf-release.jar
+Nhack4 - https://github.com/funtimeonly990/Public-nhack4
 NiggaHack - https://github.com/zopac/niggahack 
 NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked-Client
 NightX - https://github.com/Aspw-w/NightX-Client
@@ -375,6 +375,7 @@ SHGR - https://github.com/KamiSkidder/shgr-client
 SigamWare.CC - https://github.com/DrillFyph/SigmaWare.cc
 Sigma - https://www.sigmajello.ga/downloads
 Silence - https://github.com/chris2rich/SilenceClient
+Sirius - https://github.com/MrBubblegum/Sirius-Mod
 Skid+ / SkidPlus - https://github.com/cocoapc911/Skid-Plus-Client
 Skidcraft - https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Skidcraft
 Skidd.ed / Skidded - https://github.com/Nitaki-dev/Skidd.ed-Client
