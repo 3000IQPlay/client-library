@@ -285,7 +285,7 @@ Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
 NHack - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
-Nhack4 - https://github.com/funtimeonly990/Public-nhack4
+Nhack4 - https://github.com/funtimeonly990/nhack4
 NiggaHack - https://github.com/zopac/niggahack 
 NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked-Client
 NightX - https://github.com/Aspw-w/NightX-Client
