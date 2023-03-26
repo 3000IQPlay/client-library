@@ -127,6 +127,7 @@ Epsilon - https://github.com/SpartanB312/Epsilon
 EsoHack / gondal.club - https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8
 Europa - https://github.com/SkidFxcte/Europa-Buildable-Source
 Evangelion - https://github.com/BebSxy/Evangelion-0.0.1
+Evo - https://github.com/WarriorCrystal/Evo
 Exeter - https://github.com/The-Gopro336-Archive/Exeter-1.12.2
 Existent - https://github.com/Rabies1337/Existent-Old
 Expensive - https://expensiveclient.xyz
