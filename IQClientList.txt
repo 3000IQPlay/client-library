@@ -103,6 +103,7 @@ Cursa - https://github.com/epsilonteam/Cursa
 Cute - https://github.com/4wl/Cute
 CwHack - https://github.com/femhack/CwHack
 CXClient - https://github.com/pixelcmtd/CXClient
+Dactyl.li - https://github.com/redvx/Dactyl-1.6.8
 Dallas - https://github.com/gerald0mc/Dallas
 DeadCode - https://github.com/PlutoSolutions/DeadCode
 Delta - https://github.com/noatmc/delta
