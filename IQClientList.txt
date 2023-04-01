@@ -44,6 +44,7 @@ Bandito.club - https://github.com/gerald0mc/bandito.club
 Banzem - https://github.com/yunusborazan/Banzem-Client
 Bartender - https://github.com/XeonLyfe/Bartender-Src
 BaseBand - https://github.com/0x7DB/BaseBand-FOSS
+BBCWare - https://github.com/unnamedlife/bbcware
 BeefSense - https://github.com/HausemasterIssue/BeefSense-Decomp
 Beer - https://github.com/IUDevman/Beer
 BerryBobus - https://github.com/kyv3-v3/BerryBobus-newrepo
@@ -130,7 +131,7 @@ Ensamble - https://github.com/Dimples-1337/Ensemble-1.8.9
 Epsilon - https://github.com/SpartanB312/Epsilon
 EsoHack / gondal.club - https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8
 Europa - https://github.com/SkidFxcte/Europa-Buildable-Source
-Evangelion - https://github.com/BebSxy/Evangelion-0.0.1
+Evangelion - https://github.com/BebSxy/Evangelion
 Evo - https://github.com/WarriorCrystal/Evo
 Exeter - https://github.com/The-Gopro336-Archive/Exeter-1.12.2
 Existent - https://github.com/Rabies1337/Existent-Old
@@ -433,6 +434,7 @@ Skidcraft - https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Skidcraft
 Skidd.ed / Skidded - https://github.com/Nitaki-dev/Skidd.ed-Client
 SkidwareMC - https://github.com/SkidwareMC/Skidware-Client
 Skill - https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar
+SkilledClient - https://github.com/pesshown/Skilled-Client-v3
 Skuxx - https://github.com/slowcheet4h/Skuxx-1.6
 Sleek - https://github.com/intexception/SleekClient
 Slu.gg / SluGG - https://github.com/notRevhacks/Slu.gg-1.0
@@ -444,6 +446,7 @@ SolClient - https://github.com/Sol-Client/Client
 Sorus - https://github.com/4wl/Sorus
 SovietWare - https://github.com/CumHax/SovietWare
 Spark - https://github.com/Spark-Client-Development/Spark-Client
+Spark - https://github.com/Sxmurai/spark
 SpectClient - https://github.com/SaberAspect/SpectClient
 SpiderSense - https://github.com/HausemasterIssue/spidersense
 Stay - https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL
@@ -488,9 +491,11 @@ Vapid - https://github.com/starcraft66/vapid
 Vector - https://github.com/master7720/vector-0.2.9-leak
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
 VenHack - https://github.com/v0ndy/venhack
+VenomHack - https://github.com/rwah277/Venomhack420-Meteor-Plugin
 VeteranHack - https://github.com/HausemasterIssue/VeteranHack-Decomp
 VetHack - https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar
 Violet - https://github.com/noatmc/violet
+Vox - https://github.com/Rabies1337/Vox
 Vrpos - https://github.com/cocoapc911/Vrpos
 VyperHax - https://github.com/KRYMZ0N/VyperHax
 W1seHack - https://github.com/pineapplebby/w1sehack-public
@@ -532,3 +537,4 @@ Zispanos - https://github.com/zispanos/Zispanos-Backdoor-Rewrite
 Zodiac - https://github.com/cattyngmd/zodiac
 Zori - https://github.com/slol2/zori-but-actually-good
 Zork - https://github.com/AckerRun1337/Zork-Client
+ZWare.CC - https://github.com/ZWareDevelopment/ZWare.cc-Old
