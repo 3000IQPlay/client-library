@@ -276,6 +276,7 @@ LmaoBox.net - https://github.com/chris2rich/lmaobox.net
 LoseBypass - https://github.com/deadLORD135/losebypass-reup
 LoseBypass - https://losebypass.com
 Love - https://github.com/chris2rich/LoveClient
+Lover.gg - https://github.com/KgDW/Lover-decomp-buildable
 Luchadora - https://github.com/x4e/Luchadora
 LuigiHack / Alice - https://github.com/3000IQPlay/LuigiHacks-deobf
 LumaHack - https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911
@@ -283,7 +284,7 @@ LumeMinus / Luma- - https://github.com/3000IQPlay/LumaMinus-leaked
 Lumen - https://github.com/olliem5/lumen
 LuneClient - https://github.com/SuperSkidder/LuneClient
 Lynx - https://github.com/Based-devs/Lynx
-M3dC3t / MedCet - https://github.com/3000IQPlay/M3dC3t-leaked
+M3dC3t / MadCat - https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked
 MacHack - https://github.com/ChiquitaV2/MacHack
 MahanWare - https://github.com/OldReposRIP/Mahan-Ware-b9-Leak
 MawouteClient - https://github.com/VenuzWeeb/mawoutehack
