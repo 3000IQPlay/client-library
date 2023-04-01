@@ -214,7 +214,7 @@ Ikea - https://github.com/Nooniboi/Public-Ikea
 ILClient - https://github.com/ssllllll/IL-Client-0.2 // https://github.com/Sxmurai/IL-Client-0.2-decompiled
 Impact - https://impactclient.net
 Impact+ / ImpactPlus - https://github.com/unfidelity/impact-plus
-ImpHack - https://github.com/SaberAspect/ImpHax
+ImpHack / ImpHax - https://github.com/SaberAspect/ImpHax
 Indium.cc - https://github.com/OfficialMohalk/Indium.cc
 Inertia - https://inertiaclient.com
 Inertial - https://github.com/EclipseAFK/Inertial-Client-source-code
@@ -246,6 +246,7 @@ Ket - https://github.com/oyzipfile/ket-public
 Ketamine - https://intent.store
 KevinClient - https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient
 KnightHack - https://github.com/RayyanStudios/KnightHack
+Koks - https://github.com/Schummel-Software/Koks-v3
 Konas - https://github.com/threevt/Phobos-Rewrite
 Konc - https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip
 Kull - https://github.com/Sxmurai/kull
@@ -255,13 +256,18 @@ Lambda+ / LambdaPlus - https://github.com/DigimaticxHius/Lambda-Plus
 LanderClient - https://github.com/Dimples-1337/LanderClient
 Lantern - https://github.com/PlusPlusMC/Lantern
 LavaHack / Kisman.cc - https://github.com/TheKisDevs/LavaHack-Public
+LBounce - https://github.com/AFterNode/LBounce
 Legacy - https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src
 LeuxBackdoor - https://github.com/accessmodifier364/LeuxBackdoor
 LifeLine - https://github.com/ImCzf233/Lifeline-opensource
 Lime - https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip
 LiquidBounce - https://github.com/CCBlueX/LiquidBounce
 LiquidBounce+ / LiquidBouncePlus - https://github.com/WYSI-Foundation/LiquidBouncePlus
+LiquidBounce+ Reborn / LiquidBouncePlus Reborn - https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn
 LiquidBounce++ / LiquidBouncePlusPlus - https://github.com/TheMosKau/LiquidBouncePlusPlus
+LiquidCat - https://github.com/CatsDevelopment/LiquidCat
+Liquido - https://github.com/SuperCraftAlex/liquido
+LiquidShadow - https://github.com/woodteam/LiquidShadow
 LiquidX - https://github.com/PrahXZ/LiquidX
 ListedHack - https://github.com/chris2rich/ListedHack
 LiveSense - https://github.com/WMSGaming/LiveSense
