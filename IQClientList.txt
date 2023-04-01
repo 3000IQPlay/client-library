@@ -129,7 +129,7 @@ Elementars.com - https://github.com/Elementars/Elementars.com
 Elysian - https://github.com/WarriorCrystal/Elysian
 Ensamble - https://github.com/Dimples-1337/Ensemble-1.8.9
 Epsilon - https://github.com/SpartanB312/Epsilon
-EsoHack / gondal.club - https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8
+EsoHack / gondal.club - https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9
 Europa - https://github.com/SkidFxcte/Europa-Buildable-Source
 Evangelion - https://github.com/BebSxy/Evangelion
 Evo - https://github.com/WarriorCrystal/Evo
