@@ -283,6 +283,7 @@ MethodClient - https://github.com/danmaster2/MethodClient
 Miku - https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC
 Mint - https://github.com/RealzPrestige/Mint-Public
 Mio - https://github.com/asphyxia1337/mioclient-me
+Minced - https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2)
 Mirai - https://github.com/kylerittenhause/mirai-client-decompiled
 Moloch - https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su
 Momentum - https://github.com/momentumdevelopment/momentum
