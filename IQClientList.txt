@@ -13,6 +13,7 @@ Agalar - https://github.com/MrHakan/Agalar-Hack
 AgloHack - https://github.com/aglostic/aglohack
 AgonyClient - https://github.com/VortexHFM/Agony-Client
 AidsHack - https://github.com/Dino-log/AidsHack
+AimWhere - https://github.com/Potion1337/AimWhere-Source-Code
 AllahWare - https://github.com/CumHax/AllahWare
 Allusion - https://github.com/cattyngmd/allusion
 Ananta - https://github.com/RitomG69/Ananta
@@ -115,7 +116,7 @@ Destroy Premium - https://github.com/tuskypaster/Destroy-Premium-SRC
 DestroySquad - https://github.com/jabask3dd3r/DestroySquad-src-leak
 Devu - https://github.com/4wl/Devu
 DHMClient - https://github.com/hf2kxn/DHMClient
-Distance - https://github.com/YumeGod/Distance580
+Distance - https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open
 Doki - https://github.com/YumeGod/OpenDokiClient2
 DoragonClient - https://github.com/VortexHFM/Doragon-Client
 DotGod.cc - https://github.com/dabigbulletz638/dotgod.cc
@@ -149,9 +150,11 @@ Fira - https://github.com/cout970/FiraClient
 Fire - https://github.com/RealzPrestige/fire
 FireWork - https://github.com/VVriter/Firework-client-public
 FishHack - https://github.com/PlutoSolutions/FishHack-public
+Fluidity - https://github.com/mccheatz/Fluidity
 ForgeHax - https://github.com/fr1kin/ForgeHax
 Francium - https://github.com/IllegalException/Francium
 freemanatee - https://github.com/freethemanatee/freemanatee-client
+FuFuClient - https://github.com/IMXNOOBX/FuFuClient
 FurryWare - https://github.com/Intel-i80486-DX4/FurryWare-B40
 Future - https://futureclient.net // https://github.com/PlutoSolutions/Future
 FutureX - https://github.com/RaptorClientDevelopment/futrexclientsource
@@ -170,6 +173,7 @@ Gloom - https://cdn.discordapp.com/attachments/656809769813934090/66502533627838
 Glorium - https://workupload.com/file/PavBkZvqzcA
 GlowClient - https://github.com/3000IQPlay/GlowClient-Fixed
 GodClient - https://github.com/VortexHFM/God-Client
+GrassWare.win - https://github.com/Zane2b2t/GrassWare.win
 Guinness - https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf
 HackHack - https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack-
 HalalHack - https://github.com/unfidelity/halal-hack
@@ -240,7 +244,7 @@ KeKWClient - https://github.com/VortexHFM/KekW-Client
 Kemmy.cc - https://github.com/PlutoSolutions/kemmy.cc
 Ket - https://github.com/oyzipfile/ket-public
 Ketamine - https://intent.store
-KevinClient - https://github.com/RMCQAZ/KevinClient-1.12
+KevinClient - https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient
 KnightHack - https://github.com/RayyanStudios/KnightHack
 Konas - https://github.com/threevt/Phobos-Rewrite
 Konc - https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip
@@ -249,6 +253,7 @@ KuroHack - https://github.com/KuroHere/kurohack // https://github.com/master7720
 Lambda - https://github.com/lambda-client/lambda
 Lambda+ / LambdaPlus - https://github.com/DigimaticxHius/Lambda-Plus
 LanderClient - https://github.com/Dimples-1337/LanderClient
+Lantern - https://github.com/PlusPlusMC/Lantern
 LavaHack / Kisman.cc - https://github.com/TheKisDevs/LavaHack-Public
 Legacy - https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src
 LeuxBackdoor - https://github.com/accessmodifier364/LeuxBackdoor
@@ -257,6 +262,7 @@ Lime - https://cdn.discordapp.com/attachments/1045307569482244157/10671407073426
 LiquidBounce - https://github.com/CCBlueX/LiquidBounce
 LiquidBounce+ / LiquidBouncePlus - https://github.com/WYSI-Foundation/LiquidBouncePlus
 LiquidBounce++ / LiquidBouncePlusPlus - https://github.com/TheMosKau/LiquidBouncePlusPlus
+LiquidX - https://github.com/PrahXZ/LiquidX
 ListedHack - https://github.com/chris2rich/ListedHack
 LiveSense - https://github.com/WMSGaming/LiveSense
 LmaoBox.net - https://github.com/chris2rich/lmaobox.net
@@ -276,11 +282,13 @@ MahanWare - https://github.com/OldReposRIP/Mahan-Ware-b9-Leak
 MawouteClient - https://github.com/VenuzWeeb/mawoutehack
 MaywrWare - https://github.com/maywr/maywrware
 McDonald - https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC
+MClient++ / MClientPlusPlus - https://github.com/MClientMCPE/MClientPlusPlus
 MedusaWare - https://github.com/4wl/MedusaWare
 MelonHack+ / MelonHackPlus - https://github.com/chris2rich/melonhack-plus
 MeowHack - https://github.com/NotKronos/meowhack
 Mercury - https://github.com/DarkiBoi/Mercury-Client // https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC
 Meteor - https://github.com/MeteorDevelopment/meteor-client // https://meteorclient.com
+Meteor+ / MeteorPlus - https://github.com/Nekiplay/MeteorPlus
 MethodClient - https://github.com/danmaster2/MethodClient
 Miku - https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC
 Mint - https://github.com/RealzPrestige/Mint-Public
@@ -305,6 +313,7 @@ MythClient - https://github.com/LocalChineseMan/MythClient
 Namida - https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317
 NanoSense - https://github.com/Mic2333/NanoSense
 NClient - https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient
+Nebula - https://github.com/Sxmurai/nebula
 Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
@@ -351,8 +360,10 @@ PigHack - https://github.com/chris2rich/PigHack-Buildable-SRC // https://github.
 PikaHack - https://cdn.discordapp.com/attachments/738991724793299004/738998489194823736/PikaHack-Owner-master-b9-release.jar
 PistonClient - https://github.com/AlexProgrammerDE/PistonClient
 Pizza - https://github.com/AstrqlDev/Pizza-Client
+PornoClient - https://github.com/ezhhh/pornoclient
 Postamn++ / PostmanPlusPlus - https://github.com/srgantmoomoo/postmanplusplus
 Postman - https://github.com/srgantmoomoo/postman
+ProtoHax - https://github.com/hax0r31337/ProtoHax
 Proton - https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar
 Pulsive - https://intent.store
 PureHack - https://github.com/Mathrandom7910/PureHack
@@ -366,7 +377,8 @@ RailHack - https://github.com/kisman2000/RailHack-Ratted // https://github.com/3
 Rainbow - https://github.com/noom1337/rainbow_client-src-leak
 Raion - https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar
 RatWare - https://github.com/Tr0llMode/RatWare-leak-0.4.0
-Raven B+ / Raven BPlus - https://github.com/Kopamed/Raven-bPLUS
+RavenB+ / RavenBPlus - https://github.com/Kopamed/Raven-bPLUS
+RavenN+ / RavenNPlus - https://github.com/SleepyFishYT/RavenNPlus
 Razmorozka - https://github.com/amfero/razmorozka
 Reach Premium - https://github.com/VVriter/Reach-Premium-src
 Reaper - https://github.com/AntiCope/reaper-addon
@@ -383,7 +395,7 @@ Rich - https://github.com/decausedinside/Rich-Client-Free-Source-Code
 Rise - https://riseclient.com // https://anonfiles.com/6a7bnaZ1ye/Rise_6_0_master_zip // https://github.com/tuskypaster/Rise-Client-Source
 Rocan - https://github.com/MrsRina/Official-Rocan // https://github.com/4wl/rocan-main
 RockEZHack - https://github.com/oyzipfile/rockEZHack
-RockStar - https://github.com/noom1337/hacked-client-collection/tree/main/Rockstar%20Free%202.0%20(1.12.2)
+RockStar - https://github.com/ConeTin/rockstar-free
 RoseGold - https://github.com/RoseGoldIsntGay/RoseGoldClient
 Ruby - https://github.com/RealzPrestige/Ruby
 Ruhama - https://github.com/chris2rich/Ruhama
@@ -413,6 +425,7 @@ Sirius - https://github.com/MrBubblegum/Sirius-Mod
 Skid+ / SkidPlus - https://github.com/cocoapc911/Skid-Plus-Client
 Skidcraft - https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Skidcraft
 Skidd.ed / Skidded - https://github.com/Nitaki-dev/Skidd.ed-Client
+SkidwareMC - https://github.com/SkidwareMC/Skidware-Client
 Skill - https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar
 Skuxx - https://github.com/slowcheet4h/Skuxx-1.6
 Sleek - https://github.com/intexception/SleekClient
@@ -420,6 +433,7 @@ Slu.gg / SluGG - https://github.com/notRevhacks/Slu.gg-1.0
 SmartClient - https://github.com/sssssssthedev/SmartClient
 Sn0w - https://github.com/pineapplebby/sn0w-2.0.0
 Snow - https://github.com/PlutoSolutions/Snow
+SnowFallWare - https://github.com/Sn0wNight/SnowFallWare
 SolClient - https://github.com/Sol-Client/Client
 Sorus - https://github.com/4wl/Sorus
 SovietWare - https://github.com/CumHax/SovietWare
@@ -443,6 +457,7 @@ TaterGod.cc - https://github.com/RealzPrestige/TaterGod-Leak
 Tenacity - https://intent.store // https://github.com/MrM02UA/Tenacity-Client-4.0-Eclipse-Ready // https://github.com/tuskypaster/Tenacity-for-1.12.2
 Tensor - https://github.com/IUDevman/Tensor
 Tesla - https://github.com/AnotherNoName/Tesla-SRC
+Theresa - https://github.com/YumeGod/TheresaModules
 Thesame.space - https://github.com/oyzipfile/thesame-space
 ThunderHack+ / ThunderHackPlus - https://github.com/Pan4ur/ThunderHackPlus
 Toast - https://github.com/RemainingToast/ToastClient
@@ -462,6 +477,7 @@ Uranium - https://github.com/maywr/uranium
 Urmomia - https://github.com/Urmomia/urmomia-client
 Urmomia - https://github.com/Urmomia/urmomia-client
 UwUGod - https://github.com/Torono909/UwUGod-Modules-Src
+UZI Client - https://github.com/Unicode01/UZI-Client
 Vapid - https://github.com/starcraft66/vapid
 Vector - https://github.com/master7720/vector-0.2.9-leak
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
