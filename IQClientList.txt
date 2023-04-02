@@ -332,7 +332,7 @@ NightClient - https://cdn.discordapp.com/attachments/688386845062725662/68838907
 NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked-Client
 NightX - https://github.com/Aspw-w/NightX-Client
 Noat Wurst+2 / Noat WurstPlusTwo - https://github.com/kool-kuhm-klients/noat-wurstplus-two
-NobleSix - https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar
+NobleSix - https://github.com/helloworldSB/NobleSixHL32K // https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar
 Norsa - https://github.com/Valkriea/Norsa
 Norules - https://github.com/jabask3dd3r/Norules-src
 Notorious - https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0
