@@ -284,7 +284,7 @@ LumeMinus / Luma- - https://github.com/3000IQPlay/LumaMinus-leaked
 Lumen - https://github.com/olliem5/lumen
 LuneClient - https://github.com/SuperSkidder/LuneClient
 Lynx - https://github.com/Based-devs/Lynx
-M3dC3t / MadCat - https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked
+M3dC3t / MadCat - https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2
 MacHack - https://github.com/ChiquitaV2/MacHack
 MahanWare - https://github.com/OldReposRIP/Mahan-Ware-b9-Leak
 MawouteClient - https://github.com/VenuzWeeb/mawoutehack
@@ -325,7 +325,7 @@ Nebula - https://github.com/Sxmurai/nebula
 Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
-NHack - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
+NHack3 - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
 Nhack4 - https://github.com/funtimeonly990/nhack4
 NiggaHack - https://github.com/zopac/niggahack 
 NightClient - https://cdn.discordapp.com/attachments/688386845062725662/688389070908424287/NightClient.jar
@@ -358,6 +358,7 @@ Ozark - https://github.com/Trambled/OzarkClient
 PandoraHack - https://github.com/jam-in-a-jar/PandoraHack-for-everyone
 Paragon - https://github.com/Wolfsurge/Paragon
 Past - https://github.com/olliem5/past
+Penguin - https://github.com/funtimeonly990/Penguin-Client
 PepsiMod - https://github.com/Team-Pepsi/pepsimod
 PerryPhobos - https://github.com/Eralp232/PerryPhobos-Latest
 PGz - https://github.com/3000IQPlay/PGzClient
@@ -493,6 +494,7 @@ Vector - https://github.com/master7720/vector-0.2.9-leak
 Velocity - https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC
 VenHack - https://github.com/v0ndy/venhack
 VenomHack - https://github.com/rwah277/Venomhack420-Meteor-Plugin
+Vertine - https://github.com/VertineClient/vertine
 VeteranHack - https://github.com/HausemasterIssue/VeteranHack-Decomp
 VetHack - https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar
 Violet - https://github.com/noatmc/violet
