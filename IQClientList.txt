@@ -22,6 +22,7 @@ ApeHax - https://github.com/Team-Kedy/ApeHax
 Apollo - https://github.com/IllegalException/Apollo-2.1
 ApollyonClient - https://cdn.discordapp.com/attachments/611452108826214401/636114166620356618/ApollyonClient-0.4-release3_1.jar
 Aquarius - https://github.com/epsilonteam/Aquarius
+ArchWare - https://github.com/kisman2000/ArchWare
 Arctic - https://github.com/Pseudonymous000/Arctic-Client
 Ares - https://github.com/AresClient/ares
 Arsie - https://github.com/maywr/arsie-mod-beta
