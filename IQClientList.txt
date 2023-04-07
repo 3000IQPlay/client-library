@@ -82,6 +82,7 @@ CatsWare - https://github.com/CatsAreGood1337/CatsWare
 CCSHack - https://github.com/Tr0llMode/CCShack
 Cebulionware.NEXT - https://github.com/0x4d65/Cebulionware.NEXT
 Celestial - https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2)
+ChucKHack - https://github.com/chucK9b9t/chuck-hack-beta
 Claudius - https://github.com/Crimply/Claudius
 Click - https://github.com/noatmc/click
 Client - https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0
