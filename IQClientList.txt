@@ -279,7 +279,7 @@ LmaoBox.net - https://github.com/chris2rich/lmaobox.net
 LoseBypass - https://github.com/deadLORD135/losebypass-reup
 LoseBypass - https://losebypass.com
 Love - https://github.com/chris2rich/LoveClient
-Lover.gg - https://github.com/KgDW/Lover-decomp-buildable
+Lover - https://github.com/KgDW/Lover-decomp-buildable // https://github.com/chunfeng666/lover-main
 Luchadora - https://github.com/x4e/Luchadora
 LuigiHack / Alice - https://github.com/3000IQPlay/LuigiHacks-deobf
 LumaHack - https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911
