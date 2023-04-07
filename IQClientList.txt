@@ -4,6 +4,7 @@ _____________________________________________________
 1.19 Client - https://github.com/zopac/1.19-client
 3arthh4ck / Phobos Newbase - https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck
 711.club - https://github.com/master7720/711.club
+AbHack - https://github.com/chunfeng666/abhack-main
 Abstract - https://github.com/WMSGaming/Abstract-1.12.2
 Abyss - https://github.com/PlutoSolutions/Abyss // https://github.com/PlutoSolutions/AbyssBetaEnforcer // https://abyssclient.com
 AbyssBeta - https://github.com/PlutoSolutions/AbyssBetaEnforcer
@@ -396,6 +397,7 @@ RavenN+ / RavenNPlus - https://github.com/SleepyFishYT/RavenNPlus
 Razmorozka - https://github.com/amfero/razmorozka
 Reach Premium - https://github.com/VVriter/Reach-Premium-src
 Reaper - https://github.com/AntiCope/reaper-addon
+Rebirth - https://github.com/chunfeng666/rebirth-public
 ReflectionClient - https://github.com/xss1de/ReflectionClient
 RenoSense - https://github.com/Sjnez613/RenoSense-Rewrite
 RenoSenseTwo - https://github.com/RaddonEnterprises/renosense-cracked
@@ -523,6 +525,7 @@ Wurst- / WurstMinus - https://github.com/TheReal3rd/WurstMinus-Public
 Wurst+1 / WurstPlusOne - https://github.com/TrvsF/wurstplus-one
 Wurst+2 / WurstPlusTwo - https://github.com/WurstPlus/wurstplus-two
 Wurst+3 / WurstPlusThree - https://github.com/WurstPlus/wurst-plus-three
+Wurst+4 / WurstPlusFour - https://github.com/levkush/wurst-plus-four 
 Xanax - https://github.com/PlutoSolutions/Xanax
 Xannax - https://github.com/The-Gopro336-Archive/Xannax-master
 Xatzotica - https://github.com/XatzClient/Xatzotica
