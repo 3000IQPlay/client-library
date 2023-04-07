@@ -294,6 +294,7 @@ McDonald - https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC
 MClient++ / MClientPlusPlus - https://github.com/MClientMCPE/MClientPlusPlus
 MedusaWare - https://github.com/4wl/MedusaWare
 MelonHack+ / MelonHackPlus - https://github.com/chris2rich/melonhack-plus
+MemeWare - https://github.com/whosthatperson/MemeWare...-one-last-time
 MeowHack - https://github.com/NotKronos/meowhack
 Mercury - https://github.com/DarkiBoi/Mercury-Client // https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC
 Meteor - https://github.com/MeteorDevelopment/meteor-client // https://meteorclient.com
@@ -326,6 +327,7 @@ Nebula - https://github.com/Sxmurai/nebula
 Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
+Nhack - https://github.com/whosthatperson/Nhack
 NHack3 - https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed
 Nhack4 - https://github.com/funtimeonly990/nhack4
 NiggaHack - https://github.com/zopac/niggahack 
@@ -334,6 +336,7 @@ NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked
 NightX - https://github.com/Aspw-w/NightX-Client
 Noat Wurst+2 / Noat WurstPlusTwo - https://github.com/kool-kuhm-klients/noat-wurstplus-two
 NobleSix - https://github.com/helloworldSB/NobleSixHL32K // https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar
+NoobHack - https://github.com/NoobHackLol/NoobHack
 Norsa - https://github.com/Valkriea/Norsa
 Norules - https://github.com/jabask3dd3r/Norules-src
 Notorious - https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0
@@ -476,6 +479,7 @@ Toast - https://github.com/RemainingToast/ToastClient
 Tokyo - https://github.com/RacoonDog/Tokyo-Client
 Tomato - https://github.com/SlickJava/tomato
 Toxic.club - https://github.com/iBikky/toxic.club
+TransWare - https://github.com/VxlerieUwU/transware
 TrapClient - https://github.com/trap-client/trap-client
 Trinity - https://github.com/LeonLeonPotato/Trinity
 Trinity+ / TrinityPlus - https://github.com/ssllllll/TrinityPlus-PWNED
