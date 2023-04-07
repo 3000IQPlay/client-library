@@ -415,6 +415,7 @@ Ruby - https://github.com/RealzPrestige/Ruby
 Ruhama - https://github.com/chris2rich/Ruhama
 Ruhama+ - https://github.com/rolkoztm/ruhama-plus-with-jar
 RusherHack - https://rusherhack.org
+RussianWare - https://github.com/d2hv/RussianWare
 Rustme - https://github.com/oyzipfile/Rustme-Clients-Source-Code
 SafePoint.club / SafePointClub - https://github.com/Canonball90/SafePointy
 Salhack - https://github.com/ionar2/spidermod
