@@ -23,9 +23,9 @@ ApeHax - https://github.com/Team-Kedy/ApeHax
 Apollo - https://github.com/IllegalException/Apollo-2.1
 ApollyonClient - https://cdn.discordapp.com/attachments/611452108826214401/636114166620356618/ApollyonClient-0.4-release3_1.jar
 Aquarius - https://github.com/epsilonteam/Aquarius
-ArchWare - https://github.com/kisman2000/ArchWare
 Arctic - https://github.com/Pseudonymous000/Arctic-Client
 Ares - https://github.com/AresClient/ares
+ArchWare - https://github.com/kisman2000/ArchWare
 Arsie - https://github.com/maywr/arsie-mod-beta
 Artemis - https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client
 Astro.dev - https://github.com/Nyaannn/Astro.dev
@@ -83,7 +83,6 @@ CatsWare - https://github.com/CatsAreGood1337/CatsWare
 CCSHack - https://github.com/Tr0llMode/CCShack
 Cebulionware.NEXT - https://github.com/0x4d65/Cebulionware.NEXT
 Celestial - https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2)
-ChucKHack - https://github.com/chucK9b9t/chuck-hack-beta
 Claudius - https://github.com/Crimply/Claudius
 Click - https://github.com/noatmc/click
 Client - https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0
@@ -154,14 +153,17 @@ Fira - https://github.com/cout970/FiraClient
 Fire - https://github.com/RealzPrestige/fire
 FireWork - https://github.com/VVriter/Firework-client-public
 FishHack - https://github.com/PlutoSolutions/FishHack-public
+Floppa - https://github.com/HausemasterIssue/Floppa-Client-SRC
 Fluidity - https://github.com/mccheatz/Fluidity
 ForgeHax - https://github.com/fr1kin/ForgeHax
 Francium - https://github.com/IllegalException/Francium
 freemanatee - https://github.com/freethemanatee/freemanatee-client
+FrogWare - https://github.com/XZRC/FrogWare
 FuFuClient - https://github.com/IMXNOOBX/FuFuClient
 FurryWare - https://github.com/Intel-i80486-DX4/FurryWare-B40
 Future - https://futureclient.net // https://github.com/PlutoSolutions/Future
 FutureX - https://github.com/RaptorClientDevelopment/futrexclientsource
+Galactie - https://github.com/maxgamesNL/Galactite
 GameSense / GS - https://github.com/IUDevman/gamesense-client
 GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus - https://github.com/TechAle/gsplusplus
 Garuff - https://github.com/desuboruto/Garuff
@@ -196,12 +198,14 @@ HitlerHax - https://github.com/Yaimsputnik5/HitlerHax-Leak
 Hitori - https://github.com/cattyngmd/HitoriClient // https://github.com/PlutoSolutions/Hitori-Client
 HockeyWare - https://github.com/Catuquei/hockeyware
 HOPE - https://github.com/TashCat/HOPE
+Horion - https://github.com/horionclient/Horion
 Houdini.cc - https://github.com/Intel-i80486-DX4/houdini.cc // https://github.com/Versues/Houdini.cc-1.0.4
 HT+ Rewrite / HTPlus Rewrite - https://github.com/HT-Rewrite/Overruling-Client
 HuqaloV - https://github.com/ferderplays/HuqaloV
 Huzuni - https://github.com/XxlunimexX/Huzuni-1.11
 Huzuni+2 / HuzuniPlusTwo - https://github.com/Huzuniplus/Huzuniplus2
 Hydra - https://hydraclient.com
+HydraWare - https://github.com/aglostic/hydraware-cracked
 Hydrogen - https://github.com/zPeanut/Hydrogen
 HyghLand.cc - https://github.com/chris2rich/highland.cc
 HyperLethal - https://github.com/500thousandthenibounceit/Hyperlethal2 // https://github.com/3arthx/Hyper-Lethal
@@ -213,8 +217,9 @@ CheatWare - https://github.com/ZeroZipp/Cheatware
 Cherry - https://github.com/ma4squ3ke/cherry-leak
 ChickenWings.cc - https://github.com/JacobTheIdiot/ChickenWings.cc
 ChipsHack - https://github.com/CumHax/ChipsHack
+ChucKHack - https://github.com/chucK9b9t/chuck-hack-beta
 ChungusWare - https://github.com/bigratenthusiast/chungusware
-IceHack - https://github.com/Intel-i80486-DX4/IceHack-B1.5 // https://github.com/WarriorCrystal/ICEHack-0.5-Source
+IceHack - https://github.com/Intel-i80486-DX4/IceHack-B1.5 // https://github.com/HausemasterIssue/ICEHack-b1-SRC // https://github.com/WarriorCrystal/ICEHack-0.5-Source
 Ikea - https://github.com/Nooniboi/Public-Ikea
 ILClient - https://github.com/ssllllll/IL-Client-0.2 // https://github.com/Sxmurai/IL-Client-0.2-decompiled
 Impact - https://impactclient.net
@@ -291,8 +296,10 @@ LuneClient - https://github.com/SuperSkidder/LuneClient
 Lynx - https://github.com/Based-devs/Lynx
 M3dC3t / MadCat - https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2
 MacHack - https://github.com/ChiquitaV2/MacHack
+MackMod - https://github.com/HausemasterIssue/MackMod
 MahanWare - https://github.com/OldReposRIP/Mahan-Ware-b9-Leak
 MawouteClient - https://github.com/VenuzWeeb/mawoutehack
+MayhemClient - https://github.com/martin010919/Mayhem_client
 MaywrWare - https://github.com/maywr/maywrware
 McDonald - https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC
 MClient++ / MClientPlusPlus - https://github.com/MClientMCPE/MClientPlusPlus
@@ -304,10 +311,11 @@ Mercury - https://github.com/DarkiBoi/Mercury-Client // https://github.com/minec
 Meteor - https://github.com/MeteorDevelopment/meteor-client // https://meteorclient.com
 Meteor+ / MeteorPlus - https://github.com/Nekiplay/MeteorPlus
 MethodClient - https://github.com/danmaster2/MethodClient
+MetteroV2 - https://github.com/1bytes-sb/MeteorV2
 Miku - https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC
+Minced - https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2)
 Mint - https://github.com/RealzPrestige/Mint-Public
 Mio - https://github.com/asphyxia1337/mioclient-me
-Minced - https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2)
 Mirai - https://github.com/kylerittenhause/mirai-client-decompiled
 Moloch - https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su
 Momentum - https://github.com/momentumdevelopment/momentum
@@ -338,6 +346,7 @@ NiggaHack - https://github.com/zopac/niggahack
 NightClient - https://cdn.discordapp.com/attachments/688386845062725662/688389070908424287/NightClient.jar
 NightWare+ / NightWarePlus - https://github.com/quangtien1/Nightware-Plus-Hacked-Client
 NightX - https://github.com/Aspw-w/NightX-Client
+NineHack - https://github.com/ninethousand9000/ninehackv1
 Noat Wurst+2 / Noat WurstPlusTwo - https://github.com/kool-kuhm-klients/noat-wurstplus-two
 NobleSix - https://github.com/helloworldSB/NobleSixHL32K // https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar
 NoobHack - https://github.com/NoobHackLol/NoobHack
@@ -361,6 +370,7 @@ Orion - https://github.com/AntiCope/orion
 Osiris - https://github.com/DarkiBoi/Osiris
 Osiris+ / OsirisPlus - https://github.com/THCFree/client
 Outrage - https://github.com/yallxe/outrage
+Override - https://github.com/Syamu0120/Override
 OwnedWare - https://github.com/Own3dM3/OwnedWare-leacked
 OyVey - https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3
 OyVey+ / OyVeyPlus - https://github.com/BigJayMuffinSkidsShit/OyVeyPlus
@@ -452,6 +462,7 @@ SkilledClient - https://github.com/pesshown/Skilled-Client-v3
 Skuxx - https://github.com/slowcheet4h/Skuxx-1.6
 Sleek - https://github.com/intexception/SleekClient
 Slu.gg / SluGG - https://github.com/notRevhacks/Slu.gg-1.0
+SlugClient - https://github.com/The-Forecaster/Slug-client
 SmartClient - https://github.com/sssssssthedev/SmartClient
 Sn0w - https://github.com/pineapplebby/sn0w-2.0.0
 Snow - https://github.com/PlutoSolutions/Snow
@@ -477,6 +488,7 @@ Sweet / Sweet+ / SweetPlus - https://github.com/3000IQPlay/Sweets-deobf
 Swift - https://github.com/hashPirate/Swift-Client-1.12.2
 Target - https://github.com/yaskylan/Target_Client
 TaterGod.cc - https://github.com/RealzPrestige/TaterGod-Leak
+TeddyWare - https://github.com/ChompChompDead/Teddyware-Client
 Tenacity - https://intent.store // https://github.com/MrM02UA/Tenacity-Client-4.0-Eclipse-Ready // https://github.com/tuskypaster/Tenacity-for-1.12.2
 Tensor - https://github.com/IUDevman/Tensor
 Tesla - https://github.com/AnotherNoName/Tesla-SRC
@@ -498,7 +510,6 @@ TurcoHack.cc - https://github.com/3000IQPlay/TurcoHack.cc
 Turok - https://github.com/chris2rich/turok
 TuxHack - https://github.com/Tux8068/TuxHack
 Uranium - https://github.com/maywr/uranium
-Urmomia - https://github.com/Urmomia/urmomia-client
 Urmomia - https://github.com/Urmomia/urmomia-client
 UwUGod - https://github.com/Torono909/UwUGod-Modules-Src
 UZI Client - https://github.com/Unicode01/UZI-Client
