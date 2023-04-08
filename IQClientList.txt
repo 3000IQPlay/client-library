@@ -449,6 +449,7 @@ SexHack - https://github.com/noatmc/sexhack
 SexMaster.cc - https://github.com/AnotherNoName/SexMaster.CC
 ShafferHack - https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client
 SHGR - https://github.com/KamiSkidder/shgr-client
+Shrimp - https://github.com/Aids-dev/shrimp
 SigamWare.CC - https://github.com/DrillFyph/SigmaWare.cc
 Sigma - https://www.sigmajello.ga/downloads
 Silence - https://github.com/chris2rich/SilenceClient
