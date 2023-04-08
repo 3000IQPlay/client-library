@@ -188,6 +188,7 @@ Harvest - https://github.com/BedTrap/Harvest
 HayBale - https://github.com/HayBaleClient/HayBale-Source
 Hearse - https://cdn.discordapp.com/attachments/685487646197415957/735112124912762960/Hearse_Hack_b-0.5_OBF.jar // https://cdn.discordapp.com/attachments/685487646197415957/735131873042497546/Hearse_0.5_cracked.jar
 HeavenClient - https://github.com/srcgod/HeavenClientCrack
+HemHacks - https://github.com/Gri11edHam/HamHacks
 Hephaestus - https://github.com/Frontear/HephaestusClient
 Hiassi.su - https://github.com/3000IQPlay/hiassi.su
 HilariousWare - https://github.com/SirHilarious/HilariousWare
@@ -249,6 +250,7 @@ Kemmy.cc - https://github.com/PlutoSolutions/kemmy.cc
 Ket - https://github.com/oyzipfile/ket-public
 Ketamine - https://intent.store
 KevinClient - https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient
+KiwiClient - https://github.com/TangyKiwi/KiwiClient
 KnightHack - https://github.com/RayyanStudios/KnightHack
 Koks - https://github.com/Schummel-Software/Koks-v3
 Konas - https://github.com/threevt/Phobos-Rewrite
@@ -346,6 +348,7 @@ Novoline - https://github.com/jeremypelletier/novoline-unlicensed // https://nov
 Nursultan - http://nursultan.fun
 NutGod.CC - https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar
 NyaHack - https://github.com/chunfeng666/nyahack
+OakClient - https://github.com/desertcod98/OakClient
 ObamaHack - https://github.com/chris2rich/ObamaHack
 Oblivion - https://cdn.discordapp.com/attachments/622299315028885514/701308296673362030/Oblivion-v0.3-release.jar
 OctoHack - https://github.com/Primooctopus33/octohack
