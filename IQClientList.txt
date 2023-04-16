@@ -490,7 +490,7 @@ Swift - https://github.com/hashPirate/Swift-Client-1.12.2
 Target - https://github.com/yaskylan/Target_Client
 TaterGod.cc - https://github.com/RealzPrestige/TaterGod-Leak
 TeddyWare - https://github.com/ChompChompDead/Teddyware-Client
-Tenacity - https://intent.store // https://github.com/MrM02UA/Tenacity-Client-4.0-Eclipse-Ready // https://github.com/tuskypaster/Tenacity-for-1.12.2
+Tenacity - https://intent.store // https://github.com/HCU-Reborn/Tenacity // https://github.com/tuskypaster/Tenacity-for-1.12.2
 Tensor - https://github.com/IUDevman/Tensor
 Tesla - https://github.com/AnotherNoName/Tesla-SRC
 Theresa - https://github.com/YumeGod/TheresaModules
