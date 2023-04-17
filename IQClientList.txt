@@ -121,6 +121,7 @@ Devu - https://github.com/4wl/Devu
 DHMClient - https://github.com/hf2kxn/DHMClient
 Distance - https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open
 Doki - https://github.com/YumeGod/OpenDokiClient2
+Dope - https://github.com/ssverify/dope-ghost-2.0
 DoragonClient - https://github.com/VortexHFM/Doragon-Client
 DotGod.cc - https://github.com/dabigbulletz638/dotgod.cc
 Dragon - https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar
@@ -286,7 +287,7 @@ LmaoBox.net - https://github.com/chris2rich/lmaobox.net
 LoseBypass - https://github.com/deadLORD135/losebypass-reup
 LoseBypass - https://losebypass.com
 Love - https://github.com/chris2rich/LoveClient
-Lover - https://github.com/KgDW/Lover-decomp-buildable // https://github.com/chunfeng666/lover-main
+Lover - https://github.com/DoNhutTann/Lover-public // https://github.com/KgDW/Lover-decomp-buildable
 Luchadora - https://github.com/x4e/Luchadora
 LuigiHack / Alice - https://github.com/3000IQPlay/LuigiHacks-deobf
 LumaHack - https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911
@@ -337,6 +338,7 @@ NanoSense - https://github.com/Mic2333/NanoSense
 NClient - https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient
 Nebula - https://github.com/Sxmurai/nebula
 Neko+ / NekoPlus - https://github.com/ProfKambing/nekoplus-public
+Neptunium - https://github.com/Neptunium-Development/neptunium-client
 Neutron - https://github.com/GentlemanMC/Neutron-1.6.0-leak
 NeverHook - https://github.com/decausedinside/NeverHook-Premium-SRC
 Nhack - https://github.com/whosthatperson/Nhack
@@ -408,6 +410,7 @@ Raion - https://github.com/Ropro2002/raion-public // https://github.com/Phantom5
 RatWare - https://github.com/Tr0llMode/RatWare-leak-0.4.0
 RavenB+ / RavenBPlus - https://github.com/Kopamed/Raven-bPLUS
 RavenN+ / RavenNPlus - https://github.com/SleepyFishYT/RavenNPlus
+RavenWeave - https://github.com/PianoPenguin471/RavenWeave
 Razmorozka - https://github.com/amfero/razmorozka
 Reach Premium - https://github.com/VVriter/Reach-Premium-src
 Reaper - https://github.com/AntiCope/reaper-addon
@@ -559,6 +562,7 @@ Zamorozka - https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka
 ZenGit - https://github.com/noom1337/ZenGit-Hacked-Client
 Zenith - https://github.com/The-Gopro336-Archive/Zenith-Public
 ZeroDay - https://intent.store
+ZeroHack - https://github.com/panpanadc/Zero-Hack
 ZeroTwo - https://github.com/CatsAreGood1337/ZeroTwo-src
 Zeus - https://github.com/ezLeaks/Zeus
 Zinc - https://github.com/BigJayMuffinSkidsShit/Zinc-0.1
