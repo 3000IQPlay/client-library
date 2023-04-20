@@ -87,7 +87,7 @@ Claudius - https://github.com/Crimply/Claudius
 Click - https://github.com/noatmc/click
 Client - https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0
 CliNet - https://github.com/DarkiBoi/CliNet
-CloudClient - https://github.com/CloudClientDev/cloudclient
+Cloud - https://www.mediafire.com/file/f2s1r5bza79pvvt/cloud.zip/file
 Cobalt - https://github.com/Gav06/cobalt-utility-mod
 Coffee - https://github.com/Coffee-Client/Coffee
 ColaHack - https://github.com/CumHax/ColaHack
