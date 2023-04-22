@@ -156,6 +156,7 @@ FireWork - https://github.com/VVriter/Firework-client-public
 FishHack - https://github.com/PlutoSolutions/FishHack-public
 Floppa - https://github.com/HausemasterIssue/Floppa-Client-SRC
 Fluidity - https://github.com/mccheatz/Fluidity
+Flux - https://github.com/heedii/flux-addon
 ForgeHax - https://github.com/fr1kin/ForgeHax
 Francium - https://github.com/IllegalException/Francium
 freemanatee - https://github.com/freethemanatee/freemanatee-client
