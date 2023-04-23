@@ -227,6 +227,7 @@ ILClient - https://github.com/ssllllll/IL-Client-0.2 // https://github.com/Sxmur
 Impact - https://impactclient.net
 Impact+ / ImpactPlus - https://github.com/unfidelity/impact-plus
 ImpHack / ImpHax - https://github.com/SaberAspect/ImpHax
+Incoming - https://github.com/KillAura7170/Incoming-nix
 Indium.cc - https://github.com/OfficialMohalk/Indium.cc
 Inertia - https://inertiaclient.com
 Inertial - https://github.com/EclipseAFK/Inertial-Client-source-code
@@ -365,6 +366,7 @@ ObamaHack - https://github.com/chris2rich/ObamaHack
 Oblivion - https://cdn.discordapp.com/attachments/622299315028885514/701308296673362030/Oblivion-v0.3-release.jar
 OctoHack - https://github.com/Primooctopus33/octohack
 Omega - https://github.com/ya-ilya/omega
+OmegaHack - https://github.com/neilhuang007/omegahack
 OnePop - https://github.com/MrsRina/onepop
 Onigiri - https://github.com/Nodoka4318/OnigiriClient
 Orangette - https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette
@@ -484,6 +486,7 @@ Stay - https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kx
 StayPro - https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL
 Stifle - https://github.com/BadMoXi/Stifle
 Strafehack - https://github.com/kyv3/Strafehack-leaked
+Sugoma - https://github.com/eetgeenappels/Sugoma
 Summit - https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit
 Summit+ / SummitPlus - https://github.com/JohnShiozo/SummitPlus
 SumoClient - https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9
