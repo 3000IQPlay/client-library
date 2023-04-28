@@ -59,6 +59,7 @@ BLM - https://github.com/blmclient/client
 BloodHack - https://github.com/gerald0mc/bloodhack
 BloodyClient - https://github.com/PlutoSolutions/BloodyClient
 BloomWare - https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable
+BlueZenith - https://github.com/Endemic1337/Blue-Zenith
 Bobr - https://github.com/kisman2000/Bobr-Client-0.0.9
 BobrWare - https://anonfiles.com/n6Bcy3wey5/BoberWareFree_rar
 Bonk - https://cdn.discordapp.com/attachments/689371591976681522/708203599284666518/Bonk_Utility_Client_v0.1.1.jar
@@ -245,7 +246,7 @@ JigokuSense - https://github.com/noatmc/jigokusense-leak
 Jigsaw - https://www.jigsawclient.net
 JorgitoHack - https://github.com/BebSxy/JorgitoHack
 JuiceClient - https://github.com/ClientPlayground/Juice-Client
-Juul - https://github.com/jeremypelletier/juul-unlicensed // https://intent.store
+Juul - https://github.com/jeremypelletier/juul-unlicensed // https://github.com/Endemic1337/Juul // https://intent.store
 KAMI - https://github.com/zeroeightysix/KAMI
 Kami++ / KamiPlusPlus - https://github.com/GentlemanMC/Kamipp
 Kami5 / KamiFive - https://github.com/DriftyDev/CLEAN_Kami5-1.8-BUILDABLE_SRC
