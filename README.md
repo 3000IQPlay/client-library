@@ -49,11 +49,13 @@ This repository contains a comprehensive list of various clients. Please note th
 | Banan+ / BananPlus  | https://github.com/Kanianan/b-archive                   |
 | Bandito.club        | https://github.com/gerald0mc/bandito.club               |
 | Banzem              | https://github.com/yunusborazan/Banzem-Client           |
+| Bape                | https://github.com/ImCzf233/Bape-Opensource // https://github.com/ImCzf233/bape-opensources             |
 | Bartender           | https://github.com/XeonLyfe/Bartender-Src               |
 | BaseBand            | https://github.com/0x7DB/BaseBand-FOSS                  |
 | BBCWare             | https://github.com/unnamedlife/bbcware                  |
 | BeefSense           | https://github.com/HausemasterIssue/BeefSense-Decomp    |
 | Beer                | https://github.com/IUDevman/Beer                        |
+| BigG                | https://github.com/ImCzf233/BIG-G-decompiled            |
 | BerryBobus          | https://github.com/kyv3-v3/BerryBobus-newrepo           |
 | BigRat              | https://github.com/ZimnyCat/BigRat                      |
 | BlackAndWhite       | https://github.com/AntiCope/reaper-addon                |
@@ -125,7 +127,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Devu                | https://github.com/4wl/Devu                             |
 | DHMClient           | https://github.com/hf2kxn/DHMClient                     |
 | Distance            | https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open |
-| Doki                | https://github.com/YumeGod/OpenDokiClient2              |
+| Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
 | Dope                | https://github.com/ssverify/dope-ghost-2.0              |
 | DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
 | DotGod.cc           | https://github.com/dabigbulletz638/dotgod.cc            |
@@ -140,6 +142,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
 | Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
 | Evangelion          | https://github.com/BebSxy/Evangelion                    |
+| EvliEye             | https://github.com/GSCSDSUN/EvliEye-OpenSource          |
 | Evo                 | https://github.com/WarriorCrystal/Evo                   |
 | Exeter              | https://github.com/The-Gopro336-Archive/Exeter-1.12.2   |
 | Existent            | https://github.com/Rabies1337/Existent-Old              |
@@ -243,6 +246,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Invicta             | https://github.com/2b2t-cc/Invicta                      |
 | InvincibilityHack   | https://github.com/Coderx-Gamer/invincibility-hack      |
 | iSync               | https://intent.store                                    |
+| Jackey              | https://github.com/ImCzf233/Jackey-opensource           |
 | JebHack             | https://github.com/fan4145/jabhak-src                   |
 | JesusHack           | https://github.com/Vitalasy/jesushack                   |
 | JexClient           | https://github.com/DustinRepo/JexClient                 |
@@ -277,9 +281,10 @@ This repository contains a comprehensive list of various clients. Please note th
 | Lantern             | https://github.com/PlusPlusMC/Lantern                   |
 | LavaHack / Kisman.cc | https://github.com/TheKisDevs/LavaHack-Public           |
 | LBounce             | https://github.com/AFterNode/LBounce                    |
+| Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
-| LifeLine            | https://github.com/ImCzf233/Lifeline-opensource         |
+| LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
 | Lime                | https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip |
 | LiquidBounce        | https://github.com/CCBlueX/LiquidBounce                 |
 | LiquidBounce+ / LiquidBouncePlus | https://github.com/WYSI-Foundation/LiquidBouncePlus     |
@@ -297,11 +302,13 @@ This repository contains a comprehensive list of various clients. Please note th
 | Love                | https://github.com/chris2rich/LoveClient                |
 | Lover               | https://github.com/DoNhutTann/Lover-public // https://github.com/KgDW/Lover-decomp-buildable |
 | Luchadora           | https://github.com/x4e/Luchadora                        |
+| LuckyClient         | https://github.com/ImCzf233/LuckyClient-opensource      |
 | LuigiHack / Alice   | https://github.com/3000IQPlay/LuigiHacks-deobf          |
 | LumaHack            | https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911 |
 | LumeMinus / Luma-   | https://github.com/3000IQPlay/LumaMinus-leaked          |
 | Lumen               | https://github.com/olliem5/lumen                        |
 | LuneClient          | https://github.com/SuperSkidder/LuneClient              |
+| Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader      |
 | Lynx                | https://github.com/Based-devs/Lynx                      |
 | M3dC3t / MadCat     | https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2 |
 | MacHack             | https://github.com/ChiquitaV2/MacHack                   |
@@ -420,6 +427,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare             | https://github.com/Tr0llMode/RatWare-leak-0.4.0         |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
+| RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenN+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
 | RavenWeave          | https://github.com/PianoPenguin471/RavenWeave           |
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
@@ -462,6 +470,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SexHack             | https://github.com/noatmc/sexhack                       |
 | SexMaster.cc        | https://github.com/AnotherNoName/SexMaster.CC           |
 | ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
+| ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
@@ -496,7 +505,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sugoma              | https://github.com/eetgeenappels/Sugoma                 |
 | Summit              | https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit |
 | Summit+ / SummitPlus | https://github.com/JohnShiozo/SummitPlus                |
-| SumoClient          | https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9 |
+| SumoClient          | https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9 // https://github.com/ImCzf233/Sumo-decompiled |
 | Supermacy           | https://github.com/master7720/Supermacy-client-1.8.jar-leaked |
 | Sushi               | https://github.com/Toshimichi0915/sushi-client          |
 | Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
@@ -509,6 +518,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Tenacity            | https://intent.store // https://github.com/HCU-Reborn/Tenacity // https://github.com/tuskypaster/Tenacity-for-1.12.2 |
 | Tensor              | https://github.com/IUDevman/Tensor                      |
 | Tesla               | https://github.com/AnotherNoName/Tesla-SRC              |
+| THSense             | https://github.com/ImCzf233/TGSense-Opensource          |
 | Theresa             | https://github.com/YumeGod/TheresaModules               |
 | Thesame.space       | https://github.com/oyzipfile/thesame-space              |
 | ThunderHack+ / ThunderHackPlus | https://github.com/Pan4ur/ThunderHackPlus               |
@@ -574,6 +584,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Yee                 | https://cdn.discordapp.com/attachments/689371591976681522/728990362672300042/Yee-Client-B2.4-1.12.2-release.jar // https://cdn.discordapp.com/attachments/695548730664812635/695548986756431912/Yee-Client-2.3-release.jar |
 | YoinkHack           | https://github.com/PlutoSolutions/YoinkHack             |
 | Zamorozka           | https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka |
+| Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
 | Zenith              | https://github.com/The-Gopro336-Archive/Zenith-Public   |
 | ZeroDay             | https://intent.store                                    |
