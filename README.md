@@ -10,7 +10,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | 711.club            | https://github.com/master7720/711.club                  |
 | AbHack              | https://github.com/chunfeng666/abhack-main              |
 | Abstract            | https://github.com/WMSGaming/Abstract-1.12.2            |
-| Abyss               | https://github.com/PlutoSolutions/Abyss // https://github.com/PlutoSolutions/AbyssBetaEnforcer // https://abyssclient.com |
+| Abyss               | https://crystalpvp.ru/abyss/ // https://abyssclient.com |
 | AbyssBeta           | https://github.com/PlutoSolutions/AbyssBetaEnforcer     |
 | Acid                | https://github.com/kyv3-v2/Acid-phobos-edition          |
 | AClient             | https://github.com/KuromeSan/a1.2.2b-hacked-client      |
@@ -70,7 +70,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Bopis.club          | https://github.com/IllegalException/Bopis.club          |
 | BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
 | BossWare            | https://github.com/vertent/bossware-leaked              |
-| Boze                | https://github.com/PlutoSolutions/Boze // https://www.boze.dev |
+| Boze                | https://www.boze.dev // https://crystalpvp.ru/boze/ |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
 | BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
 | C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
@@ -115,7 +115,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Dactyl / Moonlight  | https://github.com/redvx/Dactyl-1.6.8 // https://github.com/fIuffy/Dactyl |
 | Dallas              | https://github.com/gerald0mc/Dallas                     |
 | DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
-| DeadCode            | https://github.com/PlutoSolutions/DeadCode              |
+| DeadCode            | https://crystalpvp.ru/deadcode/                         |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
 | Density             | https://github.com/hashPirate/archived-client           |
@@ -146,6 +146,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Expensive           | https://expensiveclient.xyz // https://github.com/tuskypaster/Expensive-Client |
 | Experium            | https://github.com/3000IQPlay/Experium                  |
 | ExVision            | https://github.com/Nutelaspaceman/exvision-b1-cracked   |
+| FabricHax           | https://github.com/pranavgade20/FabricHax               |
 | FallenMod           | https://github.com/4wl/FallenUtilMod                    |
 | FamilyFunPack       | https://github.com/anOtherAnalyse/FamilyFunPack         |
 | FartHack.cc         | https://github.com/CumHax/FartHax.cc                    |
@@ -168,8 +169,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | FrogWare            | https://github.com/XZRC/FrogWare                        |
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
-| Future              | https://futureclient.net // https://github.com/PlutoSolutions/Future |
-| FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource |
+| Future              | https://futureclient.net // https://crystalpvp.ru/future/ |
+| FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
 | Galactie            | https://github.com/maxgamesNL/Galactite                 |
 | GameSense / GS      | https://github.com/IUDevman/gamesense-client            |
 | GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/TechAle/gsplusplus                   |
@@ -221,6 +222,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Charon.eu           | https://github.com/oyzipfile/chaaron.eu                 |
 | CheatWare           | https://github.com/ZeroZipp/Cheatware                   |
 | Cherry              | https://github.com/ma4squ3ke/cherry-leak                |
+| ChickenWare         | https://github.com/urkkiz225/ChickenWare                |
 | ChickenWings.cc     | https://github.com/JacobTheIdiot/ChickenWings.cc        |
 | ChipsHack           | https://github.com/CumHax/ChipsHack                     |
 | ChucKHack           | https://github.com/chucK9b9t/chuck-hack-beta            |
@@ -265,7 +267,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | KiwiClient          | https://github.com/TangyKiwi/KiwiClient                 |
 | KnightHack          | https://github.com/RayyanStudios/KnightHack             |
 | Koks                | https://github.com/Schummel-Software/Koks-v3            |
-| Konas               | https://github.com/threevt/Phobos-Rewrite               |
+| Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ |
 | Konc                | https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip |
 | Kull                | https://github.com/Sxmurai/kull                         |
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
@@ -332,7 +334,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MonSoon             | https://intent.store // https://monsoon.wtf             |
 | Moon                | https://github.com/master7720/moon-leak                 |
 | Moonlight           | https://github.com/Gav06/Moonlight                      |
-| Moonlight           | https://github.com/PlutoSolutions/Moonlight             |
+| Moonlight           | https://crystalpvp.ru/moonlight/                        |
 | MoonWare            | https://github.com/tuskypaster/MoonWare-Client // https://github.com/noom1337/hacked-client-collection/tree/main/MoonWare%20(1.12.2) |
 | Morgen.cc           | https://github.com/3000IQPlay/morgen.cc                 |
 | MotClient           | https://github.com/WarriorCrystal/MotClient-Buildeable-SRC |
@@ -406,7 +408,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
 | Pulsive             | https://intent.store                                    |
 | PureHack            | https://github.com/Mathrandom7910/PureHack              |
-| Pyro                | https://www.pyroclient.com // https://github.com/PlutoSolutions/Pyro |
+| Pyro                | https://www.pyroclient.com // https://crystalpvp.ru/pyro/ |
 | Quantum             | https://github.com/PlutoSolutions/6god-Quantum          |
 | Quantum Continued   | https://github.com/fan4145/quantum-continued-releases // https://github.com/fan4145/quantum-src-releases |
 | Qusar               | https://github.com/goose-TM/Qusar-Client                |
@@ -441,7 +443,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ruby                | https://github.com/RealzPrestige/Ruby                   |
 | Ruhama              | https://github.com/chris2rich/Ruhama                    |
 | Ruhama+             | https://github.com/rolkoztm/ruhama-plus-with-jar        |
-| RusherHack          | https://rusherhack.org                                  |
+| RusherHack          | https://rusherhack.org // https://crystalpvp.ru/rusherhack/ |
 | RussianWare         | https://github.com/d2hv/RussianWare                     |
 | Rustme              | https://github.com/oyzipfile/Rustme-Clients-Source-Code |
 | SafePoint.club / SafePointClub | https://github.com/Canonball90/SafePointy               |
