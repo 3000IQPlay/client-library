@@ -13,4 +13,4 @@ def convert_to_table(input_file, output_file):
         outfile.write("\n## Disclaimer\n\n")
         outfile.write("This list is provided for informational purposes only. The repository owner does not endorse or support any of the listed clients. Use these clients at your own risk and ensure you understand the potential risks involved.")
 
-convert_to_table('IQClientList.txt', 'README.md')
+convert_to_table('README.md')
