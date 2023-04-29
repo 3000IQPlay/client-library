@@ -550,6 +550,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | WexSide             | https://wexside.xyz // https://github.com/7b7aProject/WexSide-crack-1.12.2 |
 | WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
 | Wild                | https://www.wildclient.ru                               |
+| Windy               | https://github.com/ImCzf233/windy-opensource            |
 | Winter              | https://github.com/pvpb0t/Winter                        |
 | WintWare            | https://github.com/noom1337/WintWare-source-code        |
 | WOO                 | https://github.com/maywr/WOO-Buildable                  |
