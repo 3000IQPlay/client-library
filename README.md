@@ -462,6 +462,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Satellite           | https://github.com/SatelliteClient/Satellite            |
 | Saturn              | https://github.com/Sxmurai/saturn-client                |
 | Saturn / EsoHack Rewrite | https://github.com/cryst-al/oyvey-skids/releases/tag/saturn // https://github.com/Intel-i80486-DX4/esohack-rewrite-upload |
+| Selene              | https://github.com/Canonball90/SeleneLeak               |
 | Seppuku             | https://github.com/seppukudevelopment/seppuku           |
 | Serenity            | https://github.com/KohimaNayagato/Serenity              |
 | SerenityCE          | https://github.com/SerenityEnterprises/SerenityCE       |
