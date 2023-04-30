@@ -469,6 +469,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SevCheat            | https://github.com/SevJSix/SevCheat                     |
 | SexHack             | https://github.com/noatmc/sexhack                       |
 | SexMaster.cc        | https://github.com/AnotherNoName/SexMaster.CC           |
+| Shadow              | https://github.com/LunaWasFlaggedAgain/Shadow           |
 | ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
 | ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
@@ -545,6 +546,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
+| Vertex              | https://github.com/AstralDB/VertexClient                |
 | Vertine             | https://github.com/VertineClient/vertine                |
 | VeteranHack         | https://github.com/HausemasterIssue/VeteranHack-Decomp  |
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
@@ -587,6 +589,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
 | Zenith              | https://github.com/The-Gopro336-Archive/Zenith-Public   |
+| Zeon                | https://github.com/ZeonDevelopment/Zeon                 |
 | ZeroDay             | https://intent.store                                    |
 | ZeroHack            | https://github.com/panpanadc/Zero-Hack                  |
 | ZeroTwo             | https://github.com/CatsAreGood1337/ZeroTwo-src          |
