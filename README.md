@@ -166,6 +166,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Floppa              | https://github.com/HausemasterIssue/Floppa-Client-SRC   |
 | Fluidity            | https://github.com/mccheatz/Fluidity                    |
 | Flux                | https://github.com/heedii/flux-addon                    |
+| FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | Francium            | https://github.com/IllegalException/Francium            |
 | freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
@@ -334,7 +335,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
 | Mio                 | https://github.com/asphyxia1337/mioclient-me            |
 | Mirai               | https://github.com/kylerittenhause/mirai-client-decompiled |
-| Moloch              | https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su |
+| Moloch.su           | https://github.com/Canonball90/moloch.su // https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su |
 | Momentum            | https://github.com/momentumdevelopment/momentum         |
 | MoneyMod+2 / MoneyModPlusTwo | https://github.com/PlutoSolutions/moneymodplus2-src     |
 | MoneyMod+3 / MoneyModPlusThree | https://github.com/mr-nv/moneymodplus3 // https://github.com/doctor-swag/moneymod-rewrite |
@@ -462,6 +463,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Satellite           | https://github.com/SatelliteClient/Satellite            |
 | Saturn              | https://github.com/Sxmurai/saturn-client                |
 | Saturn / EsoHack Rewrite | https://github.com/cryst-al/oyvey-skids/releases/tag/saturn // https://github.com/Intel-i80486-DX4/esohack-rewrite-upload |
+| Selene              | https://github.com/Canonball90/SeleneLeak               |
 | Seppuku             | https://github.com/seppukudevelopment/seppuku           |
 | Serenity            | https://github.com/KohimaNayagato/Serenity              |
 | SerenityCE          | https://github.com/SerenityEnterprises/SerenityCE       |
@@ -502,6 +504,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Stay                | https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | Stifle              | https://github.com/BadMoXi/Stifle                       |
+| Sudo                | https://github.com/Canonball90/SudoClientLeak           |
 | Strafehack          | https://github.com/kyv3/Strafehack-leaked               |
 | Sugoma              | https://github.com/eetgeenappels/Sugoma                 |
 | Summit              | https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit |
