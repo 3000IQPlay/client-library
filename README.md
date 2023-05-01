@@ -488,7 +488,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Skill               | https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar |
 | SkilledClient       | https://github.com/pesshown/Skilled-Client-v3           |
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
-| Sleek               | https://github.com/intexception/SleekClient             |
+| Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
 | Slu.gg / SluGG      | https://github.com/notRevhacks/Slu.gg-1.0               |
 | SlugClient          | https://github.com/The-Forecaster/Slug-client           |
 | SmartClient         | https://github.com/sssssssthedev/SmartClient            |
