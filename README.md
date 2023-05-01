@@ -457,6 +457,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | RussianWare         | https://github.com/d2hv/RussianWare                     |
 | Rustme              | https://github.com/oyzipfile/Rustme-Clients-Source-Code |
 | SafePoint.club / SafePointClub | https://github.com/Canonball90/SafePointy               |
+| SafePoint+2 / SafePointPlusTwo | https://github.com/Canonball90/Safepoint2               |
 | Salhack             | https://github.com/ionar2/spidermod                     |
 | SalHackSkid         | https://github.com/pleasegivesource/SalHackSkid         |
 | Salt                | https://github.com/gerald0mc/Salt                       |
