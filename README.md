@@ -6,6 +6,7 @@ This repository contains a comprehensive list of various clients. Please note th
 |---------------------|-----------------------------------------------------------|
 | 06dWare             | https://github.com/GentlemanMC/Xulu-06dware             |
 | 1.19 Client         | https://github.com/zopac/1.19-client                    |
+| 303Hack / ThreeZeroThreeHack | https://github.com/MikuSoCute/ThreeZeroThreeHack             |
 | 3arthh4ck / Phobos Newbase | https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck |
 | 711.club            | https://github.com/master7720/711.club                  |
 | AbHack              | https://github.com/chunfeng666/abhack-main              |
@@ -168,6 +169,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Flux                | https://github.com/heedii/flux-addon                    |
 | FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
+| FortniteHook        | https://github.com/MikuSoCute/FortniteHook-Public       |
 | Francium            | https://github.com/IllegalException/Francium            |
 | freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
 | FrogWare            | https://github.com/XZRC/FrogWare                        |
