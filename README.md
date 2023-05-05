@@ -300,8 +300,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | ListedHack          | https://github.com/chris2rich/ListedHack                |
 | LiveSense           | https://github.com/WMSGaming/LiveSense                  |
 | LmaoBox.net         | https://github.com/chris2rich/lmaobox.net               |
-| LoseBypass          | https://github.com/deadLORD135/losebypass-reup          |
-| LoseBypass          | https://losebypass.com                                  |
+| LoseBypass          | https://losebypass.com // https://github.com/deadLORD135/losebypass-reup          |
 | Love                | https://github.com/chris2rich/LoveClient                |
 | Lover               | https://github.com/DoNhutTann/Lover-public // https://github.com/KgDW/Lover-decomp-buildable |
 | Luchadora           | https://github.com/x4e/Luchadora                        |
