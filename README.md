@@ -210,6 +210,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | HilariousWare       | https://github.com/SirHilarious/HilariousWare           |
 | HitlerHax           | https://github.com/Yaimsputnik5/HitlerHax-Leak          |
 | Hitori              | https://github.com/cattyngmd/HitoriClient // https://github.com/PlutoSolutions/Hitori-Client |
+| Hmxix               | https://github.com/cubk/HmxixClient-opensource           |
 | HockeyWare          | https://github.com/Catuquei/hockeyware                  |
 | HOPE                | https://github.com/TashCat/HOPE                         |
 | Horion              | https://github.com/horionclient/Horion                  |
