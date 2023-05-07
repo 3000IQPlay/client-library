@@ -278,6 +278,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ |
 | Konc                | https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip |
 | Kull                | https://github.com/Sxmurai/kull                         |
+| Kura | https://github.com/dyzjct/Kura-Public |
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
 | Lambda              | https://github.com/lambda-client/lambda                 |
 | Lambda+ / LambdaPlus | https://github.com/DigimaticxHius/Lambda-Plus           |
