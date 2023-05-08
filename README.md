@@ -93,6 +93,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Celestial           | https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2) |
 | Claudius            | https://github.com/Crimply/Claudius                     |
 | Click               | https://github.com/noatmc/click                         |
+| ClickCrystals       | https://github.com/ItziSpyder/ClickCrystals             |
 | Client              | https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0 |
 | CliNet              | https://github.com/DarkiBoi/CliNet                      |
 | Cloud               | https://www.mediafire.com/file/f2s1r5bza79pvvt/cloud.zip/file |
