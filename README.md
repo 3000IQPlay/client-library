@@ -522,6 +522,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Syracuse            | https://github.com/killerkong24/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-NextGen/tree/master // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
 | Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
 | Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
+| Tarasande | https://github.com/Sumandora/tarasande |
 | Target              | https://github.com/yaskylan/Target_Client               |
 | TaterGod.cc         | https://github.com/RealzPrestige/TaterGod-Leak          |
 | TeddyWare           | https://github.com/ChompChompDead/Teddyware-Client      |
