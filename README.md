@@ -172,6 +172,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook        | https://github.com/MikuSoCute/FortniteHook-Public       |
 | Francium            | https://github.com/IllegalException/Francium            |
+| Francium 1.19 | https://github.com/3000IQPlay/Francium-Cracked |
 | freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
 | FrogWare            | https://github.com/XZRC/FrogWare                        |
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
@@ -431,6 +432,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare             | https://github.com/Tr0llMode/RatWare-leak-0.4.0         |
+| RavenB- / RavenBMinus | https://github.com/3000IQPlay/RavenBMinus-Deobf |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenN+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
