@@ -119,6 +119,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CXClient            | https://github.com/pixelcmtd/CXClient                   |
 | Dactyl / Moonlight  | https://github.com/redvx/Dactyl-1.6.8 // https://github.com/fIuffy/Dactyl |
 | Dallas              | https://github.com/gerald0mc/Dallas                     |
+| DarkClient | https://github.com/Dark-Developments/DarkClient |
 | DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
 | DeadCode            | https://crystalpvp.ru/deadcode/                         |
 | Delta               | https://github.com/noatmc/delta                         |
