@@ -555,6 +555,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Urmomia             | https://github.com/Urmomia/urmomia-client               |
 | UwUGod              | https://github.com/Torono909/UwUGod-Modules-Src         |
 | UZI Client          | https://github.com/Unicode01/UZI-Client                 |
+| Vape V4 | https://github.com/DuckySoLucky/Vape-V4 |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
