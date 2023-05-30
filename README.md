@@ -92,6 +92,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CCSHack             | https://github.com/Tr0llMode/CCShack                    |
 | Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
 | Celestial           | https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2) |
+| Celestial Recode | https://github.com/tuskypaster/Celestial-Recode-src |
 | Claudius            | https://github.com/Crimply/Claudius                     |
 | Click               | https://github.com/noatmc/click                         |
 | ClickCrystals       | https://github.com/ItziSpyder/ClickCrystals             |
@@ -322,6 +323,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MacHack             | https://github.com/ChiquitaV2/MacHack                   |
 | MackMod             | https://github.com/HausemasterIssue/MackMod             |
 | MahanWare           | https://github.com/OldReposRIP/Mahan-Ware-b9-Leak       |
+| Manjaro | https://github.com/tuskypaster/Manjaro-Client |
 | MatHax              | https://github.com/Volcan4436/Mathax-2.0-Unreleased-Dev-Source // https://github.com/LordDoom-eng/MatHax-Client-Legacy // https://github.com/antonchu2006/MatHaxClient // https://github.com/CoolLucy12321/Installer |
 | MawouteClient       | https://github.com/VenuzWeeb/mawoutehack                |
 | MayhemClient        | https://github.com/martin010919/Mayhem_client           |
