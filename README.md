@@ -317,7 +317,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | LumeMinus / Luma-   | https://github.com/3000IQPlay/LumaMinus-leaked          |
 | Lumen               | https://github.com/olliem5/lumen                        |
 | LuneClient          | https://github.com/SuperSkidder/LuneClient              |
-| Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader      |
+| Lycoris | https://github.com/VVriter/Lycoris-client-leak |
+| Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader|
 | Lynx                | https://github.com/Based-devs/Lynx                      |
 | M3dC3t / MadCat     | https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2 |
 | MacHack             | https://github.com/ChiquitaV2/MacHack                   |
@@ -394,6 +395,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
 | Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
+| ORH | https://github.com/VVriter/ORH |
 | Oringo              | https://github.com/Negro-Development/OringoClient-Cracked |
 | Orion               | https://github.com/AntiCope/orion                       |
 | Osiris              | https://github.com/DarkiBoi/Osiris                      |
@@ -569,6 +571,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
 | Violet              | https://github.com/noatmc/violet                        |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
+| VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
 | VyperHax            | https://github.com/KRYMZ0N/VyperHax                     |
 | W1seHack            | https://github.com/pineapplebby/w1sehack-public         |
