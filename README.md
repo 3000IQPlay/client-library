@@ -620,7 +620,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zodiac              | https://github.com/cattyngmd/zodiac                     |
 | Zori                | https://github.com/slol2/zori-but-actually-good         |
 | Zork                | https://github.com/AckerRun1337/Zork-Client             |
-| ZWare.CC            | https://github.com/ZWareDevelopment/ZWare.cc-Old        |
+| ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc-Old |
 
 ## Disclaimer
 
