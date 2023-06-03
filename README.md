@@ -557,7 +557,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | TuxHack             | https://github.com/Tux8068/TuxHack                      |
 | Uranium             | https://github.com/maywr/uranium                        |
 | Urmomia             | https://github.com/Urmomia/urmomia-client               |
-| UwUGod              | https://github.com/Torono909/UwUGod-Modules-Src         |
+| UwUGod | https://github.com/Torono909/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI Client          | https://github.com/Unicode01/UZI-Client                 |
 | Vape V4 | https://github.com/DuckySoLucky/Vape-V4 |
 | Vapid               | https://github.com/starcraft66/vapid                    |
