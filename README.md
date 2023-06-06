@@ -325,6 +325,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MackMod             | https://github.com/HausemasterIssue/MackMod             |
 | MahanWare           | https://github.com/OldReposRIP/Mahan-Ware-b9-Leak       |
 | Manjaro | https://github.com/tuskypaster/Manjaro-Client |
+| MarlowClient | https://github.com/MarlowDevelopment/MarlowClient |
 | MatHax              | https://github.com/Volcan4436/Mathax-2.0-Unreleased-Dev-Source // https://github.com/LordDoom-eng/MatHax-Client-Legacy // https://github.com/antonchu2006/MatHaxClient // https://github.com/CoolLucy12321/Installer |
 | MawouteClient       | https://github.com/VenuzWeeb/mawoutehack                |
 | MayhemClient        | https://github.com/martin010919/Mayhem_client           |
