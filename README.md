@@ -446,7 +446,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
 | Reaper              | https://github.com/AntiCope/reaper-addon                |
-| Rebirth             | https://github.com/chunfeng666/rebirth-public           |
+| Rebirth             | https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
 | RenoSenseTwo        | https://github.com/RaddonEnterprises/renosense-cracked  |
