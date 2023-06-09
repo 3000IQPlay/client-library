@@ -271,6 +271,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Kamiblue+ / KamibluePlus | https://github.com/Auza2008/KamibluePlus                |
 | Kana                | https://github.com/Cypphi/kana-client                   |
 | Kaotik              | https://github.com/VenuzWeeb/Kaotik // https://github.com/LTHLeaks/Kaotik-1.3.5-Leak |
+| Kapuncion | https://github.com/Dark-Developments/Kapuncino-Client |
 | Kawaii              | https://intent.store                                    |
 | KeKWClient          | https://github.com/VortexHFM/KekW-Client                |
 | Kemmy.cc            | https://github.com/PlutoSolutions/kemmy.cc              |
