@@ -25,6 +25,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Allusion            | https://github.com/cattyngmd/allusion                   |
 | Ananta              | https://github.com/RitomG69/Ananta                      |
 | AndyClient          | https://github.com/MouathA/AndyClient-SRC               |
+| ApeClient | https://github.com/evaan/ApeClient |
 | ApeHax              | https://github.com/Team-Kedy/ApeHax                     |
 | Apollo              | https://github.com/IllegalException/Apollo-2.1          |
 | ApollyonClient      | https://cdn.discordapp.com/attachments/611452108826214401/636114166620356618/ApollyonClient-0.4-release3_1.jar |
@@ -75,6 +76,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
 | BossWare            | https://github.com/vertent/bossware-leaked              |
 | Boze                | https://www.boze.dev // https://crystalpvp.ru/boze/ |
+| BozoWare | https://github.com/Kobley/Bozoware |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
 | BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
 | C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
@@ -142,13 +144,14 @@ This repository contains a comprehensive list of various clients. Please note th
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
 | Elementars.com      | https://github.com/Elementars/Elementars.com            |
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
-| Ensamble            | https://github.com/Dimples-1337/Ensemble-1.8.9          |
+| Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
 | EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
 | Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
 | Evangelion          | https://github.com/BebSxy/Evangelion                    |
 | EvliEye             | https://github.com/GSCSDSUN/EvliEye-OpenSource          |
 | Evo                 | https://github.com/WarriorCrystal/Evo                   |
+| Exception | https://github.com/Cookie-Studio/Exception |
 | Exeter              | https://github.com/The-Gopro336-Archive/Exeter-1.12.2   |
 | Existent            | https://github.com/Rabies1337/Existent-Old              |
 | Expensive           | https://expensiveclient.xyz // https://github.com/tuskypaster/Expensive-Client |
@@ -182,6 +185,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
 | Future              | https://futureclient.net // https://crystalpvp.ru/future/ |
 | FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
+| Fyra | https://github.com/Sxmurai/fyra |
+| Galacticc | https://github.com/Kopamed/Galacticc |
 | Galactie            | https://github.com/maxgamesNL/Galactite                 |
 | GameSense / GS      | https://github.com/IUDevman/gamesense-client            |
 | GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/TechAle/gsplusplus                   |
@@ -288,7 +293,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
 | Lambda              | https://github.com/lambda-client/lambda                 |
 | Lambda+ / LambdaPlus | https://github.com/DigimaticxHius/Lambda-Plus           |
-| LanderClient        | https://github.com/Dimples-1337/LanderClient            |
+| LanderClient | https://github.com/Dimples-1337/LanderClient // https://github.com/GAQPanda/LanderClient |
 | Lantern             | https://github.com/PlusPlusMC/Lantern                   |
 | LavaHack / Kisman.cc | https://github.com/TheKisDevs/LavaHack-Public           |
 | LBounce             | https://github.com/AFterNode/LBounce                    |
@@ -316,6 +321,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LumaHack            | https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911 |
 | LumeMinus / Luma-   | https://github.com/3000IQPlay/LumaMinus-leaked          |
 | Lumen               | https://github.com/olliem5/lumen                        |
+| Luna | https://github.com/NoseFlicker/Luna-master |
 | LuneClient          | https://github.com/SuperSkidder/LuneClient              |
 | Lycoris | https://github.com/VVriter/Lycoris-client-leak |
 | Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader|
@@ -361,6 +367,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mousse              | https://github.com/Snoworange420/Mousse                 |
 | Muffin              | https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE |
 | MythClient          | https://github.com/LocalChineseMan/MythClient           |
+| Nadia | https://github.com/NotHarper/Nadia |
 | Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
 | NanoSense           | https://github.com/Mic2333/NanoSense                    |
 | NClient             | https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient |
@@ -516,6 +523,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Spark               | https://github.com/Spark-Client-Development/Spark-Client |
 | Spark               | https://github.com/Sxmurai/spark                        |
 | SpectClient         | https://github.com/SaberAspect/SpectClient              |
+| Spicy | https://github.com/Spicy-Client/Spicy |
 | SpiderSense         | https://github.com/HausemasterIssue/spidersense         |
 | Stay                | https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
@@ -587,6 +595,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Windy               | https://github.com/ImCzf233/windy-opensource            |
 | Winter              | https://github.com/pvpb0t/Winter                        |
 | WintWare            | https://github.com/noom1337/WintWare-source-code        |
+| WizClient | https://github.com/its-wiz/WizClient |
 | WOO                 | https://github.com/maywr/WOO-Buildable                  |
 | WubzMod             | https://github.com/dkonis/WubzMod                       |
 | Wurst- / WurstMinus | https://github.com/TheReal3rd/WurstMinus-Public         |
