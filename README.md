@@ -442,6 +442,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | RavenB- / RavenBMinus | https://github.com/3000IQPlay/RavenBMinus-Deobf |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
+| RavenB+++ / RavenBPlusPlusPlus / RavenB4 | https://github.com/StephenIsTaken/Raven-B4 |
 | RavenN+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
 | RavenWeave          | https://github.com/PianoPenguin471/RavenWeave           |
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
