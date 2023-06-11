@@ -177,6 +177,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook        | https://github.com/MikuSoCute/FortniteHook-Public       |
+| Fractal | https://github.com/AriaJackie/Fractal |
 | Francium            | https://github.com/IllegalException/Francium            |
 | Francium 1.19 | https://github.com/3000IQPlay/Francium-Cracked |
 | freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
