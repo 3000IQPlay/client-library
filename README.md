@@ -1,4 +1,4 @@
-# Client Collection List
+# Client Collection List - Total Clients: 630
 **MAKE SURE TO JOIN: https://discord.com/invite/84J4mhnS35**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -322,6 +322,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LumaHack            | https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911 |
 | LumeMinus / Luma-   | https://github.com/3000IQPlay/LumaMinus-leaked          |
 | Lumen               | https://github.com/olliem5/lumen                        |
+| Lumina Client | https://github.com/LuminaDevelopment/LuminaClient |
 | Luna | https://github.com/NoseFlicker/Luna-master |
 | LuneClient          | https://github.com/SuperSkidder/LuneClient              |
 | Lycoris | https://github.com/VVriter/Lycoris-client-leak |
