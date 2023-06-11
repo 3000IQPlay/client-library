@@ -530,6 +530,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Stay                | https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | Stifle              | https://github.com/BadMoXi/Stifle                       |
+| Storm | https://github.com/AllahLeaksHvH/Storm-Client |
 | Sudo                | https://github.com/Canonball90/SudoClientLeak           |
 | Strafehack          | https://github.com/kyv3/Strafehack-leaked               |
 | Sugoma              | https://github.com/eetgeenappels/Sugoma                 |
