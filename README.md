@@ -301,6 +301,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LBounce             | https://github.com/AFterNode/LBounce                    |
 | Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
+| Lemon | https://github.com/MikuSoCute/Lemon-public |
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
 | LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
 | Lime                | https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip |
@@ -563,7 +564,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | TrapClient          | https://github.com/trap-client/trap-client              |
 | Trinity             | https://github.com/LeonLeonPotato/Trinity               |
 | Trinity+ / TrinityPlus | https://github.com/ssllllll/TrinityPlus-PWNED           |
-| TrollGod.cc / RealthClient | https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod |
+| TrollGod.cc / RealthClient | https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod // https://github.com/bluteest/trollgod.cc-deobf |
 | Trollhack           | https://github.com/Luna5ama/TrollHack                   |
 | Troxill             | https://github.com/tuskypaster/Troxill-1.16.5-Source    |
 | TurcoHack.cc        | https://github.com/3000IQPlay/TurcoHack.cc              |
