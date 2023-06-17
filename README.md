@@ -91,6 +91,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
 | Catmi               | https://github.com/4wl/Catmi                            |
 | CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |
+| CatUtilities | https://github.com/AlQaedaCracks/Cat-Utilities-0.8.4 |
 | CCSHack             | https://github.com/Tr0llMode/CCShack                    |
 | Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
 | Celestial           | https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2) |
@@ -572,7 +573,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Urmomia             | https://github.com/Urmomia/urmomia-client               |
 | UwUGod | https://github.com/Torono909/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI Client          | https://github.com/Unicode01/UZI-Client                 |
-| Vape V4 | https://github.com/DuckySoLucky/Vape-V4 |
+| Vape V4 | https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack/ |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
