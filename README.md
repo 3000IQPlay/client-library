@@ -205,6 +205,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Glorium             | https://workupload.com/file/PavBkZvqzcA                 |
 | GlowClient          | https://github.com/3000IQPlay/GlowClient-Fixed          |
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
+| GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
 | GrassWare.win       | https://github.com/Zane2b2t/GrassWare.win               |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
