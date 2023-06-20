@@ -456,6 +456,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
 | RavenN+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
+| RavenO++ / RavenOPlusPlus | https://github.com/ItzzOwo/RavenOPlusPlus |
 | RavenWeave          | https://github.com/PianoPenguin471/RavenWeave           |
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
