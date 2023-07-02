@@ -538,6 +538,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sudo                | https://github.com/Canonball90/SudoClientLeak           |
 | Strafehack          | https://github.com/kyv3/Strafehack-leaked               |
 | Sugoma              | https://github.com/eetgeenappels/Sugoma                 |
+| Sukumi | https://github.com/iwantheadpats/sukumi-bedrock-opensrc |
 | Summit              | https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit |
 | Summit+ / SummitPlus | https://github.com/JohnShiozo/SummitPlus                |
 | SumoClient          | https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9 // https://github.com/ImCzf233/Sumo-decompiled |
