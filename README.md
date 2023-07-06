@@ -45,6 +45,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
 | Ayakashi            | https://github.com/MouathA/Ayakashi-unlicensed          |
+| Azorius.club | https://github.com/haychk/azorius.club |
 | AzuraX              | https://intent.store // https://github.com/Endemic1337/Azura-Client |
 | Azure               | https://github.com/Intel-i80486-DX4/Azure-For-Everyone  |
 | Backdoored          | https://github.com/RIPBackdoored/Backdoored-1.8.2-Source-Leak |
@@ -176,6 +177,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Fluidity            | https://github.com/mccheatz/Fluidity                    |
 | Flux                | https://github.com/heedii/flux-addon                    |
 | FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
+| ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook        | https://github.com/MikuSoCute/FortniteHook-Public       |
 | Fractal | https://github.com/AriaJackie/Fractal |
@@ -436,6 +438,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
+| Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | ProtoHax            | https://github.com/hax0r31337/ProtoHax                  |
 | Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
@@ -462,6 +465,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
 | Reaper              | https://github.com/AntiCope/reaper-addon                |
 | Rebirth             | https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth |
+| reDACTED | https://github.com/paramkudle/reDACTED |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
 | RenoSenseTwo        | https://github.com/RaddonEnterprises/renosense-cracked  |
@@ -506,6 +510,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
 | Sigma               | https://www.sigmajello.ga/downloads                     |
+| Sikiskenkurt.CC | https://github.com/MustafaTheRage/sikiskenkurt.cc-client |
 | Silence             | https://github.com/chris2rich/SilenceClient             |
 | Sirius              | https://github.com/MrBubblegum/Sirius-Mod               |
 | Skid+ / SkidPlus    | https://github.com/cocoapc911/Skid-Plus-Client          |
@@ -542,6 +547,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Summit              | https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit |
 | Summit+ / SummitPlus | https://github.com/JohnShiozo/SummitPlus                |
 | SumoClient          | https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9 // https://github.com/ImCzf233/Sumo-decompiled |
+| Sunshine | https://github.com/Chromatic-Vision/Sunshine |
 | Supermacy           | https://github.com/master7720/Supermacy-client-1.8.jar-leaked |
 | Sushi               | https://github.com/Toshimichi0915/sushi-client          |
 | Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
