@@ -289,6 +289,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ketamine            | https://intent.store                                    |
 | KevinClient         | https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient |
 | KiwiClient          | https://github.com/TangyKiwi/KiwiClient                 |
+| KlaydixWare | https://github.com/Plintor/klaydixware-clean |
 | KnightHack          | https://github.com/RayyanStudios/KnightHack             |
 | Koks                | https://github.com/Schummel-Software/Koks-v3            |
 | Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ // https://github.com/PlutoSolutions/KonasEnhanced |
