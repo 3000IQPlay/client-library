@@ -199,6 +199,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Gavhack             | https://github.com/Gav06/gavhack-legacy                 |
 | Gavhack+ / GavhackPlus | https://github.com/Gav06/GavhackPlus                    |
 | GeraldHack          | https://github.com/GentlemanMC/Geraldhack-1.69.3-BUILDABLE-SRC // https://github.com/gerald0mc/Gerald-Hack-2.0 |
+| GhostBleach | https://github.com/cooldma/GhostBleach |
 | GishCode            | https://github.com/GishReloaded/Gish-Code-1.12.2        |
 | Glacier             | https://github.com/quickdaffy/Glacier-Client            |
 | Gladiator           | https://github.com/XZRC/gladiator-src                   |
@@ -449,6 +450,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Quantum             | https://github.com/PlutoSolutions/6god-Quantum          |
 | Quantum Continued   | https://github.com/fan4145/quantum-continued-releases // https://github.com/fan4145/quantum-src-releases |
 | Qusar               | https://github.com/goose-TM/Qusar-Client                |
+| QweruHax | https://github.com/gkursi/QweruHax |
 | Radeon              | https://github.com/zopac/Radeon-v1.2-Open-source-edition // https://github.com/IllegalException/Radeon |
 | Rage                | https://github.com/noom1337/rage-client-deobfuscated    |
 | RailHack            | https://github.com/kisman2000/RailHack-Ratted // https://github.com/3000IQPlay/RailHack-0.5.9-Src |
@@ -573,7 +575,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | TransWare           | https://github.com/VxlerieUwU/transware                 |
 | TrapClient          | https://github.com/trap-client/trap-client              |
 | Trinity             | https://github.com/LeonLeonPotato/Trinity               |
-| Trinity+ / TrinityPlus | https://github.com/ssllllll/TrinityPlus-PWNED           |
+| Trinity+ / TrinityPlus | https://github.com/ssllllll/TrinityPlus-PWNED // https://github.com/urelNiP/TrinityPlus-b2.8-OBF |
 | TrollGod.cc / RealthClient | https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod // https://github.com/bluteest/trollgod.cc-deobf |
 | Trollhack           | https://github.com/Luna5ama/TrollHack                   |
 | Troxill             | https://github.com/tuskypaster/Troxill-1.16.5-Source    |
