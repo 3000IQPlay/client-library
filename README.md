@@ -510,6 +510,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
 | ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
+| Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
 | Sigma               | https://www.sigmajello.ga/downloads                     |
