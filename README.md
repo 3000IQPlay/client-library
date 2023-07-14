@@ -34,6 +34,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ares                | https://github.com/AresClient/ares                      |
 | ArchWare            | https://github.com/kisman2000/ArchWare                  |
 | Arsenic             | https://github.com/BlebDaPleb/ArsenicClient             |
+| Aresnic | https://github.com/ArsenicClient/Arsenic |
 | Arsie               | https://github.com/maywr/arsie-mod-beta                 |
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
