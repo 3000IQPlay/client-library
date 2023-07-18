@@ -308,6 +308,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
 | Lemon | https://github.com/MikuSoCute/Lemon-public |
+| Lepton | https://github.com/MatrixAura/Lepton-Client |
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
 | LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
 | Lime                | https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip |
