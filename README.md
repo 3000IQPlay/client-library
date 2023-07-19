@@ -128,6 +128,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DarkClient | https://github.com/Dark-Developments/DarkClient |
 | DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
 | DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
+| DecClient | https://github.com/MrDuhan/DecClient-Release |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
 | Density             | https://github.com/hashPirate/archived-client           |
