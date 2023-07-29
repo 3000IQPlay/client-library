@@ -16,6 +16,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AbyssBeta           | https://github.com/PlutoSolutions/AbyssBetaEnforcer     |
 | Acid                | https://github.com/kyv3-v2/Acid-phobos-edition          |
 | AClient             | https://github.com/KuromeSan/a1.2.2b-hacked-client      |
+| Adequacy | https://github.com/GuangChen2333/Adequacy |
 | Agalar              | https://github.com/MrHakan/Agalar-Hack                  |
 | AgloHack            | https://github.com/aglostic/aglohack                    |
 | AgonyClient         | https://github.com/VortexHFM/Agony-Client               |
@@ -181,11 +182,11 @@ This repository contains a comprehensive list of various clients. Please note th
 | FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
-| FortniteHook        | https://github.com/MikuSoCute/FortniteHook-Public       |
+| FortniteHook | https://github.com/MikuSoCute/FortniteHook-Public // https://github.com/MikuSoCute/FartniteHook-1.2 |
 | Fractal | https://github.com/AriaJackie/Fractal |
 | Francium            | https://github.com/IllegalException/Francium            |
 | Francium 1.19 | https://github.com/3000IQPlay/Francium-Cracked |
-| freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
+| Freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
 | FrogWare            | https://github.com/XZRC/FrogWare                        |
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
@@ -286,6 +287,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Kaotik              | https://github.com/VenuzWeeb/Kaotik // https://github.com/LTHLeaks/Kaotik-1.3.5-Leak |
 | Kapuncion | https://github.com/Dark-Developments/Kapuncino-Client |
 | Kawaii              | https://intent.store                                    |
+| KBPW | https://github.com/KBPW-Dev/kbpw-util |
 | KeKWClient          | https://github.com/VortexHFM/KekW-Client                |
 | Kemmy.cc            | https://github.com/PlutoSolutions/kemmy.cc              |
 | Ket                 | https://github.com/oyzipfile/ket-public                 |
@@ -364,6 +366,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
 | Mio                 | https://github.com/asphyxia1337/mioclient-me            |
 | Mirai               | https://github.com/kylerittenhause/mirai-client-decompiled |
+| Misericordia | https://github.com/Halqq/misericordia-client |
 | Moloch.su           | https://github.com/Canonball90/moloch.su // https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su |
 | Momentum            | https://github.com/momentumdevelopment/momentum         |
 | MoneyMod+2 / MoneyModPlusTwo | https://github.com/PlutoSolutions/moneymodplus2-src     |
@@ -445,6 +448,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Postman             | https://github.com/srgantmoomoo/postman                 |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
+| Progreso | https://github.com/ya-ilya/progreso |
 | ProtoHax            | https://github.com/hax0r31337/ProtoHax                  |
 | Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
 | Pulsive             | https://intent.store                                    |
@@ -452,6 +456,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Pyro                | https://www.pyroclient.com // https://crystalpvp.ru/pyro/ // https://github.com/PlutoSolutions/Pyro |
 | Quantum             | https://github.com/PlutoSolutions/6god-Quantum          |
 | Quantum Continued   | https://github.com/fan4145/quantum-continued-releases // https://github.com/fan4145/quantum-src-releases |
+| Qubit | https://github.com/QuantumClient/Qubit |
 | Qusar               | https://github.com/goose-TM/Qusar-Client                |
 | QweruHax | https://github.com/gkursi/QweruHax |
 | Radeon              | https://github.com/zopac/Radeon-v1.2-Open-source-edition // https://github.com/IllegalException/Radeon |
@@ -601,6 +606,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vertine             | https://github.com/VertineClient/vertine                |
 | VeteranHack         | https://github.com/HausemasterIssue/VeteranHack-Decomp  |
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
+| Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
