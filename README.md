@@ -117,6 +117,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Creepy Salhack      | https://github.com/CreepyOrb924/creepy-salhack          |
 | Crepe               | https://github.com/3000IQPlay/Crepes-deobf // https://github.com/cocoapc911/crepe-client-public |
 | CrispyClient        | https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file |
+| CrossSince | https://github.com/shxp3/CrossSine |
 | CrystalClient       | https://github.com/3000IQPlay/crystal-client-src        |
 | Cue                 | https://github.com/SudoDevs-inc/CueClientOld            |
 | Cupid               | https://github.com/JonaPoka/Cupid-Client-SRC            |
