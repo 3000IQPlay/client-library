@@ -172,14 +172,15 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ferox               | https://github.com/olliem5/ferox                        |
 | Ferret              | https://github.com/cattyngmd/Ferret                     |
 | FerxaxenMod         | https://github.com/efekoskeroglu/FerxaxenMod-v0.3       |
+| FPSMaster | https://github.com/SuperSkidder/FPSMasterOpenSourceProject |
 | Fira                | https://github.com/cout970/FiraClient                   |
 | Fire                | https://github.com/RealzPrestige/fire                   |
 | FireWork            | https://github.com/VVriter/Firework-client-public       |
 | FishHack            | https://github.com/PlutoSolutions/FishHack-public       |
+| FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | Floppa              | https://github.com/HausemasterIssue/Floppa-Client-SRC   |
 | Fluidity            | https://github.com/mccheatz/Fluidity                    |
 | Flux                | https://github.com/heedii/flux-addon                    |
-| FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
 | ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook | https://github.com/MikuSoCute/FortniteHook-Public // https://github.com/MikuSoCute/FartniteHook-1.2 |
@@ -391,6 +392,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
+| Nexus | https://github.com/StephenIsTaken/NexusClient |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
 | Nhack4              | https://github.com/funtimeonly990/nhack4                |
