@@ -24,6 +24,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AimWhere            | https://github.com/Potion1337/AimWhere-Source-Code      |
 | AllahWare           | https://github.com/CumHax/AllahWare                     |
 | Allusion            | https://github.com/cattyngmd/allusion                   |
+| AlulaHack | https://github.com/Auxnos/alulahack |
 | Ananta              | https://github.com/RitomG69/Ananta                      |
 | AndyClient          | https://github.com/MouathA/AndyClient-SRC               |
 | ApeClient | https://github.com/evaan/ApeClient |
@@ -114,6 +115,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CousinWare          | https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated |
 | Cr33pyWare          | https://github.com/SkidFxcte/Cr33pyware                 |
 | Cranberry           | https://github.com/Snoworange420/Cranberry              |
+| CreeperClient | https://github.com/BigShotEmzy/Creeper-Client-Legacy |
 | Creepy Salhack      | https://github.com/CreepyOrb924/creepy-salhack          |
 | Crepe               | https://github.com/3000IQPlay/Crepes-deobf // https://github.com/cocoapc911/crepe-client-public |
 | CrispyClient        | https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file |
@@ -130,6 +132,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DarkClient | https://github.com/Dark-Developments/DarkClient |
 | DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
 | DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
+| DebugHack | https://github.com/MysticCat212417/DebugHack |
 | DecClient | https://github.com/MrDuhan/DecClient-Release |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
@@ -152,6 +155,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
+| Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
 | EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
 | Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
 | Evangelion          | https://github.com/BebSxy/Evangelion                    |
@@ -212,9 +216,11 @@ This repository contains a comprehensive list of various clients. Please note th
 | Gloom               | https://cdn.discordapp.com/attachments/656809769813934090/665025336278384650/Gloom-Client_B3.2.jar |
 | Glorium             | https://workupload.com/file/PavBkZvqzcA                 |
 | GlowClient          | https://github.com/3000IQPlay/GlowClient-Fixed          |
+| GlyphClient | https://github.com/GlyphMC/client |
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
-| GrassWare.win       | https://github.com/Zane2b2t/GrassWare.win               |
+| GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
+| GrassWare.win (Private) | https://github.com/AllahLeaksHvH/Grasswarept3 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
 | HalalHack           | https://github.com/unfidelity/halal-hack                |
@@ -294,6 +300,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Kemmy.cc            | https://github.com/PlutoSolutions/kemmy.cc              |
 | Ket                 | https://github.com/oyzipfile/ket-public                 |
 | Ketamine            | https://intent.store                                    |
+| KettleHack | https://github.com/FadeRainbow/Kettle-Hack |
 | KevinClient         | https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient |
 | KiwiClient          | https://github.com/TangyKiwi/KiwiClient                 |
 | KlaydixWare | https://github.com/Plintor/klaydixware-clean |
@@ -521,6 +528,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
 | ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
+| Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
