@@ -204,7 +204,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | GameSense / GS      | https://github.com/IUDevman/gamesense-client            |
 | GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/TechAle/gsplusplus                   |
 | Garuff              | https://github.com/desuboruto/Garuff                    |
-| GateClient          | https://github.com/TheF1xer/GateClient                  |
+| GateClient | https://github.com/TheF1xer/GateClient |
+| GateClient 1.19.2 | https://github.com/TheF1xer/GateClient-1.19.2 |
 | Gavhack             | https://github.com/Gav06/gavhack-legacy                 |
 | Gavhack+ / GavhackPlus | https://github.com/Gav06/GavhackPlus                    |
 | GeraldHack          | https://github.com/GentlemanMC/Geraldhack-1.69.3-BUILDABLE-SRC // https://github.com/gerald0mc/Gerald-Hack-2.0 |
@@ -231,6 +232,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | HayBale             | https://github.com/HayBaleClient/HayBale-Source         |
 | Hearse              | https://cdn.discordapp.com/attachments/685487646197415957/735112124912762960/Hearse_Hack_b-0.5_OBF.jar // https://cdn.discordapp.com/attachments/685487646197415957/735131873042497546/Hearse_0.5_cracked.jar |
 | HeavenClient        | https://github.com/srcgod/HeavenClientCrack             |
+| Helios | https://github.com/HeliosDevelopement/HeliosClient |
 | HemHacks            | https://github.com/Gri11edHam/HamHacks                  |
 | Hephaestus          | https://github.com/Frontear/HephaestusClient            |
 | Hiassi.su           | https://github.com/3000IQPlay/hiassi.su                 |
@@ -420,6 +422,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
 | NyaHack             | https://github.com/chunfeng666/nyahack                  |
 | OakClient           | https://github.com/desertcod98/OakClient                |
+| Oasis | https://github.com/0xTas/oasis |
 | ObamaHack           | https://github.com/chris2rich/ObamaHack                 |
 | Oblivion            | https://cdn.discordapp.com/attachments/622299315028885514/701308296673362030/Oblivion-v0.3-release.jar |
 | OctoHack            | https://github.com/Primooctopus33/octohack              |
