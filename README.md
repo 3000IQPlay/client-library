@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 630
+# Client Collection List - Total Clients: 669
 **MAKE SURE TO JOIN: https://discord.com/invite/A9XhxPDzex**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
