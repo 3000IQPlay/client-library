@@ -459,7 +459,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://github.com/3000IQPlay/Prestige-Cracked // crystalpvp.ru/prestige |
+| Prestige | https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
