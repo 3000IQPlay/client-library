@@ -71,7 +71,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BLM                 | https://github.com/blmclient/client                     |
 | BloodHack           | https://github.com/gerald0mc/bloodhack                  |
 | BloodyClient        | https://github.com/PlutoSolutions/BloodyClient          |
-| BloomWare           | https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable |
+| BloomWare           | https://github.com/offeex/Bloomware // https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable |
 | BlueZenith          | https://github.com/Endemic1337/Blue-Zenith              |
 | Bobr                | https://github.com/kisman2000/Bobr-Client-0.0.9         |
 | BobrWare            | https://anonfiles.com/n6Bcy3wey5/BoberWareFree_rar      |
@@ -459,6 +459,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
+| Prestige | https://github.com/3000IQPlay/Prestige-Cracked // crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -477,8 +478,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | RailHack            | https://github.com/kisman2000/RailHack-Ratted // https://github.com/3000IQPlay/RailHack-0.5.9-Src |
 | Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
-| RatWare             | https://github.com/Tr0llMode/RatWare-leak-0.4.0         |
-| RavenB- / RavenBMinus | https://github.com/3000IQPlay/RavenBMinus-Deobf |
+| RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
+| RavenB- / RavenBMinus | https://github.com/Cool-Cracking-Team/RavenB- // https://github.com/3000IQPlay/RavenBMinus-Deobf |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
