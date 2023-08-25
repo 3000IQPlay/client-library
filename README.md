@@ -88,6 +88,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Calypso             | https://github.com/Gav06/Calypso                        |
 | Candy               | https://github.com/3000IQPlay/CANDY-0.0.8-BUILDABLE_SRC |
 | Candy++ / CandyPlusPlus | https://github.com/cocoapc911/candy-plus-plus           |
+| CarnageReborn | https://github.com/t1t0v/CarnageReborn |
 | CarrotHack          | https://github.com/chris2rich/CarrotHack                |
 | Cascade             | https://github.com/AnotherNoName/Cascade-0.3.7-SRC // https://github.com/AnotherNoName/Cascade-0.2.7-SRC-BUILDABLE |
 | Catalyst            | https://github.com/GentlemanMC/Catalyst // https://github.com/Pr3roxDLC/Catalyst |
@@ -108,6 +109,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Cloud               | https://www.mediafire.com/file/f2s1r5bza79pvvt/cloud.zip/file |
 | Cobalt              | https://github.com/Gav06/cobalt-utility-mod             |
 | Coffee              | https://github.com/Coffee-Client/Coffee                 |
+| CoinsClient | https://github.com/mindlesslydev/CoinsClient |
 | ColaHack            | https://github.com/CumHax/ColaHack                      |
 | ConstHack.cc        | https://github.com/chris2rich/ConstHack.cc              |
 | CookieClient        | https://github.com/bebeli555/CookieClient               |
@@ -336,6 +338,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LiquidX             | https://github.com/PrahXZ/LiquidX                       |
 | ListedHack          | https://github.com/chris2rich/ListedHack                |
 | LiveSense           | https://github.com/WMSGaming/LiveSense                  |
+| LmaoBox | https://github.com/Vimer5410/LmaoBox-leak |
 | LoseBypass          | https://losebypass.com // https://github.com/deadLORD135/losebypass-reup          |
 | Love                | https://github.com/chris2rich/LoveClient                |
 | Lover               | https://github.com/DoNhutTann/Lover-public // https://github.com/KgDW/Lover-decomp-buildable |
@@ -416,6 +419,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | NoobHack            | https://github.com/NoobHackLol/NoobHack                 |
 | Norsa               | https://github.com/Valkriea/Norsa                       |
 | Norules             | https://github.com/jabask3dd3r/Norules-src              |
+| NotEnoughtCoins Premium / NEC Premium | https://github.com/3000IQPlay/NEC-Premium |
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
 | Nursultan           | http://nursultan.fun                                    |
@@ -459,7 +463,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
+| Prestige | https://prestigeclient.vip // https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -479,7 +483,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
-| RavenB- / RavenBMinus | https://github.com/Cool-Cracking-Team/RavenB- // https://github.com/3000IQPlay/RavenBMinus-Deobf |
+| RavenB- / RavenBMinus | https://github.com/3000IQPlay/RavenB-Latest // https://github.com/3000IQPlay/RavenBMinus-Deobf |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
