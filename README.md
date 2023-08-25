@@ -568,6 +568,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SpectClient         | https://github.com/SaberAspect/SpectClient              |
 | Spicy | https://github.com/Spicy-Client/Spicy |
 | SpiderSense         | https://github.com/HausemasterIssue/spidersense         |
+| SplashClient | https://github.com/master7720/SplashClient |
 | Stay                | https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | Stifle              | https://github.com/BadMoXi/Stifle                       |
