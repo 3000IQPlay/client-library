@@ -67,6 +67,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BigRat              | https://github.com/ZimnyCat/BigRat                      |
 | BlackAndWhite       | https://github.com/AntiCope/reaper-addon                |
 | Blackout            | https://github.com/chell-dev/Blackout-3.0               |
+| BladeCore | https://github.com/Blade-ua/BladeCore-1.12.2 |
 | BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
 | BLM                 | https://github.com/blmclient/client                     |
 | BloodHack           | https://github.com/gerald0mc/bloodhack                  |
