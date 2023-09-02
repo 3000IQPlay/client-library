@@ -197,6 +197,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Francium 1.19 | https://github.com/3000IQPlay/Francium-Cracked // https://github.com/Dexveloper/Francium-Cracked |
 | Freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
 | FrogWare            | https://github.com/XZRC/FrogWare                        |
+| FrostBurn | https://github.com/evaan/FrostBurn |
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
 | Future              | https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
@@ -681,6 +682,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zori                | https://github.com/slol2/zori-but-actually-good         |
 | Zork                | https://github.com/AckerRun1337/Zork-Client             |
 | ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc-Old |
+| Zyklon | https://github.com/jeopardization/Zyklon |
 
 ## Disclaimer
 
