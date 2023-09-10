@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 669
+# Client Collection List - Total Clients: 678
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -91,7 +91,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Candy++ / CandyPlusPlus | https://github.com/cocoapc911/candy-plus-plus           |
 | CarnageReborn | https://github.com/t1t0v/CarnageReborn |
 | CarrotHack          | https://github.com/chris2rich/CarrotHack                |
-| Cascade             | https://github.com/AnotherNoName/Cascade-0.3.7-SRC // https://github.com/AnotherNoName/Cascade-0.2.7-SRC-BUILDABLE |
+| Cascade             | https://github.com/GurteX/Cascade-0.3.8 // https://github.com/AnotherNoName/Cascade-0.3.7-SRC // https://github.com/AnotherNoName/Cascade-0.2.7-SRC-BUILDABLE |
 | Catalyst            | https://github.com/GentlemanMC/Catalyst // https://github.com/Pr3roxDLC/Catalyst |
 | CatClient           | https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass |
 | CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
@@ -238,7 +238,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | HeavenClient        | https://github.com/srcgod/HeavenClientCrack             |
 | Helios | https://github.com/HeliosDevelopement/HeliosClient |
 | HemHacks            | https://github.com/Gri11edHam/HamHacks                  |
-| Hephaestus          | https://github.com/Frontear/HephaestusClient            |
+| Hephaestus          | https://github.com/Zane2b2t/Hephaestus // https://github.com/Frontear/HephaestusClient            |
 | Hiassi.su           | https://github.com/3000IQPlay/hiassi.su                 |
 | HilariousWare       | https://github.com/SirHilarious/HilariousWare           |
 | HitlerHax           | https://github.com/Yaimsputnik5/HitlerHax-Leak          |
@@ -495,7 +495,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
 | Reaper              | https://github.com/AntiCope/reaper-addon                |
-| Rebirth             | https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth |
+| Rebirth             | https://github.com/FinLemonKe/RebirthClient // https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth |
 | reDACTED | https://github.com/paramkudle/reDACTED |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
@@ -681,7 +681,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zodiac              | https://github.com/cattyngmd/zodiac                     |
 | Zori                | https://github.com/slol2/zori-but-actually-good         |
 | Zork                | https://github.com/AckerRun1337/Zork-Client             |
-| ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc-Old |
+| ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc // https://github.com/ZWareDevelopment/ZWare.cc-Old |
 | Zyklon | https://github.com/jeopardization/Zyklon |
 
 ## Disclaimer
