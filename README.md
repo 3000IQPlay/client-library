@@ -618,7 +618,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | Uranium             | https://github.com/maywr/uranium                        |
 | Urmomia             | https://github.com/Urmomia/urmomia-client               |
 | UwUGod | https://github.com/Torono909/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
-| UZI Client          | https://github.com/Unicode01/UZI-Client                 |
+| UZI | https://github.com/yandhi/uzi-1-12 |
+| UZI Client | https://github.com/Unicode01/UZI-Client |
 | Vape V4 | https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack/ |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
