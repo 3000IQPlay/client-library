@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 678
+# Client Collection List - Total Clients: 679
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -392,6 +392,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Moon                | https://github.com/master7720/moon-leak                 |
 | Moonlight           | https://github.com/Gav06/Moonlight                      |
 | Moonlight           | https://crystalpvp.ru/moonlight/ // https://github.com/PlutoSolutions/Moonlight |
+| Moonlight (Meadows) | https://github.com/kawaiizenbo/MoonlightMeadows |
 | MoonWare            | https://github.com/tuskypaster/MoonWare-Client // https://github.com/noom1337/hacked-client-collection/tree/main/MoonWare%20(1.12.2) |
 | Morgen.cc           | https://github.com/3000IQPlay/morgen.cc                 |
 | MotClient           | https://github.com/WarriorCrystal/MotClient-Buildeable-SRC |
