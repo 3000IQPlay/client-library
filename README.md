@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 682
+# Client Collection List - Total Clients: 683
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -369,6 +369,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | McDonald            | https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC |
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
+| Melon | https://github.com/KgDW/Melon-leaks |
 | MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
 | MemeWare            | https://github.com/whosthatperson/MemeWare...-one-last-time |
 | MeowHack            | https://github.com/NotKronos/meowhack                   |
@@ -496,7 +497,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
 | Reaper              | https://github.com/AntiCope/reaper-addon                |
-| Rebirth             | https://github.com/FinLemonKe/RebirthClient // https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth |
+| Rebirth             | https://github.com/FinLemonKe/RebirthClient // https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth // https://github.com/KgDW/Rebirth-deobf-decomp-buildable |
 | reDACTED | https://github.com/paramkudle/reDACTED |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
@@ -622,7 +623,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | UwUGod | https://github.com/Torono909/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI | https://github.com/yandhi/uzi-1-12 |
 | UZI Client | https://github.com/Unicode01/UZI-Client |
-| Vape V4 | https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack/ |
+| Vape V4 | https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
