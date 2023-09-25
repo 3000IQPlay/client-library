@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 683
+# Client Collection List - Total Clients: 684
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -338,6 +338,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Liquido             | https://github.com/SuperCraftAlex/liquido               |
 | LiquidShadow        | https://github.com/woodteam/LiquidShadow                |
 | LiquidX             | https://github.com/PrahXZ/LiquidX                       |
+| Lirium | https://github.com/000000000-1/Lirium |
 | ListedHack          | https://github.com/chris2rich/ListedHack                |
 | LiveSense           | https://github.com/WMSGaming/LiveSense                  |
 | LmaoBox | https://github.com/Vimer5410/LmaoBox-leak |
