@@ -311,7 +311,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | KiwiClient          | https://github.com/TangyKiwi/KiwiClient                 |
 | KlaydixWare | https://github.com/Plintor/klaydixware-clean |
 | KnightHack          | https://github.com/RayyanStudios/KnightHack             |
-| Koks                | https://github.com/Schummel-Software/Koks-v3            |
+| Koks                | https://github.com/Schummel-Software/Koks-v3 // https://outuby.space/schummel-software/ // https://github.com/000000000-1/koks-client |
 | Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ // https://github.com/PlutoSolutions/KonasEnhanced |
 | Konc                | https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip |
 | Kull                | https://github.com/Sxmurai/kull                         |
