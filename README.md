@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 684
+# Client Collection List - Total Clients: 685
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -39,6 +39,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aresnic | https://github.com/ArsenicClient/Arsenic |
 | Arsie               | https://github.com/maywr/arsie-mod-beta                 |
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
+| Asteria.rip | https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
 | Atlas               | https://github.com/chris2rich/Atlas                     |
 | Atom                | https://cdn.discordapp.com/attachments/676392227991453697/705037276018901093/atom-0.5-cracked-by-CCC.jar |
@@ -468,7 +469,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://prestigeclient.vip // https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
+| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-Latest // https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -488,7 +489,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
-| RavenB- / RavenBMinus | https://github.com/3000IQPlay/RavenB-Latest // https://github.com/3000IQPlay/RavenBMinus-Deobf |
+| RavenB- / RavenBMinus | https://github.com/WalmartSolutions/RavenB-Latest // https://github.com/WalmartSolutions/RavenB-Old2 // https://github.com/WalmartSolutions/RavenB-Old |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
@@ -627,6 +628,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vape V4 | https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
+| VectorClient | https://github.com/VectorClient/Vector-Releases |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
