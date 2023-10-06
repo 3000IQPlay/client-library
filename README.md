@@ -59,7 +59,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Banzem              | https://github.com/yunusborazan/Banzem-Client           |
 | Bape                | https://github.com/ImCzf233/Bape-Opensource // https://github.com/ImCzf233/bape-opensources             |
 | Bartender           | https://github.com/XeonLyfe/Bartender-Src               |
-| BaseBand            | https://github.com/0x7DB/BaseBand-FOSS                  |
+| BaseBand            | https://github.com/PlutoSolutions/BaseBand // https://crystalpvp.ru/baseband // https://github.com/0x7DB/BaseBand-FOSS |
 | BBCWare             | https://github.com/unnamedlife/bbcware                  |
 | BeefSense           | https://github.com/HausemasterIssue/BeefSense-Decomp    |
 | Beer                | https://github.com/IUDevman/Beer                        |
@@ -469,7 +469,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-Latest // https://github.com/3000IQPlay/Prestige-Cracked // https://crystalpvp.ru/prestige |
+| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
