@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 685
+# Client Collection List - Total Clients: 686
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -41,6 +41,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
 | Asteria.rip | https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
+| Atani | https://github.com/WalmartSolutions/Atani-0.03 |
 | Atlas               | https://github.com/chris2rich/Atlas                     |
 | Atom                | https://cdn.discordapp.com/attachments/676392227991453697/705037276018901093/atom-0.5-cracked-by-CCC.jar |
 | AtomBeta            | https://cdn.discordapp.com/attachments/689371591976681522/727966452900167762/AtomBeta-1.3-ReleasedByCrystallinqq.jar |
