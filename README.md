@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 687
+# Client Collection List - Total Clients: 688
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -157,6 +157,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
 | Elementars.com      | https://github.com/Elementars/Elementars.com            |
+| Elypsa | https://github.com/ferderplays/ElypsaClient |
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
@@ -227,7 +228,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
-| GrassWare.win (Private) | https://github.com/AllahLeaksHvH/Grasswarept3 |
+| GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
 | HalalHack           | https://github.com/unfidelity/halal-hack                |
