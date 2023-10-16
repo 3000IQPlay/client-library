@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 688
+# Client Collection List - Total Clients: 689
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -646,9 +646,10 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
 | VyperHax            | https://github.com/KRYMZ0N/VyperHax                     |
 | W1seHack            | https://github.com/pineapplebby/w1sehack-public         |
-| WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
 | WebHack             | https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack |
 | WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
+| WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
+| Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
 | WetHack             | https://github.com/weterandevelopment/wethack           |
 | WexSide             | https://wexside.xyz // https://github.com/7b7aProject/WexSide-crack-1.12.2 |
 | WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
