@@ -9,6 +9,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | 1.19 Client         | https://github.com/zopac/1.19-client                    |
 | 303Hack / ThreeZeroThreeHack | https://github.com/MikuSoCute/ThreeZeroThreeHack             |
 | 3arthh4ck / Phobos Newbase | https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck |
+| 5C | https://github.com/calicosun258/5c-client-N |
 | 711.club            | https://github.com/master7720/711.club                  |
 | AbHack              | https://github.com/chunfeng666/abhack-main              |
 | Abstract            | https://github.com/WMSGaming/Abstract-1.12.2            |
@@ -151,7 +152,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
 | Dope                | https://github.com/ssverify/dope-ghost-2.0              |
 | DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
-| DotGod.cc           | https://github.com/dabigbulletz638/dotgod.cc            |
+| DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
