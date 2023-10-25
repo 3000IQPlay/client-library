@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 690
+# Client Collection List - Total Clients: 692
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -40,7 +40,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aresnic | https://github.com/ArsenicClient/Arsenic |
 | Arsie               | https://github.com/maywr/arsie-mod-beta                 |
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
-| Asteria.rip | https://github.com/WalmartSolutions/Asteria.rip |
+| Asteria.rip | https://github.com/AsteriaDevelopment/asteria // https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
 | Atani | https://github.com/WalmartSolutions/Atani-0.03 |
 | Atlas               | https://github.com/chris2rich/Atlas                     |
@@ -83,6 +83,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Bopis.club          | https://github.com/IllegalException/Bopis.club          |
 | BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
 | BossWare            | https://github.com/vertent/bossware-leaked              |
+| BoyKisser | https://github.com/ColdDarkHusky/BoyKisser-Client-1.12.2 |
 | Boze                | https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
 | BozoWare | https://github.com/Kobley/Bozoware |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
@@ -647,6 +648,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
 | VyperHax            | https://github.com/KRYMZ0N/VyperHax                     |
 | W1seHack            | https://github.com/pineapplebby/w1sehack-public         |
+| Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
 | WebHack             | https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack |
 | WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
 | WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
