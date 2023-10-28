@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 692
+# Client Collection List - Total Clients: 694
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -232,6 +232,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
+| GumTune | https://github.com/RoseGoldIsntGay/GumTuneClient |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
 | HalalHack           | https://github.com/unfidelity/halal-hack                |
 | Hamster             | https://www.mediafire.com/file/pp5fi5umg3tzwyr/Hamster_Client_v1.jar/file |
@@ -443,6 +444,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OctoHack            | https://github.com/Primooctopus33/octohack              |
 | Omega               | https://github.com/ya-ilya/omega                        |
 | OmegaHack           | https://github.com/neilhuang007/omegahack               |
+| OmegaHack Rewrite | https://github.com/neilhuang007/omegahack-rewrite |
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
 | Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
