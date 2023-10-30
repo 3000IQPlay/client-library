@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 694
+# Client Collection List - Total Clients: 695
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -604,6 +604,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Target              | https://github.com/yaskylan/Target_Client               |
 | TaterGod.cc         | https://github.com/RealzPrestige/TaterGod-Leak          |
 | TeddyWare           | https://github.com/ChompChompDead/Teddyware-Client      |
+| Temple | https://github.com/PhilipPanda/Temple-Client |
 | Tenacity            | https://intent.store // https://github.com/HCU-Reborn/Tenacity // https://github.com/tuskypaster/Tenacity-for-1.12.2 |
 | Tensor              | https://github.com/IUDevman/Tensor                      |
 | Tesla               | https://github.com/AnotherNoName/Tesla-SRC              |
