@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 695
+# Client Collection List - Total Clients: 696
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -323,6 +323,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Kull                | https://github.com/Sxmurai/kull                         |
 | Kura | https://github.com/dyzjct/Kura-Public |
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
+| Kyino | https://github.com/WalmartSolutions/Kyino |
 | Lambda              | https://github.com/lambda-client/lambda                 |
 | Lambda+ / LambdaPlus | https://github.com/DigimaticxHius/Lambda-Plus           |
 | LanderClient | https://github.com/Dimples-1337/LanderClient // https://github.com/GAQPanda/LanderClient |
@@ -476,7 +477,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
+| Prestige | https://prestigeclient.vip // https://gitlab.com/3000IQPlay/Prestige // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
