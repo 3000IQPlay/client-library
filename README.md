@@ -42,7 +42,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
 | Asteria.rip | https://github.com/AsteriaDevelopment/asteria // https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
-| Atani | https://github.com/WalmartSolutions/Atani-0.03 |
+| Atani | https://github.com/WalmartSolutions/Atani-0.03 // https://github.com/Atani-Client/client |
 | Atlas               | https://github.com/chris2rich/Atlas                     |
 | Atom                | https://cdn.discordapp.com/attachments/676392227991453697/705037276018901093/atom-0.5-cracked-by-CCC.jar |
 | AtomBeta            | https://cdn.discordapp.com/attachments/689371591976681522/727966452900167762/AtomBeta-1.3-ReleasedByCrystallinqq.jar |
@@ -229,6 +229,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GlyphClient | https://github.com/GlyphMC/client |
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
+| Gothaj | https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
