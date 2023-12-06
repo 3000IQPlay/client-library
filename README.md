@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 696
+# Client Collection List - Total Clients: 697
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -23,6 +23,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AgonyClient         | https://github.com/VortexHFM/Agony-Client               |
 | AidsHack            | https://github.com/Dino-log/AidsHack                    |
 | AimWhere            | https://github.com/Potion1337/AimWhere-Source-Code      |
+| AllahClient | https://github.com/pablushaa/AllahClient // https://github.com/pablushaa/AllahClient_old |
 | AllahWare           | https://github.com/CumHax/AllahWare                     |
 | Allusion            | https://github.com/cattyngmd/allusion                   |
 | AlulaHack | https://github.com/Auxnos/alulahack |
@@ -74,7 +75,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
 | BLM                 | https://github.com/blmclient/client                     |
 | BloodHack           | https://github.com/gerald0mc/bloodhack                  |
-| BloodyClient        | https://github.com/WalmartSolutions/BloodyClient-0.4.4 // https://github.com/PlutoSolutions/BloodyClient |
+| BloodyClient        | https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0 // https://github.com/WalmartSolutions/BloodyClient-0.4.4 // https://github.com/PlutoSolutions/BloodyClient |
 | BloomWare           | https://github.com/offeex/Bloomware // https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable |
 | BlueZenith          | https://github.com/Endemic1337/Blue-Zenith              |
 | Bobr                | https://github.com/kisman2000/Bobr-Client-0.0.9         |
@@ -498,7 +499,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
-| RavenB- / RavenBMinus | https://github.com/WalmartSolutions/RavenB-Latest // https://github.com/WalmartSolutions/RavenB-Old2 // https://github.com/WalmartSolutions/RavenB-Old |
+| RavenB- / RavenBMinus | https://github.com/WalmartSolutions/RavenB-v9 // https://github.com/WalmartSolutions/RavenB-Latest // https://github.com/WalmartSolutions/RavenB-Old2 // https://github.com/WalmartSolutions/RavenB-Old |
 | RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
 | RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
