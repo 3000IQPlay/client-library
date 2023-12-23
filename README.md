@@ -391,6 +391,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Miku                | https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC        |
 | Minced              | https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2) |
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
+| MinusBounce | https://github.com/MinusMC/MinusBounce |
 | Mio                 | https://github.com/asphyxia1337/mioclient-me            |
 | Mirai               | https://github.com/kylerittenhause/mirai-client-decompiled |
 | Misericordia | https://github.com/Halqq/misericordia-client |
@@ -435,6 +436,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Norules             | https://github.com/jabask3dd3r/Norules-src              |
 | NotEnoughtCoins Premium / NEC Premium | https://github.com/3000IQPlay/NEC-Premium |
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
+| November | https://github.com/WalmartSolutions/November-3.03 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
@@ -476,6 +478,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PikaHack            | https://cdn.discordapp.com/attachments/738991724793299004/738998489194823736/PikaHack-Owner-master-b9-release.jar |
 | PistonClient        | https://github.com/AlexProgrammerDE/PistonClient        |
 | Pizza               | https://github.com/AstrqlDev/Pizza-Client               |
+| PocketClient | https://github.com/JMcrafter26/pocket-client |
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
@@ -568,6 +571,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SkilledClient       | https://github.com/pesshown/Skilled-Client-v3           |
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
 | Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
+| Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
 | Slu.gg / SluGG      | https://github.com/notRevhacks/Slu.gg-1.0               |
 | SlugClient          | https://github.com/The-Forecaster/Slug-client           |
 | SmartClient         | https://github.com/sssssssthedev/SmartClient            |
