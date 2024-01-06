@@ -142,7 +142,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
 | DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
 | DebugHack | https://github.com/MysticCat212417/DebugHack |
-| DecClient | https://github.com/MrDuhan/DecClient-Release |
+| DecClient | https://github.com/MrDuhan/DecClient-Release // https://github.com/limping4jamal/dec-client |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
 | Density             | https://github.com/hashPirate/archived-client           |
@@ -664,6 +664,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
 | WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
 | Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
+| WDNC | https://github.com/playstation452/WDNC-Client |
 | WetHack             | https://github.com/weterandevelopment/wethack           |
 | WexSide             | https://wexside.xyz // https://github.com/7b7aProject/WexSide-crack-1.12.2 |
 | WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
