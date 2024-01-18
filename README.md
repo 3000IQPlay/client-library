@@ -331,7 +331,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Lambda+ / LambdaPlus | https://github.com/DigimaticxHius/Lambda-Plus           |
 | LanderClient | https://github.com/Dimples-1337/LanderClient // https://github.com/GAQPanda/LanderClient |
 | Lantern             | https://github.com/PlusPlusMC/Lantern                   |
-| LavaHack / Kisman.cc | https://github.com/TheKisDevs/LavaHack-Public           |
+| LavaHack / Kisman.cc | https://github.com/TheKisDevs/LavaHack-Forge // https://github.com/TheKisDevs/LavaHack-Public           |
 | LBounce             | https://github.com/AFterNode/LBounce                    |
 | Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
