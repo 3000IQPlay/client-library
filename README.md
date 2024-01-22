@@ -418,7 +418,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | NClient             | https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient |
 | Nebula              | https://github.com/Sxmurai/nebula                       |
 | Neko+ / NekoPlus    | https://github.com/ProfKambing/nekoplus-public          |
-| Neptune | https://github.com/RickyTheRacc/neptuneforeveryone |
+| Neptune | https://github.com/RickyTheRacc/neptuneforeveryone // https://github.com/SoftWaren1/Neptune-New |
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
