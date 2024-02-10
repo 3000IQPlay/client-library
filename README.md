@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 704
+# Client Collection List - Total Clients: 706
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -71,7 +71,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BigRat              | https://github.com/ZimnyCat/BigRat                      |
 | BlackAndWhite       | https://github.com/AntiCope/reaper-addon                |
 | Blackout            | https://github.com/chell-dev/Blackout-3.0               |
-| BladeCore | https://github.com/Blade-ua/BladeCore-1.12.2 |
+| BladeCore | https://github.com/KuroHere/BladeCore-1.12.2 |
 | BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
 | BLM                 | https://github.com/blmclient/client                     |
 | BloodHack           | https://github.com/gerald0mc/bloodhack                  |
@@ -133,6 +133,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Cue                 | https://github.com/SudoDevs-inc/CueClientOld            |
 | Cupid               | https://github.com/JonaPoka/Cupid-Client-SRC            |
 | Cursa               | https://github.com/epsilonteam/Cursa                    |
+| Curse | https://github.com/KuroHere/CurseClient-Forge |
 | Cute                | https://github.com/4wl/Cute                             |
 | CwHack              | https://github.com/femhack/CwHack                       |
 | CXClient            | https://github.com/pixelcmtd/CXClient                   |
@@ -288,6 +289,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Inertial            | https://github.com/EclipseAFK/Inertial-Client-source-code |
 | Inferno             | https://github.com/Sxmurai/inferno-old                  |
 | Infinity            | https://github.com/Frontear/Infinity                    |
+| InfnityLoop | https://github.com/KuroHere/InfinityLoop |
 | IngrosWare          | https://github.com/bishopsixx/ingrosware // https://github.com/colorblindness/IngrosWare |
 | Invicta             | https://github.com/2b2t-cc/Invicta                      |
 | InvincibilityHack   | https://github.com/Coderx-Gamer/invincibility-hack      |
