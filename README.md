@@ -369,7 +369,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Lycoris | https://github.com/VVriter/Lycoris-client-leak |
 | Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader|
 | Lynx                | https://github.com/Based-devs/Lynx                      |
-| M3dC3t / MadCat     | https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2 |
+| M3dC3t / MadCat     | https://github.com/redvx/M3dC3t // https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2 |
 | MacHack             | https://github.com/ChiquitaV2/MacHack                   |
 | MackMod             | https://github.com/HausemasterIssue/MackMod             |
 | MahanWare           | https://github.com/OldReposRIP/Mahan-Ware-b9-Leak       |
