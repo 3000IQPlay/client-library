@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 706
+# Client Collection List - Total Clients: 707
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -585,6 +585,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sn0w                | https://github.com/pineapplebby/sn0w-2.0.0              |
 | Snow                | https://github.com/PlutoSolutions/Snow                  |
 | SnowFallWare        | https://github.com/Sn0wNight/SnowFallWare               |
+| SodaWare | https://github.com/s0daa/sodaware |
 | SolClient           | https://github.com/Sol-Client/Client                    |
 | Sorus               | https://github.com/4wl/Sorus                            |
 | SovietWare          | https://github.com/CumHax/SovietWare                    |
