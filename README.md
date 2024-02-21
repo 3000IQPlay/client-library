@@ -669,7 +669,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
 | WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
 | Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
-| WDNC | https://github.com/playstation452/WDNC-Client |
+| WDNC | https://github.com/wdnc-mc-client/WDNC-Client |
 | WetHack             | https://github.com/weterandevelopment/wethack           |
 | WexSide             | https://wexside.xyz // https://github.com/7b7aProject/WexSide-crack-1.12.2 |
 | WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
