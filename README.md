@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 715
+# Client Collection List - Total Clients: 716
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -245,6 +245,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Hamster             | https://www.mediafire.com/file/pp5fi5umg3tzwyr/Hamster_Client_v1.jar/file |
 | Hanabi              | https://github.com/AckerRun1337/Open-Hanabi-5.0         |
 | HANClient           | https://github.com/hf2kxn/HAN-Client                    |
+| Haru | https://github.com/Cvrwed/Haru |
 | Harvest             | https://github.com/BedTrap/Harvest                      |
 | HayBale             | https://github.com/HayBaleClient/HayBale-Source         |
 | Hearse              | https://cdn.discordapp.com/attachments/685487646197415957/735112124912762960/Hearse_Hack_b-0.5_OBF.jar // https://cdn.discordapp.com/attachments/685487646197415957/735131873042497546/Hearse_0.5_cracked.jar |
