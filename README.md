@@ -51,6 +51,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Atomic              | https://github.com/19MisterX98/Atomic                   |
 | Atrium              | https://github.com/3000IQPlay/Atrium                    |
 | Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
+| Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
 | Ayakashi            | https://github.com/MouathA/Ayakashi-unlicensed          |
 | Azorius.club | https://github.com/haychk/azorius.club |
