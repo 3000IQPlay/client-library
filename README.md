@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 716
+# Client Collection List - Total Clients: 717
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -239,6 +239,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Gothaj | https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
+| Grim | https://github.com/WalmartSolutions/Grim-1.2 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
 | GumTune | https://github.com/RoseGoldIsntGay/GumTuneClient |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
@@ -427,7 +428,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | NClient             | https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient |
 | Nebula              | https://github.com/Sxmurai/nebula                       |
 | Neko+ / NekoPlus    | https://github.com/ProfKambing/nekoplus-public          |
-| Neptune | https://github.com/RickyTheRacc/neptuneforeveryone // https://github.com/SoftWaren1/Neptune-New |
+| Neptune | https://github.com/Volcan4436/Neptune-Client // https://github.com/RickyTheRacc/neptuneforeveryone // https://github.com/SoftWaren1/Neptune-New |
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
@@ -665,7 +666,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
-| Virgin | https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Virgin | https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
