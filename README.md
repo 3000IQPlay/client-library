@@ -584,6 +584,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
 | Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
 | Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
+| Sloth | https://github.com/WalmartSolutions/Sloth |
 | Slu.gg / SluGG      | https://github.com/notRevhacks/Slu.gg-1.0               |
 | SlugClient          | https://github.com/The-Forecaster/Slug-client           |
 | SmartClient         | https://github.com/sssssssthedev/SmartClient            |
