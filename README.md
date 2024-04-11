@@ -464,6 +464,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OmegaHack Rewrite | https://github.com/neilhuang007/omegahack-rewrite |
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
+| Opal | https://github.com/WalmartSolutions/Opal-1.6 |
 | Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
 | ORH | https://github.com/VVriter/ORH |
 | Oringo              | https://github.com/Negro-Development/OringoClient-Cracked |
