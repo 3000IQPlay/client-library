@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 718
+# Client Collection List - Total Clients: 719
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -577,6 +577,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Silence             | https://github.com/chris2rich/SilenceClient             |
 | Sirius              | https://github.com/MrBubblegum/Sirius-Mod               |
 | Skid+ / SkidPlus    | https://github.com/cocoapc911/Skid-Plus-Client          |
+| SkidBounce | https://github.com/ManInMyVan/SkidBounce |
 | Skidcraft           | https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Skidcraft |
 | Skidd.ed / Skidded  | https://github.com/Nitaki-dev/Skidd.ed-Client           |
 | SkidwareMC          | https://github.com/SkidwareMC/Skidware-Client           |
