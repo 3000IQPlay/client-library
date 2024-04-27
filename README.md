@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 719
+# Client Collection List - Total Clients: 720
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -237,6 +237,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
 | Gothaj | https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
+| GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
 | Grim | https://github.com/WalmartSolutions/Grim-1.2 |
