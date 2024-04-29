@@ -713,7 +713,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zamorozka           | https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka |
 | Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
-| Zenith              | https://github.com/The-Gopro336-Archive/Zenith-Public   |
+| Zenith              | https://github.com/Pan4ur/Zenith-client // https://github.com/The-Gopro336-Archive/Zenith-Public   |
 | Zeon                | https://github.com/ZeonDevelopment/Zeon                 |
 | ZeroDay             | https://intent.store                                    |
 | ZeroHack            | https://github.com/panpanadc/Zero-Hack                  |
