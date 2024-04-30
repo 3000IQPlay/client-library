@@ -663,7 +663,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VectorClient | https://github.com/VectorClient/Vector-Releases |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
-| VenomHack           | https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
+| VenomHack           | https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
 | Vertex              | https://github.com/AstralDB/VertexClient                |
 | Vertine             | https://github.com/VertineClient/vertine                |
 | VeteranHack         | https://github.com/HausemasterIssue/VeteranHack-Decomp  |
