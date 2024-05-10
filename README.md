@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 720
+# Client Collection List - Total Clients: 723
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -37,6 +37,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Arctic              | https://github.com/Pseudonymous000/Arctic-Client        |
 | Ares                | https://github.com/AresClient/ares                      |
 | ArchWare            | https://github.com/kisman2000/ArchWare                  |
+| Aristois | https://impactclient.net/ |
 | Arsenic | https://github.com/ArsenicClient/Arsenic |
 | Arsenic             | https://github.com/BlebDaPleb/ArsenicClient             |
 | Aresnic | https://github.com/ArsenicClient/Arsenic |
@@ -49,7 +50,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | Atom                | https://cdn.discordapp.com/attachments/676392227991453697/705037276018901093/atom-0.5-cracked-by-CCC.jar |
 | AtomBeta            | https://cdn.discordapp.com/attachments/689371591976681522/727966452900167762/AtomBeta-1.3-ReleasedByCrystallinqq.jar |
 | Atomic              | https://github.com/19MisterX98/Atomic                   |
-| Atrium              | https://github.com/3000IQPlay/Atrium                    |
+| Atrium   https://github.com/3000IQPlay/Atrium                    |
+| Augustus | https://github.com/Hypophrenia11/Augustus-Client-free              |
 | Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
 | Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
@@ -696,7 +698,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | Wurst+1 / WurstPlusOne | https://github.com/TrvsF/wurstplus-one                  |
 | Wurst+2 / WurstPlusTwo | https://github.com/WurstPlus/wurstplus-two              |
 | Wurst+3 / WurstPlusThree | https://github.com/WurstPlus/wurst-plus-three           |
-| Wurst+4 / WurstPlusFour | https://github.com/levkush/wurst-plus-four              |
+| Wurst+4 / WurstPlusFour | https://github.com/levkush/wurst-plus-four 
+| Wurst v7 /WurstV7 | https://github.com/Wurst-Imperium/Wurst7                  |
 | Xanax               | https://github.com/PlutoSolutions/Xanax                 |
 | Xannax              | https://github.com/The-Gopro336-Archive/Xannax-master   |
 | Xatzotica           | https://github.com/XatzClient/Xatzotica                 |
