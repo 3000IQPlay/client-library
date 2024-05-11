@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 720
+# Client Collection List - Total Clients: 730
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -15,6 +15,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Abstract            | https://github.com/WMSGaming/Abstract-1.12.2            |
 | Abyss               | https://crystalpvp.ru/abyss/ // https://abyssclient.com // https://github.com/PlutoSolutions/Abyss // https://github.com/PlutoSolutions/AbyssOSS |
 | AbyssBeta           | https://github.com/PlutoSolutions/AbyssBetaEnforcer     |
+| AceHackGold | https://github.com/Wah7/hugefuckinclientcollection/blob/main/AceHackGold-b9-release.jar |
 | Acid                | https://github.com/kyv3-v2/Acid-phobos-edition          |
 | AClient             | https://github.com/KuromeSan/a1.2.2b-hacked-client      |
 | Adequacy | https://github.com/GuangChen2333/Adequacy |
@@ -27,6 +28,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AllahWare           | https://github.com/CumHax/AllahWare                     |
 | Allusion            | https://github.com/cattyngmd/allusion                   |
 | AlulaHack | https://github.com/Auxnos/alulahack |
+| Ambosial | https://github.com/Zyn-Sniper/Ambosial |
 | Ananta              | https://github.com/RitomG69/Ananta                      |
 | AndyClient          | https://github.com/MouathA/AndyClient-SRC               |
 | ApeClient | https://github.com/evaan/ApeClient |
@@ -54,6 +56,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
 | Ayakashi            | https://github.com/MouathA/Ayakashi-unlicensed          |
+| Awsi | https://github.com/FairFunClientz/AwsiClient |
 | Azorius.club | https://github.com/haychk/azorius.club |
 | AzuraX              | https://intent.store // https://github.com/Endemic1337/Azura-Client |
 | Azure               | https://github.com/Intel-i80486-DX4/Azure-For-Everyone  |
@@ -70,8 +73,10 @@ This repository contains a comprehensive list of various clients. Please note th
 | Beer                | https://github.com/IUDevman/Beer                        |
 | BigG                | https://github.com/ImCzf233/BIG-G-decompiled            |
 | BerryBobus          | https://github.com/kyv3-v3/BerryBobus-newrepo           |
+| BestCraft | https://workupload.com/file/VSLysZxTsYb |
 | BigRat              | https://github.com/ZimnyCat/BigRat                      |
 | BlackAndWhite       | https://github.com/AntiCope/reaper-addon                |
+| Blackburn | https://github.com/NicholasBlackburn1/Blackburn-HackedClient |
 | Blackout            | https://github.com/chell-dev/Blackout-3.0               |
 | BladeCore | https://github.com/KuroHere/BladeCore-1.12.2 |
 | BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
@@ -133,6 +138,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CrossSince | https://github.com/shxp3/CrossSine |
 | CrystalClient       | https://github.com/3000IQPlay/crystal-client-src        |
 | Cue                 | https://github.com/SudoDevs-inc/CueClientOld            |
+| CumHack | https://github.com/Wah7/hugefuckinclientcollection/blob/main/cumhack-0.5.4-release.jar |
 | Cupid               | https://github.com/JonaPoka/Cupid-Client-SRC            |
 | Cursa               | https://github.com/epsilonteam/Cursa                    |
 | Curse | https://github.com/KuroHere/CurseClient-Forge |
@@ -146,6 +152,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
 | DebugHack | https://github.com/MysticCat212417/DebugHack |
 | DecClient | https://github.com/MrDuhan/DecClient-Release // https://github.com/limping4jamal/dec-client |
+| DeepCraft | https://workupload.com/file/QwXKDFRwx4j |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
 | Density             | https://github.com/hashPirate/archived-client           |
@@ -160,6 +167,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
 | DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
+| Dracula | https://www.mediafire.com/file/n9aczuem37831ja/Dracula_v5_sign.apk/file |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
@@ -191,6 +199,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ferox               | https://github.com/olliem5/ferox                        |
 | Ferret              | https://github.com/cattyngmd/Ferret                     |
 | FerxaxenMod         | https://github.com/efekoskeroglu/FerxaxenMod-v0.3       |
+| Fex | https://github.com/FexyFex/FexClient |
 | FPSMaster | https://github.com/SuperSkidder/FPSMasterOpenSourceProject |
 | Fira                | https://github.com/cout970/FiraClient                   |
 | Fire                | https://github.com/RealzPrestige/fire                   |
@@ -254,6 +263,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Hearse              | https://cdn.discordapp.com/attachments/685487646197415957/735112124912762960/Hearse_Hack_b-0.5_OBF.jar // https://cdn.discordapp.com/attachments/685487646197415957/735131873042497546/Hearse_0.5_cracked.jar |
 | HeavenClient        | https://github.com/srcgod/HeavenClientCrack             |
 | Helios | https://github.com/HeliosDevelopement/HeliosClient |
+| Helium | https://github.com/dotexe1337/helium-client-1.8 |
 | HemHacks            | https://github.com/Gri11edHam/HamHacks                  |
 | Hephaestus          | https://github.com/Zane2b2t/Hephaestus // https://github.com/Frontear/HephaestusClient            |
 | Hiassi.su           | https://github.com/3000IQPlay/hiassi.su                 |
@@ -290,6 +300,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Impact              | https://impactclient.net                                |
 | Impact+ / ImpactPlus | https://github.com/unfidelity/impact-plus               |
 | ImpHack / ImpHax    | https://github.com/SaberAspect/ImpHax                   |
+| Inch | https://github.com/RayyanStudios/KnightHack/blob/main/KnightHack.jar |
 | Incoming            | https://github.com/KillAura7170/Incoming-nix            |
 | Indium.cc           | https://github.com/OfficialMohalk/Indium.cc             |
 | Inertia             | https://inertiaclient.com                               |
@@ -374,6 +385,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Lumina Client | https://github.com/LuminaDevelopment/LuminaClient |
 | Luna | https://github.com/NoseFlicker/Luna-master |
 | LuneClient          | https://github.com/SuperSkidder/LuneClient              |
+| Lunix | https://github.com/calisvalis1010/Lunix/tree/master/releases |
 | Lycoris | https://github.com/VVriter/Lycoris-client-leak |
 | Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader|
 | Lynx                | https://github.com/Based-devs/Lynx                      |
@@ -399,6 +411,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Meteor+ / MeteorPlus | https://github.com/Nekiplay/MeteorPlus                  |
 | MethodClient        | https://github.com/danmaster2/MethodClient              |
 | MetteroV2           | https://github.com/1bytes-sb/MeteorV2                   |
+| MHack | https://github.com/Xiloe/mHack |
 | Miku                | https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC        |
 | Minced              | https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2) |
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
@@ -407,6 +420,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mirai               | https://github.com/kylerittenhause/mirai-client-decompiled |
 | Misericordia | https://github.com/Halqq/misericordia-client |
 | Moloch.su           | https://github.com/Canonball90/moloch.su // https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su |
+| ML | https://www.mediafire.com/file/4co4ptsi2o8392h/MLClient%2528newest%2529.apk/file |
 | Momentum            | https://github.com/momentumdevelopment/momentum         |
 | MoneyMod+2 / MoneyModPlusTwo | https://github.com/PlutoSolutions/moneymodplus2-src     |
 | MoneyMod+3 / MoneyModPlusThree | https://github.com/mr-nv/moneymodplus3 // https://github.com/doctor-swag/moneymod-rewrite |
@@ -442,6 +456,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | NightWare+ / NightWarePlus | https://github.com/quangtien1/Nightware-Plus-Hacked-Client |
 | NightX              | https://github.com/Aspw-w/NightX-Client                 |
 | NineHack            | https://github.com/ninethousand9000/ninehackv1          |
+| NG | https://github.com/DeadtrosGaming/NG-Client/
 | Noat Wurst+2 / Noat WurstPlusTwo | https://github.com/kool-kuhm-klients/noat-wurstplus-two |
 | NobleSix            | https://github.com/helloworldSB/NobleSixHL32K // https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar |
 | NoobHack            | https://github.com/NoobHackLol/NoobHack                 |
@@ -671,6 +686,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
 | Virgin | https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Voltage | https://github.com/daenieal/voltage |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
@@ -700,6 +716,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Xanax               | https://github.com/PlutoSolutions/Xanax                 |
 | Xannax              | https://github.com/The-Gopro336-Archive/Xannax-master   |
 | Xatzotica           | https://github.com/XatzClient/Xatzotica                 |
+| XClient | https://www.mediafire.com/file/7ekappgtmkeaed3/XClient3.1-NPStringFog.apk/file |
 | Xdolf               | https://github.com/sudofox/xdolf                        |
 | Xeno                | https://github.com/3000IQPlay/Xeno-Client // https://github.com/Sxmurai/xeno-client-buildable |
 | Xenophyre           | https://github.com/KRYMZ0N/Xenophyre                    |
