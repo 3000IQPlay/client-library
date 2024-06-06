@@ -390,7 +390,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | McDonald            | https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC |
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
-| Melon | https://github.com/KgDW/Melon-leaks |
+| Melon | https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
 | MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
 | MemeWare            | https://github.com/whosthatperson/MemeWare...-one-last-time |
 | MeowHack            | https://github.com/NotKronos/meowhack                   |
