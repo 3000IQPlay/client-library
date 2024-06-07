@@ -134,6 +134,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CrystalClient       | https://github.com/3000IQPlay/crystal-client-src        |
 | Cue                 | https://github.com/SudoDevs-inc/CueClientOld            |
 | Cupid               | https://github.com/JonaPoka/Cupid-Client-SRC            |
+| CurryMod | https://github.com/Logging4J/CurryMod |
 | Cursa               | https://github.com/epsilonteam/Cursa                    |
 | Curse | https://github.com/KuroHere/CurseClient-Forge |
 | Cute                | https://github.com/4wl/Cute                             |
