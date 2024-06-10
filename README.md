@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 724
+# Client Collection List - Total Clients: 725
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -212,6 +212,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | FrostBurn | https://github.com/evaan/FrostBurn |
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
+| Fusion | https://github.com/deadshxll/fusion |
 | Future              | https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
 | FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
 | Fyra | https://github.com/Sxmurai/fyra |
