@@ -574,6 +574,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
+| Shoreline | https://github.com/KuroHere/shoreline |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
 | Sigma               | https://www.sigmajello.ga/downloads                     |
