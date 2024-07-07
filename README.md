@@ -435,6 +435,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neptune | https://github.com/Volcan4436/Neptune-Client // https://github.com/RickyTheRacc/neptuneforeveryone // https://github.com/SoftWaren1/Neptune-New |
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
+| NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
 | Nexus | https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
