@@ -424,6 +424,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MotClient           | https://github.com/WarriorCrystal/MotClient-Buildeable-SRC |
 | Mousse              | https://github.com/Snoworange420/Mousse                 |
 | Muffin              | https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE |
+| Mushroom | https://github.com/WalmartSolutions/Mushroom-SRC |
 | MythClient          | https://github.com/LocalChineseMan/MythClient           |
 | Nadia | https://github.com/NotHarper/Nadia |
 | Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
@@ -435,7 +436,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
-| Nexus | https://github.com/StephenIsTaken/NexusClient |
+| Nexus | https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
 | Nhack4              | https://github.com/funtimeonly990/nhack4                |
@@ -589,6 +590,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Skill               | https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar |
 | SkilledClient       | https://github.com/pesshown/Skilled-Client-v3           |
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
+| Slack | https://github.com/WalmartSolutions/Slack-b1.0 |
 | Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
 | Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
 | Sloth | https://github.com/WalmartSolutions/Sloth |
