@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 728
+# Client Collection List - Total Clients: 729
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -155,6 +155,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DestroySquad        | https://github.com/jabask3dd3r/DestroySquad-src-leak    |
 | Devu                | https://github.com/4wl/Devu                             |
 | DHMClient           | https://github.com/hf2kxn/DHMClient                     |
+| DiabloX | https://github.com/WalmartSolutions/DiabloX-1.1.3 |
 | Distance            | https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open |
 | Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
 | Dope                | https://github.com/ssverify/dope-ghost-2.0              |
