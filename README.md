@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 735
+# Client Collection List - Total Clients: 736
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -459,6 +459,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
 | November | https://github.com/WalmartSolutions/November-3.03 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
+| NullPoint | https://github.com/KgDW/NullPoint-Fabric |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
 | NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
