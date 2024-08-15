@@ -165,6 +165,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
+| DulyClient | https://github.com/VortexHFM/DulyClient |
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
 | Elementars.com      | https://github.com/Elementars/Elementars.com            |
 | Elypsa | https://github.com/ferderplays/ElypsaClient |
@@ -388,6 +389,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MahanWare           | https://github.com/OldReposRIP/Mahan-Ware-b9-Leak       |
 | Manjaro | https://github.com/tuskypaster/Manjaro-Client |
 | MarlowClient | https://github.com/MarlowDevelopment/MarlowClient |
+| MasterMind | https://github.com/Snowiiii/MasterMind |
 | MatHax              | https://github.com/Volcan4436/Mathax-2.0-Unreleased-Dev-Source // https://github.com/LordDoom-eng/MatHax-Client-Legacy // https://github.com/antonchu2006/MatHaxClient // https://github.com/CoolLucy12321/Installer |
 | MawouteClient       | https://github.com/VenuzWeeb/mawoutehack                |
 | MayhemClient        | https://github.com/martin010919/Mayhem_client           |
@@ -396,6 +398,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
 | Melon | https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
+| MelodySky | https://github.com/sora-kawaii/MelodySky |
 | MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
 | MemeWare            | https://github.com/whosthatperson/MemeWare...-one-last-time |
 | MeowHack            | https://github.com/NotKronos/meowhack                   |
@@ -416,6 +419,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Momentum            | https://github.com/momentumdevelopment/momentum         |
 | MoneyMod+2 / MoneyModPlusTwo | https://github.com/PlutoSolutions/moneymodplus2-src     |
 | MoneyMod+3 / MoneyModPlusThree | https://github.com/mr-nv/moneymodplus3 // https://github.com/doctor-swag/moneymod-rewrite |
+| MonkeClient | https://github.com/TheDarkLach/monke-client |
 | MonkeyClient        | https://github.com/TheDarkLach/monke-client             |
 | MonSoon             | https://intent.store // https://monsoon.wtf             |
 | Moon                | https://github.com/master7720/moon-leak                 |
@@ -429,6 +433,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mousse              | https://github.com/Snoworange420/Mousse                 |
 | Muffin              | https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE |
 | Mushroom | https://github.com/WalmartSolutions/Mushroom-SRC |
+| Myau | github.com/safecracks/myau/myau_july-2024_fishcracked.jar |
 | MythClient          | https://github.com/LocalChineseMan/MythClient           |
 | Nadia | https://github.com/NotHarper/Nadia |
 | Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
@@ -490,6 +495,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PandoraHack         | https://github.com/jam-in-a-jar/PandoraHack-for-everyone |
 | Paragon             | https://github.com/Wolfsurge/Paragon                    |
 | Past                | https://github.com/olliem5/past                         |
+| PastiqueV2 | https://github.com/RubberDucky5/PastiqueV2 |
 | Penguin             | https://github.com/funtimeonly990/Penguin-Client        |
 | PepsiMod            | https://github.com/Team-Pepsi/pepsimod                  |
 | PerryPhobos         | https://github.com/Eralp232/PerryPhobos-Latest          |
