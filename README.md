@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 735
+# Client Collection List - Total Clients: 736
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -125,6 +125,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Cosmos              | https://github.com/momentumdevelopment/cosmos           |
 | CousinWare          | https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated |
 | Cr33pyWare          | https://github.com/SkidFxcte/Cr33pyware                 |
+| Cracked | https://github.com/XG2025-Akaishin/Cracked-1.20.4-Continue |
 | Cranberry           | https://github.com/Snoworange420/Cranberry              |
 | CreeperClient | https://github.com/BigShotEmzy/Creeper-Client-Legacy |
 | Creepy Salhack      | https://github.com/CreepyOrb924/creepy-salhack          |
@@ -336,6 +337,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Koks                | https://github.com/Schummel-Software/Koks-v3 // https://outuby.space/schummel-software/ // https://github.com/000000000-1/koks-client |
 | Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ // https://github.com/PlutoSolutions/KonasEnhanced |
 | Konc                | https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip |
+| Korppu | https://github.com/0mlml/korppu |
 | Kull                | https://github.com/Sxmurai/kull                         |
 | Kura | https://github.com/dyzjct/Kura-Public |
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
@@ -407,6 +409,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MetteroV2           | https://github.com/1bytes-sb/MeteorV2                   |
 | Miku                | https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC        |
 | Minced              | https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2) |
+| Minced 1.20.4 | https://github.com/tuskev1ch/minced-1.20.4 |
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
 | MinusBounce | https://github.com/MinusMC/MinusBounce |
 | Mio                 | https://github.com/asphyxia1337/mioclient-me            |
@@ -461,6 +464,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
 | November | https://github.com/WalmartSolutions/November-3.03 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
+| NullPoint | https://github.com/KgDW/NullPoint-Fabric |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
 | NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
@@ -507,7 +511,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
+| Prestige | https://gitlab.com/3000IQPlay/Prestige // https://github.com/Negro-Development/Prestige-src // https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -528,11 +532,13 @@ This repository contains a comprehensive list of various clients. Please note th
 | Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
 | RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
 | RavenB- / RavenBMinus | https://github.com/WalmartSolutions/RavenB-v9 // https://github.com/WalmartSolutions/RavenB-Latest // https://github.com/WalmartSolutions/RavenB-Old2 // https://github.com/WalmartSolutions/RavenB-Old |
-| RavenB+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
-| RavenB++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
-| RavenB+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
-| RavenN+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
-| RavenO++ / RavenOPlusPlus | https://github.com/ItzzOwo/RavenOPlusPlus |
+| Raven B+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
+| Raven B++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
+| Raven B+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
+| Raven BS | https://github.com/Strangerrrs/Raven-bS |
+| Raven N+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
+| Raven O++ / RavenOPlusPlus | https://github.com/ItzzOwo/RavenOPlusPlus |
+| Raven XD | https://github.com/xia-mc/Raven-XD |
 | RavenWeave          | https://github.com/PianoPenguin471/RavenWeave           |
 | Razmorozka          | https://github.com/amfero/razmorozka                    |
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
@@ -583,7 +589,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SHGR                | https://github.com/KamiSkidder/shgr-client              |
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
-| Shoreline | https://github.com/KuroHere/shoreline |
+| Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
 | Sigma               | https://www.sigmajello.ga/downloads                     |
@@ -684,7 +690,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
-| Virgin | https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Virgin | https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
