@@ -505,7 +505,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
+| Prestige | https://gitlab.com/3000IQPlay/Prestige // https://github.com/Negro-Development/Prestige-src // https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -684,7 +684,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
-| Virgin | https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Virgin | https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
