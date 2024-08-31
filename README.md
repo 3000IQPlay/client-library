@@ -223,6 +223,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Galactie            | https://github.com/maxgamesNL/Galactite                 |
 | GameSense / GS      | https://github.com/IUDevman/gamesense-client            |
 | GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/TechAle/gsplusplus                   |
+| Gardenia | https://github.com/ProfKambing/Gardenia |
 | Garuff              | https://github.com/desuboruto/Garuff                    |
 | GateClient | https://github.com/TheF1xer/GateClient |
 | GateClient 1.19.2 | https://github.com/TheF1xer/GateClient-1.19.2 |
