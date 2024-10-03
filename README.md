@@ -605,7 +605,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Skill               | https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar |
 | SkilledClient       | https://github.com/pesshown/Skilled-Client-v3           |
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
-| Slack | https://github.com/WalmartSolutions/Slack-b1.0 |
+| Slack | https://github.com/DGVPSH/SlackOpen // https://github.com/WalmartSolutions/Slack-b1.0 |
 | Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
 | Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
 | Sloth | https://github.com/WalmartSolutions/Sloth |
