@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 743
+# Client Collection List - Total Clients: 744
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -699,6 +699,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | W1seHack            | https://github.com/pineapplebby/w1sehack-public         |
 | Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
 | WebHack             | https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack |
+| Warden | https://github.com/WalmartSolutions/Warden-3.2 |
 | WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
 | WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
 | Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
