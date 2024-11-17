@@ -242,7 +242,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
 | GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
-| Gothaj | https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
+| Gothaj | https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
 | GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
@@ -447,7 +447,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
-| Nexus | https://github.com/WalmartSolutions/Nexus-1.0 |
+| Nexus | https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
 | Nhack4              | https://github.com/funtimeonly990/nhack4                |
