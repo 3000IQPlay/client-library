@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 744
+# Client Collection List - Total Clients: 746
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -23,6 +23,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AgonyClient         | https://github.com/VortexHFM/Agony-Client               |
 | AidsHack            | https://github.com/Dino-log/AidsHack                    |
 | AimWhere            | https://github.com/Potion1337/AimWhere-Source-Code      |
+| Alien | https://github.com/iM4dCat/Alien |
 | AllahClient | https://github.com/pablushaa/AllahClient // https://github.com/pablushaa/AllahClient_old |
 | AllahWare           | https://github.com/CumHax/AllahWare                     |
 | Allusion            | https://github.com/cattyngmd/allusion                   |
@@ -447,7 +448,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
-| Nexus | https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
+| Nexus | https://github.com/StephenIsTaken/NexusOpen // https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
 | Nhack4              | https://github.com/funtimeonly990/nhack4                |
@@ -592,6 +593,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
+| ShrimpHack | https://github.com/King-Sonder-dev/ShrimpHack |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
 | Sigma               | https://www.sigmajello.ga/downloads                     |
 | Sikiskenkurt.CC | https://github.com/MustafaTheRage/sikiskenkurt.cc-client |
