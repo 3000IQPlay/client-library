@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 746
+# Client Collection List - Total Clients: 747
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -684,6 +684,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | VectorClient | https://github.com/VectorClient/Vector-Releases |
+| Vegaline | https://github.com/WalmartSolutions/VegaLine-00067E |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
