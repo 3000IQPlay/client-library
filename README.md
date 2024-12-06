@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 747
+# Client Collection List - Total Clients: 745
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -177,6 +177,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
 | Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
 | Evangelion          | https://github.com/BebSxy/Evangelion                    |
+| Evaware | https://github.com/WalmartSolutions/Evaware-3.1 |
 | EvliEye             | https://github.com/GSCSDSUN/EvliEye-OpenSource          |
 | Evo                 | https://github.com/WarriorCrystal/Evo                   |
 | Exception | https://github.com/Cookie-Studio/Exception |
@@ -694,7 +695,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
-| Virgin | https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Virgin | https://github.com/WalmartSolutions/Virgins-1.5.0 // https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
