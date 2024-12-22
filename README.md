@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 746
+# Client Collection List - Total Clients: 747
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -37,6 +37,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aquarius            | https://github.com/epsilonteam/Aquarius                 |
 | Arctic              | https://github.com/Pseudonymous000/Arctic-Client        |
 | Ares                | https://github.com/AresClient/ares                      |
+| Argon | https://github.com/LvStrnggg/argon |
 | ArchWare            | https://github.com/kisman2000/ArchWare                  |
 | Arsenic | https://github.com/ArsenicClient/Arsenic |
 | Arsenic             | https://github.com/BlebDaPleb/ArsenicClient             |
