@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 745
+# Client Collection List - Total Clients: 746
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -244,7 +244,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GodClient           | https://github.com/VortexHFM/God-Client                 |
 | GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
-| Gothaj | https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
+| Gothaj | https://github.com/ScRichard/GOTHAJ_RECODE_UNRELEASED // https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
 | GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
@@ -520,6 +520,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Progreso | https://github.com/ya-ilya/progreso |
 | ProtoHax            | https://github.com/hax0r31337/ProtoHax                  |
 | Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
+| Pulse | https://github.com/WalmartSolutions/Pulse-1.0.3 |
 | Pulsive             | https://intent.store                                    |
 | PureHack            | https://github.com/Mathrandom7910/PureHack              |
 | Pyro                | https://www.pyroclient.com // https://crystalpvp.ru/pyro/ // https://github.com/PlutoSolutions/Pyro |
