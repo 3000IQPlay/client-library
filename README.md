@@ -127,7 +127,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Cosmos              | https://github.com/momentumdevelopment/cosmos           |
 | CousinWare          | https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated |
 | Cr33pyWare          | https://github.com/SkidFxcte/Cr33pyware                 |
-| Cracked | https://github.com/XG2025-Akaishin/Cracked-1.20.4-Continue |
+| Cracked | https://github.com/primewk/future-skid // https://github.com/XG2025-Akaishin/Cracked-1.20.4-Continue |
 | Cranberry           | https://github.com/Snoworange420/Cranberry              |
 | CreeperClient | https://github.com/BigShotEmzy/Creeper-Client-Legacy |
 | Creepy Salhack      | https://github.com/CreepyOrb924/creepy-salhack          |
