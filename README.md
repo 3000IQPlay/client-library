@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 748
+# Client Collection List - Total Clients: 755
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -450,6 +450,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
+| Neverdies | https://github.com/primewk/neverdies-leak |
 | NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
 | Nexus | https://github.com/StephenIsTaken/NexusOpen // https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
@@ -516,7 +517,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://gitlab.com/3000IQPlay/Prestige // https://github.com/Negro-Development/Prestige-src // https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
+| Prestige | https://github.com/lattiahirvio/prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://github.com/Negro-Development/Prestige-src // https://prestigeclient.vip // https://github.com/WalmartSolutions/Prestige-src // https://github.com/WalmartSolutions/Prestige // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -648,6 +649,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Supermacy           | https://github.com/master7720/Supermacy-client-1.8.jar-leaked |
 | Sushi               | https://github.com/Toshimichi0915/sushi-client          |
 | Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
+| Sydney | https://github.com/primewk/Sydney-leak |
 | Syracuse            | https://github.com/killerkong24/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-NextGen/tree/master // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
 | Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
 | Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
@@ -681,6 +683,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | TuxHack             | https://github.com/Tux8068/TuxHack                      |
 | Uranium             | https://github.com/maywr/uranium                        |
 | Urmomia             | https://github.com/Urmomia/urmomia-client               |
+| Uop.cc | https://github.com/browsky300/uop.cc |
 | UwUGod | https://github.com/Torono909-archive/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI | https://github.com/yandhi/uzi-1-12 |
 | UZI Client | https://github.com/Unicode01/UZI-Client |
@@ -699,6 +702,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
 | Virgin | https://github.com/WalmartSolutions/Virgins-4.4 // https://github.com/WalmartSolutions/Virgins-1.5.0 // https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
+| Vonware | https://github.com/primewk/vonware-deobf |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
