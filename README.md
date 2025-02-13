@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 757
+# Client Collection List - Total Clients: 758
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -93,6 +93,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Boze                | https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
 | BozoWare | https://github.com/Kobley/Bozoware |
 | Breeze | https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA // https://crystalpvp.ru/breeze |
+| BTHack | https://github.com/Ferra13671/BThack |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
 | BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
 | C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
