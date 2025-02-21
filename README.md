@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 758
+# Client Collection List - Total Clients: 763
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -77,7 +77,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Blackout            | https://github.com/chell-dev/Blackout-3.0               |
 | BladeCore | https://github.com/KuroHere/BladeCore-1.12.2 |
 | BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
-| Blessed | https://github.com/Librry1337/Blessed-Client-1.16.5 |
+| Blessed | https://github.com/Librry1337/Blessed-Client-1.16.5 // https://github.com/Librry1337/Blessed-Client-1.16.5 |
 | BLM                 | https://github.com/blmclient/client                     |
 | BloodHack           | https://github.com/gerald0mc/bloodhack                  |
 | BloodyClient        | https://github.com/WalmartSolutions/Bloody-1.0.1 // https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0 // https://github.com/WalmartSolutions/BloodyClient-0.4.4 // https://github.com/PlutoSolutions/BloodyClient |
@@ -96,6 +96,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BTHack | https://github.com/Ferra13671/BThack |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
 | BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
+| Byte Utility | https://github.com/danny-125/Byte-Utility-Mod |
 | C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
 | CakeClient          | https://github.com/GandelXIV/Cake-client                |
 | Calypso             | https://github.com/Gav06/Calypso                        |
@@ -172,6 +173,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DulyClient | https://github.com/VortexHFM/DulyClient |
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
 | Elementars.com      | https://github.com/Elementars/Elementars.com            |
+| Elite | https://github.com/Aspw-w/Elite-Client |
 | Elypsa | https://github.com/ferderplays/ElypsaClient |
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
@@ -282,6 +284,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Huzuni+2 / HuzuniPlusTwo | https://github.com/Huzuniplus/Huzuniplus2               |
 | Hydra               | https://hydraclient.com                                 |
 | HydraWare           | https://github.com/aglostic/hydraware-cracked           |
+| HydraWare Plus / HydraWare+ | https://github.com/SkidFxcte/Hydrawareplus-cracked |
 | Hydrogen            | https://github.com/zPeanut/Hydrogen                     |
 | HyghLand.cc         | https://github.com/chris2rich/highland.cc               |
 | HyperLethal         | https://github.com/500thousandthenibounceit/Hyperlethal2 // https://github.com/3arthx/Hyper-Lethal |
@@ -346,6 +349,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Korppu | https://github.com/0mlml/korppu |
 | Kull                | https://github.com/Sxmurai/kull                         |
 | Kura | https://github.com/dyzjct/Kura-Public |
+| Kura NextGen | https://github.com/ApertureStatic/KuraNG-Public-Edition |
 | KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
 | KVN | https://github.com/WalmartSolutions/KVN-b4.1.0 |
 | Kyino | https://github.com/WalmartSolutions/Kyino |
@@ -402,6 +406,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MaywrWare           | https://github.com/maywr/maywrware                      |
 | McDonald            | https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC |
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
+| MCPClient | https://github.com/wrrulosdev/mcpclient |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
 | Melon | https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
 | MelodySky | https://github.com/sora-kawaii/MelodySky |
@@ -453,7 +458,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
 | Neverdies | https://github.com/primewk/neverdies-leak |
-| NeverHook           | https://github.com/decausedinside/NeverHook-Premium-SRC |
+| NeverHook           | https://github.com/ffa0xqz/NeverHook-Reborn-v0.8-src // https://github.com/decausedinside/NeverHook-Premium-SRC |
 | Nexus | https://github.com/StephenIsTaken/NexusOpen // https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
@@ -652,7 +657,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Supermacy           | https://github.com/master7720/Supermacy-client-1.8.jar-leaked |
 | Sushi               | https://github.com/Toshimichi0915/sushi-client          |
 | Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
-| Sydney | https://github.com/primewk/Sydney-leak |
+| Sydney | https://github.com/sydney-client/Sydney-Legacy |
 | Syracuse            | https://github.com/killerkong24/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-NextGen/tree/master // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
 | Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
 | Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
@@ -690,7 +695,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | UwUGod | https://github.com/Torono909-archive/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI | https://github.com/yandhi/uzi-1-12 |
 | UZI Client | https://github.com/Unicode01/UZI-Client |
-| Vape V4 | https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
+| Vape V4 / VapeV4 | https://github.com/RandomVapeUser/Vape-4.17 // https://github.com/Spec-JohnXina/Vape-v4.16 // https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | VectorClient | https://github.com/VectorClient/Vector-Releases |
