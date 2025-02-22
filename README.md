@@ -223,7 +223,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
 | FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
 | Fusion | https://github.com/deadshxll/fusion |
-| Future              | https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
+| Future              | https://github.com/TwoNick/future-1.21.1 // https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
 | FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
 | Fyra | https://github.com/Sxmurai/fyra |
 | Galacticc | https://github.com/Kopamed/Galacticc |
