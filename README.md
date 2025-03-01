@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 769
+# Client Collection List - Total Clients: 770
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -410,7 +410,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
 | MCPClient | https://github.com/wrrulosdev/mcpclient |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
-| Melon | https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
+| Melon | https://github.com/dyyibang/MelonRewrite-OpenSourceCode // https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
 | MelodySky | https://github.com/sora-kawaii/MelodySky |
 | MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
 | MemeWare            | https://github.com/whosthatperson/MemeWare...-one-last-time |
@@ -480,7 +480,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
 | November | https://github.com/WalmartSolutions/November-3.03 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
-| NullPoint | https://github.com/KgDW/NullPoint-Fabric |
+| NullPoint | https://github.com/dyyibang/NullPoint-Client // https://github.com/KgDW/NullPoint-Fabric |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
 | NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
@@ -564,6 +564,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
 | Reaper              | https://github.com/AntiCope/reaper-addon                |
 | Rebirth             | https://github.com/FinLemonKe/RebirthClient // https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth // https://github.com/KgDW/Rebirth-deobf-decomp-buildable |
+| Rebirth Nextgen | https://github.com/dyyibang/Rebirth-Nextgen-Public |
 | reDACTED | https://github.com/paramkudle/reDACTED |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
