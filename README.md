@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 763
+# Client Collection List - Total Clients: 769
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -8,6 +8,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | 06dWare             | https://github.com/GentlemanMC/Xulu-06dware             |
 | 1.19 Client         | https://github.com/zopac/1.19-client                    |
 | 303Hack / ThreeZeroThreeHack | https://github.com/MikuSoCute/ThreeZeroThreeHack             |
+| 404 | https://github.com/dada994a/404-leak |
 | 3arthh4ck / Phobos Newbase | https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck |
 | 5C | https://github.com/calicosun258/5c-client-N |
 | 711.club            | https://github.com/master7720/711.club                  |
@@ -361,7 +362,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | LBounce             | https://github.com/AFterNode/LBounce                    |
 | Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
-| Lemon | https://github.com/MikuSoCute/Lemon-public |
+| Lemon | https://github.com/dada994a/lemon-v0.0.8Source // https://github.com/MikuSoCute/Lemon-public |
+| Lemonade | https://github.com/dada994a/LEMONADE-LEAK |
 | Lepton | https://github.com/MatrixAura/Lepton-Client |
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
 | LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
@@ -435,6 +437,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MonSoon             | https://intent.store // https://monsoon.wtf             |
 | Moon                | https://github.com/master7720/moon-leak                 |
 | MoonGod | https://github.com/redvx/MoonGod |
+| Moonlight | https://github.com/dada994a/moonlight-1.5.0 |
 | Moonlight           | https://github.com/Gav06/Moonlight                      |
 | Moonlight           | https://crystalpvp.ru/moonlight/ // https://github.com/PlutoSolutions/Moonlight |
 | Moonlight (Meadows) | https://github.com/kawaiizenbo/MoonlightMeadows |
@@ -457,7 +460,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
 | Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
 | NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
-| Neverdies | https://github.com/primewk/neverdies-leak |
+| Neverdies | https://github.com/dada994a/Neverdies-old // https://github.com/primewk/neverdies-leak |
 | NeverHook           | https://github.com/ffa0xqz/NeverHook-Reborn-v0.8-src // https://github.com/decausedinside/NeverHook-Premium-SRC |
 | Nexus | https://github.com/StephenIsTaken/NexusOpen // https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
@@ -493,6 +496,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
 | Opal | https://github.com/WalmartSolutions/Opal-1.6 |
+| Opium | https://github.com/dada994a/Opium-buildableScd |
 | Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
 | ORH | https://github.com/VVriter/ORH |
 | Oringo              | https://github.com/Negro-Development/OringoClient-Cracked |
@@ -500,6 +504,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Osiris              | https://github.com/DarkiBoi/Osiris                      |
 | Osiris+ / OsirisPlus | https://github.com/THCFree/client                       |
 | Outrage             | https://github.com/yallxe/outrage                       |
+| Ovaq Reborn | https://github.com/dada994a/OvaqReborn |
 | Override            | https://github.com/Syamu0120/Override                   |
 | OwnedWare           | https://github.com/Own3dM3/OwnedWare-leacked            |
 | OyVey               | https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3 |
@@ -570,7 +575,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Reznya              | https://github.com/ZimnyCat/reznya                      |
 | Rift                | https://github.com/3000IQPlay/Rift-Client-1.0.3-Src     |
 | Rich                | https://github.com/decausedinside/Rich-Client-Free-Source-Code |
-| Rise                | https://riseclient.com // https://anonfiles.com/6a7bnaZ1ye/Rise_6_0_master_zip // https://github.com/tuskypaster/Rise-Client-Source |
+| Rise                | https://github.com/dada994a/Rise-Latest-Source-leak // https://riseclient.com // https://anonfiles.com/6a7bnaZ1ye/Rise_6_0_master_zip // https://github.com/tuskypaster/Rise-Client-Source |
 | Rocan               | https://github.com/MrsRina/Official-Rocan // https://github.com/4wl/rocan-main |
 | RockEZHack          | https://github.com/oyzipfile/rockEZHack                 |
 | RockStar            | https://github.com/ConeTin/rockstar-free                |
@@ -710,7 +715,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
 | Violet              | https://github.com/noatmc/violet                        |
 | Virgin | https://github.com/WalmartSolutions/Virgins-4.4 // https://github.com/WalmartSolutions/Virgins-1.5.0 // https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
-| Vonware | https://github.com/primewk/vonware-deobf |
+| Vonware | https://github.com/dada994a/vonware-4.1.0-clean // https://github.com/primewk/vonware-deobf |
 | Vox                 | https://github.com/Rabies1337/Vox                       |
 | VydraHack | https://github.com/VVriter/VydraHack |
 | Vrpos               | https://github.com/cocoapc911/Vrpos                     |
@@ -732,6 +737,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | WintWare            | https://github.com/noom1337/WintWare-source-code        |
 | WizClient | https://github.com/its-wiz/WizClient |
 | WOO                 | https://github.com/maywr/WOO-Buildable                  |
+| Wonderwhale.ng | https://github.com/dada994a/wonderwhale_ng |
 | WubzMod             | https://github.com/dkonis/WubzMod                       |
 | Wurst- / WurstMinus | https://github.com/TheReal3rd/WurstMinus-Public         |
 | Wurst+1 / WurstPlusOne | https://github.com/TrvsF/wurstplus-one                  |
