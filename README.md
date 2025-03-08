@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 797
+# Client Collection List - Total Clients: 800
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -167,6 +167,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DHMClient           | https://github.com/hf2kxn/DHMClient                     |
 | DiabloX | https://github.com/WalmartSolutions/DiabloX-1.1.3 |
 | Distance            | https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open |
+| Dog Client | https://github.com/src-leaker/dog-client // https://crystalpvp.ru/dog |
 | Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
 | Dope                | https://github.com/ssverify/dope-ghost-2.0              |
 | DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
@@ -185,6 +186,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
 | Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
 | EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
+| Estension | https://github.com/Megaline233/estension |
 | Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
 | Evangelion          | https://github.com/BebSxy/Evangelion                    |
 | Evaware | https://github.com/WalmartSolutions/Evaware-3.1 |
@@ -522,6 +524,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OwnedWare           | https://github.com/Own3dM3/OwnedWare-leacked            |
 | OyVey               | https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3 |
 | OyVey+ / OyVeyPlus  | https://github.com/BigJayMuffinSkidsShit/OyVeyPlus      |
+| OyVey Rewrite | https://github.com/jiyun233/OyveyRewrite |
 | Ozark               | https://github.com/Trambled/OzarkClient                 |
 | PandoraHack         | https://github.com/jam-in-a-jar/PandoraHack-for-everyone |
 | Paragon             | https://github.com/Wolfsurge/Paragon                    |
