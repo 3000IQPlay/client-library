@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 800
+# Client Collection List - Total Clients: 803
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -197,6 +197,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Existent            | https://github.com/Rabies1337/Existent-Old              |
 | Expensive           | https://expensiveclient.xyz // https://github.com/tuskypaster/Expensive-Client |
 | Experium            | https://github.com/3000IQPlay/Experium                  |
+| Extazyy | https://github.com/0xFruzz/Extazyy-1.20.1 |
 | ExVision            | https://github.com/Nutelaspaceman/exvision-b1-cracked   |
 | FabricHax           | https://github.com/pranavgade20/FabricHax               |
 | Fabuls | https://github.com/WalmartSolutions/Fabuls-1.0 |
@@ -495,6 +496,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
 | November | https://github.com/WalmartSolutions/November-3.03 |
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
+| NullHack | https://github.com/xiguajerry/NullHack |
 | NullPoint | https://github.com/hashdiana/NullPoint-Client // https://github.com/dyyibang/NullPoint-Client // https://github.com/KgDW/NullPoint-Fabric // https://github.com/2young2care/Nullpoint-v2.1.3 |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
@@ -793,6 +795,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zodiac              | https://github.com/cattyngmd/zodiac                     |
 | Zori                | https://github.com/slol2/zori-but-actually-good         |
 | Zork                | https://github.com/AckerRun1337/Zork-Client             |
+| ZSpaceHack | https://github.com/ApertureStatic/ZSpaceHack-Public |
 | ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc // https://github.com/ZWareDevelopment/ZWare.cc-Old |
 | Zyklon | https://github.com/jeopardization/Zyklon |
 
