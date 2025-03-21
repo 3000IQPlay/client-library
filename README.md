@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 803
+# Client Collection List - Total Clients: 804
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -93,12 +93,13 @@ This repository contains a comprehensive list of various clients. Please note th
 | BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
 | BossWare            | https://github.com/vertent/bossware-leaked              |
 | BoyKisser | https://github.com/ColdDarkHusky/BoyKisser-Client-1.12.2 |
-| Boze                | https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
+| Boze                | https://github.com/TwoNick/boze // https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
 | BozoWare | https://github.com/Kobley/Bozoware |
 | Breeze | https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA // https://crystalpvp.ru/breeze |
 | BTHack | https://github.com/Ferra13671/BThack // https://github.com/2young2care/BThack-client-for-mobile |
 | BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
 | BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
+| Byte | https://github.com/SyutoBestCoder/Byte-1.21 |
 | Byte Utility | https://github.com/danny-125/Byte-Utility-Mod |
 | C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
 | Caizm | https://github.com/tRollaURa/Caizm |
@@ -726,7 +727,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
 | VectorClient | https://github.com/VectorClient/Vector-Releases |
-| Vegaline | https://github.com/WalmartSolutions/VegaLine-00067E // https://github.com/3000IQPlay/VegaLine-00065D-Hotfix |
+| Vegaline | https://github.com/WalmartSolutions/VegaLine-00078E // https://github.com/WalmartSolutions/VegaLine-00067E // https://github.com/3000IQPlay/VegaLine-00065D-Hotfix |
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/2young2care/Venomhack-1.20.1-update // https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
