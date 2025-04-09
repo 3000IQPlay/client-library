@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 804
+# Client Collection List - Total Clients: 805
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -114,7 +114,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | CatClient           | https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass |
 | CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
 | Catmi               | https://github.com/4wl/Catmi                            |
-| CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |
+| CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |¨
 | CatUtilities | https://github.com/AlQaedaCracks/Cat-Utilities-0.8.4 |
 | CCSHack             | https://github.com/Tr0llMode/CCShack                    |
 | Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
@@ -390,6 +390,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LiquidX             | https://github.com/PrahXZ/LiquidX                       |
 | Lirium | https://github.com/000000000-1/Lirium |
 | ListedHack          | https://github.com/chris2rich/ListedHack                |
+| Litka | https://github.com/WalmartSolutions/Litka |
 | LiveSense           | https://github.com/WMSGaming/LiveSense                  |
 | LmaoBox | https://github.com/Vimer5410/LmaoBox-leak |
 | LoseBypass          | https://losebypass.com // https://github.com/deadLORD135/losebypass-reup          |
