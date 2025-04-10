@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 805
+# Client Collection List - Total Clients: 807
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -757,6 +757,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
 | Wild                | https://www.wildclient.ru                               |
 | Windy               | https://github.com/ImCzf233/windy-opensource            |
+| Wing Client | https://github.com/Tehnicki1/WingClient |
 | Winter              | https://github.com/pvpb0t/Winter                        |
 | WintWare            | https://github.com/noom1337/WintWare-source-code        |
 | WizClient | https://github.com/its-wiz/WizClient |
@@ -779,6 +780,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | XSWare              | https://github.com/XSS6-2b2t/XSWARE-RELEASE             |
 | Xulu                | https://github.com/Elementars/Xulu-v1.5.2 // https://github.com/The-Gopro336-Archive/XULU_Buildable_SRC |
 | Xulu+ / XuluPlus    | https://github.com/master7720/XuluPlus                  |
+| Xyla | https://github.com/Tehnicki1/Xyla |
 | Yasashii            | https://github.com/TerrificTable/Yasashii-Rewrite       |
 | Yee                 | https://cdn.discordapp.com/attachments/689371591976681522/728990362672300042/Yee-Client-B2.4-1.12.2-release.jar // https://cdn.discordapp.com/attachments/695548730664812635/695548986756431912/Yee-Client-2.3-release.jar |
 | YoinkHack           | https://github.com/PlutoSolutions/YoinkHack             |
