@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 808
+# Client Collection List - Total Clients: 809
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -619,6 +619,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Saturn              | https://github.com/Sxmurai/saturn-client                |
 | Saturn / EsoHack Rewrite | https://github.com/cryst-al/oyvey-skids/releases/tag/saturn // https://github.com/Intel-i80486-DX4/esohack-rewrite-upload |
 | Schizoid | https://github.com/Lyzev/Schizoid |
+| Scrim | https://github.com/Tehnicki1/Scrim-Client |
 | Selene              | https://github.com/Canonball90/SeleneLeak               |
 | Seppuku             | https://github.com/seppukudevelopment/seppuku           |
 | Serenity            | https://github.com/KohimaNayagato/Serenity              |
