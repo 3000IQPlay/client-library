@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 809
+# Client Collection List - Total Clients: 800
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -577,6 +577,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Raven B++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
 | Raven B+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
 | Raven BS | https://github.com/Strangerrrs/Raven-bS |
+| Raven BS Alpha | https://github.com/q1/raven-bs-alpha |
 | Raven N+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
 | Raven O++ / RavenOPlusPlus | https://github.com/ItzzOwo/RavenOPlusPlus |
 | Raven XD | https://github.com/xia-mc/Raven-XD |
