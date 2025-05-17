@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 800
+# Client Collection List - Total Clients: 801
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -167,6 +167,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Devu                | https://github.com/4wl/Devu                             |
 | DHMClient           | https://github.com/hf2kxn/DHMClient                     |
 | DiabloX | https://github.com/WalmartSolutions/DiabloX-1.1.3 |
+| Dimasik | https://github.com/WalmartSolutions/Dimasik |
 | Distance            | https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open |
 | Dog Client | https://github.com/src-leaker/dog-client // https://crystalpvp.ru/dog |
 | Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
