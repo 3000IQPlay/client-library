@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 801
+# Client Collection List - Total Clients: 802
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -637,6 +637,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
+| Shoreline NEW | https://github.com/TwoNick/shoreline |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | ShrimpHack | https://github.com/King-Sonder-dev/ShrimpHack |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
