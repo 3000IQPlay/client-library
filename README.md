@@ -641,7 +641,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
-| Shoreline NEW | https://github.com/TwoNick/shoreline |
+| Shoreline NEW | https://github.com/Skitttyy/shoreline-client // https://github.com/TwoNick/shoreline |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | ShrimpHack | https://github.com/King-Sonder-dev/ShrimpHack |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
