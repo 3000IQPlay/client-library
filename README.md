@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 802
+# Client Collection List - Total Clients: 806
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -54,6 +54,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AtomBeta            | https://cdn.discordapp.com/attachments/689371591976681522/727966452900167762/AtomBeta-1.3-ReleasedByCrystallinqq.jar |
 | Atomic              | https://github.com/19MisterX98/Atomic                   |
 | Atrium              | https://github.com/3000IQPlay/Atrium                    |
+| Augustus | https://github.com/TwoNick/augustus |
 | Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
 | Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
@@ -327,6 +328,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | IngrosWare          | https://github.com/bishopsixx/ingrosware // https://github.com/colorblindness/IngrosWare |
 | Invicta             | https://github.com/2b2t-cc/Invicta                      |
 | InvincibilityHack   | https://github.com/Coderx-Gamer/invincibility-hack      |
+| ISUWare | https://github.com/XG2025-Akaishin/ISU-Ware |
 | iSync               | https://intent.store                                    |
 | Jackey              | https://github.com/ImCzf233/Jackey-opensource           |
 | JebHack             | https://github.com/fan4145/jabhak-src                   |
@@ -526,6 +528,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Osiris+ / OsirisPlus | https://github.com/THCFree/client                       |
 | Outrage             | https://github.com/yallxe/outrage                       |
 | Ovaq Reborn | https://github.com/dada994a/OvaqReborn |
+| Ovaq RebornPlus / Ovaq Reborn+ | https://github.com/hypinohaizin/OvaqRebornPlus |
 | Override            | https://github.com/Syamu0120/Override                   |
 | OwnedWare           | https://github.com/Own3dM3/OwnedWare-leacked            |
 | OyVey               | https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3 |
@@ -549,6 +552,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | PistonClient        | https://github.com/AlexProgrammerDE/PistonClient        |
 | Pizza               | https://github.com/AstrqlDev/Pizza-Client               |
 | PocketClient | https://github.com/JMcrafter26/pocket-client |
+| PollosHook | https://github.com/smokedope2k16/polloshook-buildable |
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
