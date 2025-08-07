@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 806
+# Client Collection List - Total Clients: 812
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -177,6 +177,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
+| DrugHack Recode | https://github.com/doickswag/drughack-recode |
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
 | DulyClient | https://github.com/VortexHFM/DulyClient |
 | Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
@@ -263,10 +264,11 @@ This repository contains a comprehensive list of various clients. Please note th
 | GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
 | Gothaj | https://github.com/ScRichard/GOTHAJ_RECODE_UNRELEASED // https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
+| Gothaj NextGen | https://github.com/ScRichard/Gothaj-Next-Gen |
 | GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
-| Grim | https://github.com/WalmartSolutions/Grim-1.2 |
+| Grim | https://github.com/TwoNick/grim // https://github.com/WalmartSolutions/Grim-1.2 |
 | Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
 | GumTune | https://github.com/RoseGoldIsntGay/GumTuneClient |
 | HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
@@ -518,6 +520,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OmegaHack Rewrite | https://github.com/neilhuang007/omegahack-rewrite |
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
+| Onyx | https://github.com/PlayingCow69420/Onyx-Client-Archive |
 | Opal | https://github.com/WalmartSolutions/Opal-1.6 |
 | Opium | https://github.com/dada994a/Opium-buildableScd |
 | Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
@@ -596,6 +599,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Rebirth Nextgen | https://github.com/dyyibang/Rebirth-Nextgen-Public |
 | reDACTED | https://github.com/paramkudle/reDACTED |
 | ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
+| Remnant | https://github.com/miamionthetrack/remnant |
 | RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
 | RenoSenseTwo        | https://github.com/RaddonEnterprises/renosense-cracked  |
 | RerHack.club        | https://github.com/Canonball90/RerHack.club             |
@@ -733,6 +737,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | UwUGod | https://github.com/Torono909-archive/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
 | UZI | https://github.com/yandhi/uzi-1-12 |
 | UZI Client | https://github.com/Unicode01/UZI-Client |
+| Vanadium | https://github.com/TwoNick/vanadium |
 | Vape V4 / VapeV4 | https://github.com/RandomVapeUser/Vape-4.17 // https://github.com/Spec-JohnXina/Vape-v4.16 // https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
 | Vapid               | https://github.com/starcraft66/vapid                    |
 | Vector              | https://github.com/master7720/vector-0.2.9-leak         |
