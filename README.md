@@ -670,7 +670,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | SmartClient         | https://github.com/sssssssthedev/SmartClient            |
 | Smok | https://github.com/SleepyFish-YT/Smok |
 | SMPHack | https://github.com/tanishisherewithhh/Smp-hack |
-| Sn0w                | https://github.com/pineapplebby/sn0w-2.0.0              |
+| Sn0w                | https://github.com/ImLegiitXD/Sn0w // https://github.com/pineapplebby/sn0w-2.0.0              |
 | Snow                | https://github.com/PlutoSolutions/Snow                  |
 | SnowFallWare        | https://github.com/Sn0wNight/SnowFallWare               |
 | SodaWare | https://github.com/s0daa/sodaware |
