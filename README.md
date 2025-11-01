@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 816
+# Client Collection List - Total Clients: 818
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -115,7 +115,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | CatClient           | https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass |
 | CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
 | Catmi               | https://github.com/4wl/Catmi                            |
-| CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |¨
+| Catmi Rewrite | https://github.com/Lily29371/CatmiRewrite |
+| CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |
 | CatUtilities | https://github.com/AlQaedaCracks/Cat-Utilities-0.8.4 |
 | CCSHack             | https://github.com/Tr0llMode/CCShack                    |
 | Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
@@ -177,6 +178,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
+| DrugHack | https://github.com/doickswag/drughack |
 | DrugHack Recode | https://github.com/doickswag/drughack-recode |
 | Duperman            | https://github.com/JAV1F/Project-Dupermen               |
 | DulyClient | https://github.com/VortexHFM/DulyClient |
@@ -470,7 +472,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Mousse              | https://github.com/Snoworange420/Mousse                 |
 | Muffin              | https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE |
 | Mushroom | https://github.com/WalmartSolutions/Mushroom-SRC |
-| Myau | github.com/safecracks/myau/myau_july-2024_fishcracked.jar |
+| Myau | https://github.com/60124808866/OpenMyau |
 | MythClient          | https://github.com/LocalChineseMan/MythClient           |
 | Nadia | https://github.com/NotHarper/Nadia |
 | Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
@@ -701,7 +703,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sushi               | https://github.com/hashdiana/Sushi-Client // https://github.com/Toshimichi0915/sushi-client          |
 | Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
 | Sydney | https://github.com/sydney-client/Sydney-Legacy |
-| Syracuse            | https://github.com/killerkong24/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-NextGen/tree/master // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
+| Syracuse            | https://github.com/stormcoph/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
 | System | https://github.com/DLindustries/System |
 | Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
 | Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
