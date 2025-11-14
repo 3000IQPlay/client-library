@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 818
+# Client Collection List - Total Clients: 819
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -807,6 +807,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
 | Zenith              | https://github.com/Pan4ur/Zenith-client // https://github.com/The-Gopro336-Archive/Zenith-Public   |
+| Zenith | https://github.com/yourefavdev/zenith |
 | Zeon                | https://github.com/CrystalCL/zeon-crack // https://github.com/ZeonDevelopment/Zeon                 |
 | ZeroDay             | https://intent.store                                    |
 | ZeroHack            | https://github.com/panpanadc/Zero-Hack                  |
