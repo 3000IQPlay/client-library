@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 819
+# Client Collection List - Total Clients: 822
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -673,7 +673,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | SmartClient         | https://github.com/sssssssthedev/SmartClient            |
 | Smok | https://github.com/SleepyFish-YT/Smok |
 | SMPHack | https://github.com/tanishisherewithhh/Smp-hack |
-| Sn0w                | https://github.com/ImLegiitXD/Sn0w // https://github.com/pineapplebby/sn0w-2.0.0              |
+| Sn0w                | https://github.com/Skitttyy/Sn0w // https://github.com/ImLegiitXD/Sn0w // https://github.com/pineapplebby/sn0w-2.0.0              |
+| $now / Snow | https://github.com/primewk/snow |
 | Snow                | https://github.com/PlutoSolutions/Snow                  |
 | SnowFallWare        | https://github.com/Sn0wNight/SnowFallWare               |
 | SodaWare | https://github.com/s0daa/sodaware |
@@ -686,6 +687,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Spicy | https://github.com/Spicy-Client/Spicy |
 | SpiderSense         | https://github.com/HausemasterIssue/spidersense         |
 | SplashClient | https://github.com/master7720/SplashClient |
+| Spoon | https://github.com/SpoonClient/Spoon |
 | Stay                | https://github.com/xiguajerry/Stay // https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
 | Stifle              | https://github.com/BadMoXi/Stifle                       |
@@ -806,6 +808,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zamorozka           | https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka |
 | Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
+| Zenith | https://github.com/yourefavdev/zenith |
 | Zenith              | https://github.com/Pan4ur/Zenith-client // https://github.com/The-Gopro336-Archive/Zenith-Public   |
 | Zenith | https://github.com/yourefavdev/zenith |
 | Zeon                | https://github.com/CrystalCL/zeon-crack // https://github.com/ZeonDevelopment/Zeon                 |
