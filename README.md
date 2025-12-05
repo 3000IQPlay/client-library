@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 822
+# Client Collection List - Total Clients: 823
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -201,6 +201,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Exception | https://github.com/Cookie-Studio/Exception |
 | Exeter              | https://github.com/The-Gopro336-Archive/Exeter-1.12.2   |
 | Existent            | https://github.com/Rabies1337/Existent-Old              |
+| ExosWare | https://github.com/levin1337/exosware-1.21.4 |
 | Expensive           | https://expensiveclient.xyz // https://github.com/tuskypaster/Expensive-Client |
 | Experium            | https://github.com/3000IQPlay/Experium                  |
 | Extazyy | https://github.com/0xFruzz/Extazyy-1.20.1 |
