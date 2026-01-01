@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 823
+# Client Collection List - Total Clients: 825
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -18,6 +18,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | AbyssBeta           | https://github.com/PlutoSolutions/AbyssBetaEnforcer     |
 | Acid                | https://github.com/kyv3-v2/Acid-phobos-edition          |
 | AClient             | https://github.com/KuromeSan/a1.2.2b-hacked-client      |
+| Achilles | https://github.com/NoboKik/Achilles |
 | Adequacy | https://github.com/GuangChen2333/Adequacy |
 | Adopted | https://github.com/2young2care/Adopted-client |
 | Agalar              | https://github.com/MrHakan/Agalar-Hack                  |
@@ -341,6 +342,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | JexClient           | https://github.com/DustinRepo/JexClient                 |
 | JigokuSense         | https://github.com/noatmc/jigokusense-leak              |
 | Jigsaw              | https://www.jigsawclient.net                            |
+| JoblessClient | https://github.com/Dovyrn/JoblessClientSrc |
 | JorgitoHack         | https://github.com/BebSxy/JorgitoHack                   |
 | JuiceClient         | https://github.com/ClientPlayground/Juice-Client        |
 | Juul                | https://github.com/jeremypelletier/juul-unlicensed // https://github.com/Endemic1337/Juul // https://intent.store |
