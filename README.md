@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 825
+# Client Collection List - Total Clients: 823
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -571,6 +571,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Progreso | https://github.com/ya-ilya/progreso |
 | ProtoHax            | https://github.com/hax0r31337/ProtoHax                  |
 | Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
+| PubDLC | https://github.com/lgsquen/PubDLC |
 | Pulse | https://github.com/WalmartSolutions/Pulse-1.0.3 |
 | Pulsive             | https://intent.store                                    |
 | PureHack            | https://github.com/Mathrandom7910/PureHack              |
@@ -811,9 +812,8 @@ This repository contains a comprehensive list of various clients. Please note th
 | Zamorozka           | https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka |
 | Zelix               | https://github.com/ImCzf233/zelix-opensource            |
 | ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
-| Zenith | https://github.com/yourefavdev/zenith |
 | Zenith              | https://github.com/Pan4ur/Zenith-client // https://github.com/The-Gopro336-Archive/Zenith-Public   |
-| Zenith | https://github.com/yourefavdev/zenith |
+| Zenith | https://github.com/yourefavdev/zenith // https://github.com/dexoncpvp/zenith |
 | Zeon                | https://github.com/CrystalCL/zeon-crack // https://github.com/ZeonDevelopment/Zeon                 |
 | ZeroDay             | https://intent.store                                    |
 | ZeroHack            | https://github.com/panpanadc/Zero-Hack                  |
