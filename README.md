@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 823
+# Client Collection List - Total Clients: 824
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -229,6 +229,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Floppa              | https://github.com/HausemasterIssue/Floppa-Client-SRC   |
 | Fluidity            | https://github.com/mccheatz/Fluidity                    |
 | Flux                | https://github.com/heedii/flux-addon                    |
+| Fluxus | https://codeberg.org/mldyrax/flux-latest-public |
 | ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook | https://github.com/MikuSoCute/FortniteHook-Public // https://github.com/MikuSoCute/FartniteHook-1.2 |
