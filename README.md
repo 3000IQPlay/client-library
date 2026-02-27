@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 826
+# Client Collection List - Total Clients: 831
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -48,6 +48,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aresnic | https://github.com/ArsenicClient/Arsenic |
 | Arsie               | https://github.com/maywr/arsie-mod-beta                 |
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
+| Astralis | https://github.com/HopefulHorse453/OpenAstralis |
 | Asteria.rip | https://github.com/AsteriaDevelopment/asteria // https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
 | Atani | https://github.com/WalmartSolutions/Atani-0.03 // https://github.com/Atani-Client/client |
@@ -387,7 +388,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LBounce             | https://github.com/AFterNode/LBounce                    |
 | Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
 | Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
-| Lemon | https://github.com/dada994a/lemon-v0.0.8Source // https://github.com/MikuSoCute/Lemon-public |
+| Lemon | https://github.com/220814/Lemon-0.0.9-buildable // https://github.com/dada994a/lemon-v0.0.8Source // https://github.com/MikuSoCute/Lemon-public |
 | Lemonade | https://github.com/dada994a/LEMONADE-LEAK |
 | Lepton | https://github.com/MatrixAura/Lepton-Client |
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
@@ -453,6 +454,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Minced              | https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2) |
 | Minced 1.20.4 | https://github.com/tuskev1ch/minced-1.20.4 |
 | Mint                | https://github.com/RealzPrestige/Mint-Public            |
+| Mint | https://github.com/sydney-client/Mint |
 | MinusBounce | https://github.com/MinusMC/MinusBounce |
 | Mio | https://github.com/TwoNick/mio // https://mioclient.me/ | 
 | Mio (Free) | https://github.com/asphyxia1337/mioclient-me |
@@ -481,6 +483,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Myau | https://github.com/60124808866/OpenMyau |
 | MythClient          | https://github.com/LocalChineseMan/MythClient           |
 | Nadia | https://github.com/NotHarper/Nadia |
+| Nami | https://github.com/NamiDevelopment/nami |
 | Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
 | NanoSense           | https://github.com/Mic2333/NanoSense                    |
 | NClient             | https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient |
@@ -498,6 +501,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Nhack               | https://github.com/whosthatperson/Nhack                 |
 | NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
 | Nhack4              | https://github.com/funtimeonly990/nhack4                |
+| Nicotine | https://github.com/tranarchy/nicotine |
 | NiggaHack           | https://github.com/zopac/niggahack                      |
 | NightClient         | https://cdn.discordapp.com/attachments/688386845062725662/688389070908424287/NightClient.jar |
 | NightWare+ / NightWarePlus | https://github.com/quangtien1/Nightware-Plus-Hacked-Client |
@@ -662,6 +666,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sigma               | https://www.sigmajello.ga/downloads                     |
 | Sikiskenkurt.CC | https://github.com/MustafaTheRage/sikiskenkurt.cc-client |
 | Silence             | https://github.com/chris2rich/SilenceClient             |
+| Silk | https://github.com/antidotxe/silkxd |
 | Sirius              | https://github.com/MrBubblegum/Sirius-Mod               |
 | Skid+ / SkidPlus    | https://github.com/cocoapc911/Skid-Plus-Client          |
 | SkidBounce | https://github.com/ManInMyVan/SkidBounce |
