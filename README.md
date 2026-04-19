@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 831
+# Client Collection List - Total Clients: 837
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -49,6 +49,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Arsie               | https://github.com/maywr/arsie-mod-beta                 |
 | Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
 | Astralis | https://github.com/HopefulHorse453/OpenAstralis |
+| Astera | https://github.com/qzqc/AsteraClient |
 | Asteria.rip | https://github.com/AsteriaDevelopment/asteria // https://github.com/WalmartSolutions/Asteria.rip |
 | Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
 | Atani | https://github.com/WalmartSolutions/Atani-0.03 // https://github.com/Atani-Client/client |
@@ -191,7 +192,9 @@ This repository contains a comprehensive list of various clients. Please note th
 | Elite | https://github.com/Aspw-w/Elite-Client |
 | Elypsa | https://github.com/ferderplays/ElypsaClient |
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
+| Enhance | https://github.com/cutepuppy73/enhance-client |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
+| Epitaph | https://github.com/BynBangsAlts/epitaph-crack |
 | Epitaph | https://github.com/2young2care/Epitaph13-1.20.1-crack // https://github.com/2young2care/Epitaph-11-crack |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
 | Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
@@ -233,6 +236,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Fluidity            | https://github.com/mccheatz/Fluidity                    |
 | Flux                | https://github.com/heedii/flux-addon                    |
 | Fluxus | https://codeberg.org/mldyrax/flux-latest-public |
+| Fog | https://github.com/4everdies/fogclient // https://github.com/maththekid/fog-client |
 | ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
 | ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
 | FortniteHook | https://github.com/MikuSoCute/FortniteHook-Public // https://github.com/MikuSoCute/FartniteHook-1.2 |
@@ -439,6 +443,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
 | MCPClient | https://github.com/wrrulosdev/mcpclient |
 | MedusaWare          | https://github.com/4wl/MedusaWare                       |
+| Medved | https://github.com/ghluka/MedvedClient |
 | Melon | https://github.com/dyyibang/MelonRewrite-OpenSourceCode // https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
 | MelodySky | https://github.com/sora-kawaii/MelodySky |
 | MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
@@ -546,6 +551,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Ovaq RebornPlus / Ovaq Reborn+ | https://github.com/hypinohaizin/OvaqRebornPlus |
 | Override            | https://github.com/Syamu0120/Override                   |
 | OwnedWare           | https://github.com/Own3dM3/OwnedWare-leacked            |
+| Oxium | https://github.com/cutepuppy73/oxium-client |
 | OyVey               | https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3 |
 | OyVey+ / OyVeyPlus  | https://github.com/BigJayMuffinSkidsShit/OyVeyPlus      |
 | OyVey Rewrite | https://github.com/jiyun233/OyveyRewrite |
@@ -659,7 +665,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Shid | https://github.com/stever9487/shid-client |
 | Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
 | Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
-| Shoreline NEW | https://github.com/Skitttyy/shoreline-client // https://github.com/TwoNick/shoreline |
+| Shoreline NEW | https://github.com/lolwut2/Shoreline-V2 // https://github.com/Skitttyy/shoreline-client // https://github.com/TwoNick/shoreline |
 | Shrimp              | https://github.com/Aids-dev/shrimp                      |
 | ShrimpHack | https://github.com/King-Sonder-dev/ShrimpHack |
 | SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
