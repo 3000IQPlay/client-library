@@ -194,7 +194,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
 | Enhance | https://github.com/cutepuppy73/enhance-client |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
-| Epitaph | https://github.com/BynBangsAlts/epitaph-crack |
+| Epitaph | https://github.com/TrilliumSolutions/Epitaph // https://github.com/BynBangsAlts/epitaph-crack |
 | Epitaph | https://github.com/2young2care/Epitaph13-1.20.1-crack // https://github.com/2young2care/Epitaph-11-crack |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
 | Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
