@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 837
+# Client Collection List - Total Clients: 84ě
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -98,7 +98,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
 | BossWare            | https://github.com/vertent/bossware-leaked              |
 | BoyKisser | https://github.com/ColdDarkHusky/BoyKisser-Client-1.12.2 |
-| Boze                | https://github.com/TwoNick/boze // https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
+| Boze                | https://github.com/Cooperative-Karaboga/boze-2.0.5-cr4ck // https://github.com/TwoNick/boze // https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
 | BozoWare | https://github.com/Kobley/Bozoware |
 | Breeze | https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA // https://crystalpvp.ru/breeze |
 | BTHack | https://github.com/Ferra13671/BThack // https://github.com/2young2care/BThack-client-for-mobile |
@@ -165,6 +165,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
 | DebugHack | https://github.com/MysticCat212417/DebugHack |
 | DecClient | https://github.com/MrDuhan/DecClient-Release // https://github.com/limping4jamal/dec-client |
+| Delta | https://github.com/CollapseLoader/DeltaClient |
 | Delta               | https://github.com/noatmc/delta                         |
 | Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
 | Density             | https://github.com/hashPirate/archived-client           |
@@ -181,6 +182,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Dope                | https://github.com/ssverify/dope-ghost-2.0              |
 | DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
 | DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
+| Dqrkis | https://github.com/knezoWTF/OpenDqrkis |
 | Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
 | Dream               | https://github.com/Doogie13/Dream-Reupload              |
 | DrugHack | https://github.com/doickswag/drughack |
@@ -398,6 +400,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
 | LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
 | Lime                | https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip |
+| Lite | https://github.com/madeqq/LiteClient |
 | LiquidBounce        | https://github.com/CCBlueX/LiquidBounce                 |
 | LiquidBounce+ / LiquidBouncePlus | https://github.com/WYSI-Foundation/LiquidBouncePlus     |
 | LiquidBounce+ Reborn / LiquidBouncePlus Reborn | https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn |
@@ -537,6 +540,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | OmegaHack Rewrite | https://github.com/neilhuang007/omegahack-rewrite |
 | OnePop              | https://github.com/MrsRina/onepop                       |
 | Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
+| Onyx | https://github.com/OpenAi-Italian-Industries/OpenOnyx |
 | Onyx | https://github.com/PlayingCow69420/Onyx-Client-Archive |
 | Opal | https://github.com/WalmartSolutions/Opal-1.6 |
 | Opium | https://github.com/dada994a/Opium-buildableScd |
@@ -725,6 +729,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Sydney | https://github.com/sydney-client/Sydney-Legacy |
 | Syracuse            | https://github.com/stormcoph/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
 | System | https://github.com/DLindustries/System |
+| SystemDLC | https://github.com/CollapseLoader/SystemDLC |
 | Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
 | Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
 | Tarasande | https://github.com/Sumandora/tarasande |
