@@ -1,4 +1,4 @@
-# Client Collection List - Total Clients: 842
+# Client Collection List - Total Clients: 846
 **MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
@@ -62,6 +62,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
 | Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
 | Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
+| Autism Client | https://github.com/AutismDevelopment/Autism-Client |
 | Ayakashi            | https://github.com/MouathA/Ayakashi-unlicensed          |
 | Azorius.club | https://github.com/haychk/azorius.club |
 | AzuraX              | https://intent.store // https://github.com/Endemic1337/Azura-Client |
@@ -196,7 +197,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Elysian             | https://github.com/WarriorCrystal/Elysian               |
 | Enhance | https://github.com/cutepuppy73/enhance-client |
 | Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
-| Epitaph | https://github.com/TrilliumSolutions/Epitaph // https://github.com/BynBangsAlts/epitaph-crack |
+| Epitaph | https://github.com/Skid-Technology/Epitaph // https://github.com/TrilliumSolutions/Epitaph // https://github.com/BynBangsAlts/epitaph-crack |
 | Epitaph | https://github.com/2young2care/Epitaph13-1.20.1-crack // https://github.com/2young2care/Epitaph-11-crack |
 | Epsilon             | https://github.com/SpartanB312/Epsilon                  |
 | Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
@@ -278,7 +279,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
 | GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
 | Gothaj | https://github.com/ScRichard/GOTHAJ_RECODE_UNRELEASED // https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
-| Gothaj NextGen | https://github.com/ScRichard/Gothaj-Next-Gen |
+| Gothaj NextGen | https://github.com/Skid-Technology/Gothaj // https://github.com/ScRichard/Gothaj-Next-Gen |
 | GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
 | GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
 | GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
@@ -526,6 +527,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
 | NullHack | https://github.com/xiguajerry/NullHack |
 | NullPoint | https://github.com/hashdiana/NullPoint-Client // https://github.com/dyyibang/NullPoint-Client // https://github.com/KgDW/NullPoint-Fabric // https://github.com/2young2care/Nullpoint-v2.1.3 |
+| NullpointerWare | https://github.com/lattiahirvio/NullPointerWare |
 | Nursultan           | http://nursultan.fun                                    |
 | North | https://github.com/WalmartSolutions/North |
 | NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
@@ -577,12 +579,13 @@ This repository contains a comprehensive list of various clients. Please note th
 | PikaHack            | https://cdn.discordapp.com/attachments/738991724793299004/738998489194823736/PikaHack-Owner-master-b9-release.jar |
 | PistonClient        | https://github.com/AlexProgrammerDE/PistonClient        |
 | Pizza               | https://github.com/AstrqlDev/Pizza-Client               |
+| Plutora | https://github.com/Skid-Solutions/Plutora |
 | PocketClient | https://github.com/JMcrafter26/pocket-client |
 | PollosHook | https://github.com/smokedope2k16/polloshook-buildable |
 | PornoClient         | https://github.com/ezhhh/pornoclient                    |
 | Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
 | Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://github.com/lattiahirvio/prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://prestigeclient.vip // https://crystalpvp.ru/prestige |
+| Prestige | https://github.com/Skid-Technology/OpenPrestige // https://github.com/lattiahirvio/prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://prestigeclient.vip // https://crystalpvp.ru/prestige |
 | Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
 | Proactive           | https://github.com/ChompChompDead/Proactive             |
 | Progreso | https://github.com/ya-ilya/progreso |
@@ -688,7 +691,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
 | Slack | https://github.com/DGVPSH/SlackOpen // https://github.com/WalmartSolutions/Slack-b1.0 |
 | Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
-| Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
+| Slinky.gg | https://github.com/Skid-Technology/OpenSlinky // https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
 | Sloth | https://github.com/WalmartSolutions/Sloth |
 | Slu.gg / SluGG      | https://github.com/notRevhacks/Slu.gg-1.0               |
 | SlugClient          | https://github.com/The-Forecaster/Slug-client           |
@@ -775,6 +778,7 @@ This repository contains a comprehensive list of various clients. Please note th
 | Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
 | VenHack             | https://github.com/v0ndy/venhack                        |
 | VenomHack           | https://github.com/2young2care/Venomhack-1.20.1-update // https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
+| Ventura | https://github.com/Skid-Technology/Ventura |
 | Vertex              | https://github.com/AstralDB/VertexClient                |
 | Vertine             | https://github.com/VertineClient/vertine                |
 | VeteranHack         | https://github.com/HausemasterIssue/VeteranHack-Decomp  |
